@@ -1,0 +1,73 @@
+{
+    "el": {
+      "langText": "América Latina",
+      "playerUrl": "https://watch.pokemon.com/es-xl/#/player?id=",
+      "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/el/"
+    },
+    "dk": {
+      "langText": "Danmark",
+      "playerUrl": "https://watch.pokemon.com/da-dk/#/player?id=",
+      "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/dk/"
+    },
+    "es": {
+      "langText": "España",
+      "playerUrl": "https://watch.pokemon.com/es-es/#/player?id=",
+      "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/es/"
+    },
+    "fi": {
+      "langText": "Suomi",
+      "playerUrl": "https://watch.pokemon.com/fi-fi/#/player?id=",
+      "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/fi/"
+    },
+    "fr": {
+      "langText": "France",
+      "playerUrl": "https://watch.pokemon.com/fr-fr/#/player?id=",
+      "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/fr/"
+    },
+    "de": {
+      "langText": "Deutschland",
+      "playerUrl": "https://watch.pokemon.com/de-de/#/player?id=",
+      "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/de/"
+    },
+    "it": {
+      "langText": "Italia",
+      "playerUrl": "https://watch.pokemon.com/it-it/#/player?id=",
+      "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/it/"
+    },
+    "nl": {
+      "langText": "Nederland",
+      "playerUrl": "https://watch.pokemon.com/nl-nl/#/player?id=",
+      "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/nl/"
+    },
+    "no": {
+      "langText": "Norge",
+      "playerUrl": "https://watch.pokemon.com/nb-no/#/player?id=",
+      "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/no/"
+    },
+    "br": {
+      "langText": "Brasil",
+      "playerUrl": "https://watch.pokemon.com/pt-br/#/player?id=",
+      "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/br/"
+    },
+    "ru": {
+      "langText": "Russia",
+      "playerUrl": "https://watch.pokemon.com/ru-ru/#/player?id=",
+      "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/ru/"
+    },
+    "se": {
+      "langText": "UK",
+      "playerUrl": "https://watch.pokemon.com/sv-se/#/player?id=",
+      "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/se/"
+    },
+    "uk": {
+      "langText": "UK",
+      "playerUrl": "https://watch.pokemon.com/en-us/#/player?id=",
+      "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/uk/"
+    },
+    "us": {
+      "langText": "United States",
+      "playerUrl": "https://watch.pokemon.com/en-us/#/player?id=",
+      "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/us/"
+    }
+  }
+  
