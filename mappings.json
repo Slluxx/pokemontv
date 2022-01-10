@@ -55,7 +55,7 @@
       "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/ru/"
     },
     "se": {
-      "langText": "UK",
+      "langText": "Sverige",
       "playerUrl": "https://watch.pokemon.com/sv-se/#/player?id=",
       "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/se/"
     },
