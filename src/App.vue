@@ -277,6 +277,6 @@ export default {
 }
 .iframePlayer {
   width: 100%;
-  height: 500px;
+  height: 450px;
 }
 </style>
