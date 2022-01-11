@@ -6,7 +6,7 @@ jobs:
   build-github-pages:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out gh-pages
+      - name: build github pages
         uses: actions/checkout@v2
         with:
           ref: gh-pages
@@ -46,7 +46,7 @@ jobs:
           branch_mode: throw
           cwd: 'gh-pages'
           default_author: github_actor
-          message: 'GitHub Actions - update API'
+          message: 'GitHub Actions - upload ghpages files'
           pathspec_error_handling: ignore
           pull: '--no-rebase'
           push: true
