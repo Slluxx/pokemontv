@@ -22,8 +22,11 @@ jobs:
           architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
 
       - run: pip install requests
-      - run: python update.py
 
+      - run: cat ./apiData/us.json
+      - run: python update.py
+      - run: cat ./apiData/us.json
+      
       - name: Commit update
         uses: EndBug/add-and-commit@v7.5.0
         with:
