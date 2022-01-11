@@ -1,8 +1,6 @@
- /* eslint-disable */
+/* eslint-disable */
 <template>
   <div id="app">
-  
-
     <b-container class="bv-example-row">
       <b-row v-if="loading">
         <b-col>
@@ -11,37 +9,21 @@
       </b-row>
       <b-row class="mb-5">
         <b-col>
-
-          <b-button
-            disabled
-            variant="primary"
-            v-if="menu == 0"
+          <b-button disabled variant="primary" v-if="menu == 0"
             >Main Menu</b-button
           >
 
-          <b-button
-            variant="primary"
-            v-if="menu == 1"
-            @click="goBackToMenu(0)"
+          <b-button variant="primary" v-if="menu == 1" @click="goBackToMenu(0)"
             >Back to language Selection</b-button
           >
 
-          <b-button
-            variant="primary"
-            v-if="menu == 2"
-            @click="goBackToMenu(1)"
+          <b-button variant="primary" v-if="menu == 2" @click="goBackToMenu(1)"
             >Back to Channels</b-button
           >
 
-          <b-button
-            variant="primary"
-            v-if="menu == 3"
-            @click="goBackToMenu(2)"
+          <b-button variant="primary" v-if="menu == 3" @click="goBackToMenu(2)"
             >Back to Episodes</b-button
           >
-          
-
-
         </b-col>
       </b-row>
 
@@ -49,18 +31,23 @@
         <b-col>
           <b-list-group>
             <b-list-group-item disabled>Select Language</b-list-group-item>
-            <b-list-group-item button v-for="(i,e) in pokemonAPIMapping" :key="e" :disabled="loading"
-            @click="downloadPokemonApi(e)">
-            {{i.langText}}
+            <b-list-group-item
+              button
+              v-for="(i, e) in pokemonAPIMapping"
+              :key="e"
+              :disabled="loading"
+              @click="downloadPokemonApi(e)"
+            >
+              {{ i.langText }}
             </b-list-group-item>
           </b-list-group>
-
         </b-col>
       </b-row>
 
       <b-row v-if="menu == 1">
         <b-col
-          v-for="channel in sortChannels" :key="channel.channel_id"
+          v-for="channel in sortChannels"
+          :key="channel.channel_id"
           cols="12"
           md="4"
           class="d-flex align-items-stretch"
@@ -101,7 +88,8 @@
 
       <b-row v-if="menu == 2">
         <b-col
-          v-for="i in sortEpisodes" :key="i.id"
+          v-for="i in sortEpisodes"
+          :key="i.id"
           cols="12"
           class="d-flex align-items-stretch"
         >
@@ -135,7 +123,6 @@
 
       <b-row v-if="menu == 3">
         <b-col cols="12">
-        
           <iframe
             style="width: 100%; height: 400px"
             :src="getPlayerUrl()"
@@ -147,7 +134,6 @@
 </template>
 
 <script>
-
 export default {
   name: 'App',
   components: {},
@@ -183,30 +169,33 @@ export default {
           return this.pokemonAPI[channel]['media'];
         }
       }
+      return [];
     },
   },
   methods: {
     downloadApiMappings() {
-      console.log("downloadApiMappings");
+      console.log('downloadApiMappings');
       fetch(
         'https://raw.githubusercontent.com/Slluxx/pokemontv/api/mappings.json'
       )
         .then((response) => response.json())
         .then((data) => {
           this.pokemonAPIMapping = data;
-          console.log("api downloaded");
+          console.log('api downloaded');
         });
     },
-    downloadPokemonApi(lang){
+    downloadPokemonApi(lang) {
       this.loading = true;
-      console.log("downloadPokemonApi");
+      console.log('downloadPokemonApi');
       this.selectedChannel = false;
       this.selectedEpisode = false;
       this.pokemonAPI = false;
 
       this.selectedLanguage = lang;
       fetch(
-        'https://raw.githubusercontent.com/Slluxx/pokemontv/api/apiData/'+this.selectedLanguage+'.json'
+        'https://raw.githubusercontent.com/Slluxx/pokemontv/api/apiData/' +
+          this.selectedLanguage +
+          '.json'
       )
         .then((response) => response.json())
         .then((data) => {
@@ -216,47 +205,47 @@ export default {
         });
     },
 
-    goBackToMenu(menuNr){
-      console.log("goBackToMenu", menuNr);
+    goBackToMenu(menuNr) {
+      console.log('goBackToMenu', menuNr);
 
-      if(menuNr == 0){
-          this.selectedLanguage = false;
-          this.selectedChannel = false;
-          this.selectedEpisode = false;
-          this.pokemonAPI = false;
-          this.menu = menuNr;
-      } else if(menuNr == 1){
-          this.selectedChannel = false;
-          this.selectedEpisode = false;
-          this.menu = menuNr;
-      } else if(menuNr == 2){
-          this.selectedEpisode = false;
-          this.menu = menuNr;
-      } else if(menuNr == 3){
-          this.menu = menuNr;
+      if (menuNr == 0) {
+        this.selectedLanguage = false;
+        this.selectedChannel = false;
+        this.selectedEpisode = false;
+        this.pokemonAPI = false;
+        this.menu = menuNr;
+      } else if (menuNr == 1) {
+        this.selectedChannel = false;
+        this.selectedEpisode = false;
+        this.menu = menuNr;
+      } else if (menuNr == 2) {
+        this.selectedEpisode = false;
+        this.menu = menuNr;
+      } else if (menuNr == 3) {
+        this.menu = menuNr;
       }
-
     },
 
-    setChannel(channelId){
-      console.log("setChannel");
+    setChannel(channelId) {
+      console.log('setChannel');
       this.selectedChannel = channelId;
-      this.menu = 2
+      this.menu = 2;
     },
 
     setEpisode(episode) {
-      console.log("setEpisode");
+      console.log('setEpisode');
       this.selectedEpisode = episode.id;
       this.player.offline_url = episode.offline_url;
       this.player.stream_url = episode.stream_url;
       this.player.playerId = episode.id;
-      this.player.playerUrl = this.pokemonAPIMapping[this.selectedLanguage].playerUrl
-      this.menu = 3
+      this.player.playerUrl =
+        this.pokemonAPIMapping[this.selectedLanguage].playerUrl;
+      this.menu = 3;
     },
-    getPlayerUrl(){
-      console.log(this.player.playerUrl + this.player.playerId)
-      return this.player.playerUrl + this.player.playerId
-    }
+    getPlayerUrl() {
+      console.log(this.player.playerUrl + this.player.playerId);
+      return this.player.playerUrl + this.player.playerId;
+    },
   },
 };
 </script>
