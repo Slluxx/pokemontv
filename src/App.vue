@@ -28,19 +28,21 @@
       </b-row>
 
       <b-row v-if="menu == 0" class="mb-5">
-        <b-col>
-          <b-list-group>
-            <b-list-group-item disabled>Select Language</b-list-group-item>
-            <b-list-group-item
-              button
-              v-for="(i, e) in pokemonAPIMapping"
-              :key="e"
-              :disabled="loading"
-              @click="downloadPokemonApi(e)"
-            >
-              {{ i.langText }}
-            </b-list-group-item>
-          </b-list-group>
+        <b-col cols="12" md="6" offset-md="3">
+          <b-card class="shadow">
+            <template #header> Select Language </template>
+            <b-list-group>
+              <b-list-group-item
+                button
+                v-for="(i, e) in pokemonAPIMapping"
+                :key="e"
+                :disabled="loading"
+                @click="downloadPokemonApi(e)"
+              >
+                {{ i.langText }}
+              </b-list-group-item>
+            </b-list-group>
+          </b-card>
         </b-col>
       </b-row>
 
@@ -250,8 +252,8 @@ export default {
       return this.player.playerUrl + this.player.playerId;
     },
     scrollToTop() {
-      window.scrollTo(0,0);
-    }
+      window.scrollTo(0, 0);
+    },
   },
 };
 </script>
