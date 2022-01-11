@@ -230,6 +230,7 @@ export default {
       console.log('setChannel');
       this.selectedChannel = channelId;
       this.menu = 2;
+      this.scrollToTop();
     },
 
     setEpisode(episode) {
@@ -241,11 +242,16 @@ export default {
       this.player.playerUrl =
         this.pokemonAPIMapping[this.selectedLanguage].playerUrl;
       this.menu = 3;
+      this.scrollToTop();
     },
     getPlayerUrl() {
       console.log(this.player.playerUrl + this.player.playerId);
+      this.scrollToTop();
       return this.player.playerUrl + this.player.playerId;
     },
+    scrollToTop() {
+      window.scrollTo(0,0);
+    }
   },
 };
 </script>
