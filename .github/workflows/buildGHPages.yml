@@ -34,7 +34,7 @@ jobs:
         run: ./node_modules/.bin/vue-cli-service build
 
       - name: copy build code from source to pages
-        run: /bin/cp ./source/dist/* ./gh-pages/
+        run: /bin/cp -r ./source/dist/* ./gh-pages/
 
       - name: Commit update
         uses: EndBug/add-and-commit@v7.5.0
