@@ -30,7 +30,7 @@
       <b-row v-if="menu == 0" class="mb-5">
         <b-col cols="12" md="6" offset-md="3">
           <b-card class="shadow">
-            <template #header> Select Language </template>
+            <template #header> Select Country </template>
             <b-list-group>
               <b-list-group-item
                 button
