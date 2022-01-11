@@ -12,6 +12,8 @@ with open('mappings.json') as json_file:
             a_json = json.loads(rContent)
             with open('apiData/' + lang + '.json', 'wb') as f:
                 f.write(rContent)
+            print(mappings[lang]['apiUrl'])
+            print("SUCCESS")
         except:
             print(mappings[lang]['apiUrl'])
             print("Could not be converted to JSON")
