@@ -10,29 +10,38 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: gh-pages
-          path: dist
+          path: gh-pages
 
       - name: Check out source
         uses: actions/checkout@v2
+        with:
+          path: source
 
       - uses: actions/setup-node@v2
         with:
           node-version: '16'
 
-      - run: npm install
-      - run: npm i --save-dev eslint-plugin-vue@next
+      - name: Install dependencies
+        working-directory: ./source
+        run: npm install
 
-      - run: ./node_modules/.bin/vue-cli-service build
+      - name: Install vue-eslint
+        working-directory: ./source
+        run: npm i --save-dev eslint-plugin-vue@next
+
+      - name: build sourcecode
+        working-directory: ./source
+        run: ./node_modules/.bin/vue-cli-service build
 
       - name: Commit update
         uses: EndBug/add-and-commit@v7.5.0
         with:
-          add: './dist'
+          add: './source/dist'
           author_name: Slluxx
           author_email: Slluxx@users.noreply.github.com
           branch: gh-pages
-          branch_mode: create
-          cwd: '.'
+          branch_mode: throw
+          cwd: 'gh-pages'
           default_author: github_actor
           message: 'GitHub Actions - update API'
           pathspec_error_handling: ignore
