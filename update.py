@@ -1,4 +1,4 @@
-import os, json, requests
+import os, json, requests, time
 
 if not os.path.exists('apiData'):
     os.makedirs('apiData')
@@ -11,7 +11,8 @@ headers = {
 with open('mappings.json') as json_file:
     mappings = json.load(json_file)
     for lang in mappings:
-        r = requests.get(mappings[lang]['apiUrl'], headers=headers)
+        
+        r = requests.get(mappings[lang]['apiUrl'] + "?time=" + str(int(time.time()) ), headers=headers)
         rContent = r.content
         try:
             a_json = json.loads(rContent)
