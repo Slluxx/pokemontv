@@ -6,6 +6,12 @@ jobs:
   build-github-pages:
     runs-on: ubuntu-latest
     steps:
+    - name: Checkout GH-Pages
+      uses: actions/checkout@v2
+      with:
+        ref: gh-pages
+        path: dist
+
       - name: Check out repository code
         uses: actions/checkout@v2
 
