@@ -35,7 +35,7 @@
       "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/it/"
     },
     "nl": {
-      "langText": "Nederland",
+      "langText": "Nederlands",
       "playerUrl": "https://watch.pokemon.com/nl-nl/#/player?id=",
       "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/nl/"
     },
@@ -60,12 +60,12 @@
       "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/se/"
     },
     "uk": {
-      "langText": "UK",
+      "langText": "English (Traditional)",
       "playerUrl": "https://watch.pokemon.com/en-us/#/player?id=",
       "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/uk/"
     },
     "us": {
-      "langText": "United States",
+      "langText": "English (Simplified)",
       "playerUrl": "https://watch.pokemon.com/en-us/#/player?id=",
       "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/us/"
     }
