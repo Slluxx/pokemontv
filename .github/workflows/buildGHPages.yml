@@ -9,25 +9,22 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v2
         with:
-          ref: api
+          ref: master
 
-      - name: Set up python 3.x
-        uses: actions/setup-python@v2
+      - uses: actions/setup-node@v2
         with:
-          python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
-          architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
-
-      - run: pip install requests
-      - run: python update.py
+          node-version: '16'
+      - run: npm install
+      - run: ./node_modules/.bin/vue-cli-service build
 
       - name: Commit update
         uses: EndBug/add-and-commit@v7.5.0
         with:
-          add: '.'
+          add: './dist'
           author_name: Slluxx
           author_email: Slluxx@users.noreply.github.com
-          branch: api
-          branch_mode: throw
+          branch: gh-pages
+          branch_mode: create
           cwd: '.'
           default_author: github_actor
           message: 'GitHub Actions - update API'
