@@ -95,7 +95,7 @@
           cols="12"
           class="d-flex align-items-stretch"
         >
-          <b-card no-body class="mb-3 shadow">
+          <b-card no-body class="mb-3 shadow" style="width: 100%">
             <b-row no-gutters>
               <b-col md="6">
                 <b-card-img
