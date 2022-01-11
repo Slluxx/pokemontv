@@ -12,8 +12,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: 'api'
-
-      - run: git pull origin api
+          path: 'api'
 
       - name: Set up python 3.x
         uses: actions/setup-python@v2
@@ -23,10 +22,8 @@ jobs:
 
       - run: pip install requests
 
-      - run: cat ./apiData/us.json
-      - run: python update.py
-      - run: cat ./apiData/us.json
-      
+      - run: cd ./api && python update.py
+
       - name: Commit update
         uses: EndBug/add-and-commit@v7.5.0
         with:
@@ -35,7 +32,7 @@ jobs:
           author_email: Slluxx@users.noreply.github.com
           branch: api
           branch_mode: throw
-          cwd: '.'
+          cwd: './api'
           default_author: github_actor
           message: 'GitHub Actions - update API'
           pathspec_error_handling: ignore
