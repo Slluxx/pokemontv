@@ -60,13 +60,14 @@
             tag="article"
             class="mb-4 shadow"
             no-body
+            header-class="channelCard"
           >
             <template #header>
               {{ channel.channel_name }}
             </template>
             <b-card-img
               :src="channel.channel_images.dashboard_image_1125_1500"
-              style="border-radius: 0px"
+              class="noBorderRadius"
             >
             </b-card-img>
             <b-card-body>
@@ -79,7 +80,7 @@
               <b-button
                 squared
                 variant="primary"
-                style="width: 100%"
+                class="fullWidth"
                 @click="setChannel(channel.channel_id)"
                 >Watch</b-button
               >
@@ -95,7 +96,7 @@
           cols="12"
           class="d-flex align-items-stretch"
         >
-          <b-card no-body class="mb-3 shadow" style="width: 100%">
+          <b-card no-body class="mb-3 shadow fullWidth">
             <b-row no-gutters>
               <b-col md="6">
                 <b-card-img
@@ -112,7 +113,7 @@
                   <b-button
                     squared
                     variant="primary"
-                    style="width: 100%"
+                    class="fullWidth"
                     @click="setEpisode(i)"
                     >Watch</b-button
                   >
@@ -125,10 +126,7 @@
 
       <b-row v-if="menu == 3">
         <b-col cols="12">
-          <iframe
-            style="width: 100%; height: 400px"
-            :src="getPlayerUrl()"
-          ></iframe>
+          <iframe class="iframePlayer" :src="getPlayerUrl()"></iframe>
         </b-col>
       </b-row>
     </b-container>
@@ -266,5 +264,19 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+
+.channelCard {
+  min-height: 4rem;
+}
+.noBorderRadius {
+  border-radius: 0px;
+}
+.fullWidth {
+  width: 100%;
+}
+.iframePlayer {
+  width: 100%;
+  height: 500px;
 }
 </style>
