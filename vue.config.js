@@ -1,3 +1,4 @@
 module.exports = {
-    parallel: false
-  }
+  publicPath: '/pokemontv',
+  parallel: false
+}
