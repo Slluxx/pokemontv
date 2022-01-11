@@ -12,6 +12,10 @@ with open('mappings.json') as json_file:
             a_json = json.loads(rContent)
             with open('apiData/' + lang + '.json', 'wb') as f:
                 f.write(rContent)
+
+            if lang == "us":
+                print(rContent)
+                
         except:
             print(mappings[lang]['apiUrl'])
             print("Could not be converted to JSON")
