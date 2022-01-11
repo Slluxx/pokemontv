@@ -11,7 +11,9 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v2
         with:
-          ref: api
+          ref: 'api'
+
+      - run: git pull origin master
 
       - name: Set up python 3.x
         uses: actions/setup-python@v2
