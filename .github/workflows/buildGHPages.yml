@@ -33,10 +33,13 @@ jobs:
         working-directory: ./source
         run: ./node_modules/.bin/vue-cli-service build
 
+      - name: copy build code from source to pages
+        run: /bin/cp ./source/dist/* ./gh-pages/
+
       - name: Commit update
         uses: EndBug/add-and-commit@v7.5.0
         with:
-          add: './source/dist'
+          add: '.'
           author_name: Slluxx
           author_email: Slluxx@users.noreply.github.com
           branch: gh-pages
