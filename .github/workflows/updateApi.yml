@@ -8,16 +8,7 @@ jobs:
   Update-api-on-branch:
     runs-on: ubuntu-latest
     steps:
-      - name: Set current date as env variable
-        id: set_curr_time
-        run: echo "curr_time=$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
 
-      - name: Changing the cache
-        id: change_cache
-        uses: actions/cache@v2
-        with:
-          key: ${{ runner.os }}-cache-${{ env.curr_time }}
-          path: /
 
       - name: Check out repository code
         uses: actions/checkout@v2
