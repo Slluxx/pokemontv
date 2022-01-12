@@ -1,7 +1,7 @@
 import os, json, requests, time
 
-if not os.path.exists('apiData'):
-    os.makedirs('apiData')
+if not os.path.exists('./apiData'):
+    os.makedirs('./apiData')
 
 
 with open('mappings.json') as json_file:
@@ -11,7 +11,7 @@ with open('mappings.json') as json_file:
 
 
         try:
-            r = requests.get(mappings[lang]['apiUrl'] + "?time=" + currTime, timeout=10)
+            r = requests.get(mappings[lang]['apiUrl'])
             rContent = r.content
         except:
             print("Error getting " + mappings[lang]['apiUrl'])
@@ -19,7 +19,7 @@ with open('mappings.json') as json_file:
 
         try:
             a_json = json.loads(rContent)
-            with open('apiData/' + lang + '.json', 'wb') as f:
+            with open('./apiData/' + lang + '.json', 'wb') as f:
                 f.write(rContent)
         except:
             print(mappings[lang]['apiUrl'])
