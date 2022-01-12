@@ -17,6 +17,7 @@ jobs:
         uses: actions/cache@v2
         with:
           key: ${{ runner.os }}-cache-${{ env.curr_time }}
+          path: /
 
       - name: Check out repository code
         uses: actions/checkout@v2
