@@ -8,15 +8,12 @@ with open('mappings.json') as json_file:
     mappings = json.load(json_file)
     for lang in mappings:
         currTime = str(int(time.time()))
-
-
         try:
-            r = requests.get(mappings[lang]['apiUrl'] + "?time=" + currTime)
+            r = requests.get(mappings[lang]['apiUrl'])
             rContent = r.content
         except:
             print("Error getting " + mappings[lang]['apiUrl'])
             continue
-
         try:
             a_json = json.loads(rContent)
             with open('./apiData/' + lang + '.json', 'wb') as f:
