@@ -1,0 +1,18 @@
+name: tests
+on:
+  workflow_dispatch:
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Set up python 3.x
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+          architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
+
+      - run: pip install requests
+
+      - run: python -c "import requests as A;print(json.loads(A.get('https://www.pokemon.com/api/pokemontv/v2/channels/us/').content)[0])"
