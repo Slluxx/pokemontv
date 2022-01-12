@@ -15,4 +15,4 @@ jobs:
 
       - run: pip install requests
 
-      - run: python -c "import requests as A;print(json.loads(A.get('https://www.pokemon.com/api/pokemontv/v2/channels/us/').content)[0])"
+      - run: python -c "import requests as A;import json;print(json.loads(A.get('https://www.pokemon.com/api/pokemontv/v2/channels/us/').content)[0])"
