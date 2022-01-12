@@ -11,7 +11,7 @@ with open('mappings.json') as json_file:
 
 
         try:
-            r = requests.get(mappings[lang]['apiUrl'])
+            r = requests.get(mappings[lang]['apiUrl'] + "?time=" + currTime)
             rContent = r.content
         except:
             print("Error getting " + mappings[lang]['apiUrl'])
