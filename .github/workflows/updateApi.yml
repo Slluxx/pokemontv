@@ -1,7 +1,7 @@
 name: Update api on branch
 on:
-  schedule:
-    - cron:  '*/20 * * * *'
+#  schedule:
+#    - cron:  '*/20 * * * *'
   workflow_dispatch:
 
 jobs:
