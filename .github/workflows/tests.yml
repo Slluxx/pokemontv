@@ -12,5 +12,5 @@ jobs:
           architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
       - run: pip install requests
       - run: |
-    wget -O index.json https://www.pokemon.com/api/pokemontv/v2/channels/us/
-    python -c "import json;file = open('index.json', 'r', encoding='UTF-8');print(json.load(file)[0])"
+         wget -O index.json https://www.pokemon.com/api/pokemontv/v2/channels/us/
+         python -c "import json;file = open('index.json', 'r', encoding='UTF-8');print(json.load(file)[0])"
