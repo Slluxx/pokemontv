@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: 'api'
-          path: 'api'
+          fetch-depth: 0
 
       - name: Set up python 3.x
         uses: actions/setup-python@v2
@@ -22,21 +22,10 @@ jobs:
 
       - run: pip install requests
 
-      - run: cd ./api && python update.py
+      - run: python update.py
 
-      - name: Commit update
-        uses: EndBug/add-and-commit@v7.5.0
+      - name: Commit & Push changes
+        uses: actions-js/push@master
         with:
-          add: '.'
-          author_name: Slluxx
-          author_email: Slluxx@users.noreply.github.com
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: api
-          branch_mode: throw
-          cwd: './api'
-          default_author: github_actor
-          message: 'GitHub Actions - update API'
-          pathspec_error_handling: ignore
-          pull: 'NO-PULL'
-          push: true
-          remove: ''
-          tag: ''
