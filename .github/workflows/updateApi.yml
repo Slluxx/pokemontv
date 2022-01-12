@@ -8,6 +8,14 @@ jobs:
   Update-api-on-branch:
     runs-on: ubuntu-latest
     steps:
+    - name: Set current date as env variable
+      run: echo "curr_time=$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
+
+    - name: Changing the cache
+      uses: actions/cache@v2
+      with:
+        key: ${{ runner.os }}-cache-${{ env.curr_time }}
+
       - name: Check out repository code
         uses: actions/checkout@v2
         with:
@@ -23,10 +31,9 @@ jobs:
       - run: pip install requests
 
       - run: python update.py
-      - run: ls
 
-#      - name: Commit & Push changes
-#        uses: actions-js/push@master
-#        with:
-#          github_token: ${{ secrets.GITHUB_TOKEN }}
-#          branch: api
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: api
