@@ -11,4 +11,6 @@ jobs:
           python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
           architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
       - run: pip install requests
-      - run: python -c "import requests as A;import json;print(json.loads(A.get('https://www.pokemon.com/api/pokemontv/v2/channels/us/').content)[0])"
+      - run: |
+    wget -O index.json https://www.pokemon.com/api/pokemontv/v2/channels/us/
+    python -c "import json;file = open('index.json', 'r', encoding='UTF-8');print(json.load(file)[0])"
