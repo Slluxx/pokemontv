@@ -23,9 +23,10 @@ jobs:
       - run: pip install requests
 
       - run: python update.py
+      - run: ls
 
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: api
+#      - name: Commit & Push changes
+#        uses: actions-js/push@master
+#        with:
+#          github_token: ${{ secrets.GITHUB_TOKEN }}
+#          branch: api
