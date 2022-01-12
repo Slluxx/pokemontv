@@ -126,7 +126,7 @@
 
       <b-row v-if="menu == 3">
         <b-col cols="12">
-          <iframe class="iframePlayer" :src="getPlayerUrl()"></iframe>
+          <iframe class="iframePlayer" :src="getPlayerUrl()" allowfullscreen></iframe>
         </b-col>
       </b-row>
     </b-container>
@@ -277,7 +277,7 @@ export default {
 }
 .iframePlayer {
   width: 100%;
-  height: 450px;
+  height: 550px;
 }
 .shadow {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.42) !important;
