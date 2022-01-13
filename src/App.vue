@@ -7,6 +7,35 @@
           <b-alert show>Loading...</b-alert>
         </b-col>
       </b-row>
+      <b-row v-if="!loading && menu == 0 && showCountryInfo" class="mb-5">
+        <b-col>
+          <b-card class="text-left">
+            <p>
+              The pokemon API returns data specific to the country it was
+              fetched from. Since all data is fetched from GitHub, it needs to
+              use a proxy to mask the location. Sometimes a proxy doesnt work or
+              a country has no proxy available.
+            </p>
+
+            <p>
+              <b-icon
+                class="h4"
+                icon="check-circle-fill"
+                variant="success"
+              ></b-icon>
+              Data was successfully fetched through a proxy
+            </p>
+            <p>
+              <b-icon
+                class="h4"
+                icon="exclamation-circle-fill"
+                variant="info"
+              ></b-icon>
+              No proxy was available. Some episodes may not be available.
+            </p>
+          </b-card>
+        </b-col>
+      </b-row>
       <b-row class="mb-5">
         <b-col>
           <b-button disabled variant="primary" v-if="menu == 0"
@@ -30,7 +59,17 @@
       <b-row v-if="menu == 0" class="mb-5">
         <b-col cols="12" md="6" offset-md="3">
           <b-card class="shadow">
-            <template #header> Select Country </template>
+            <template #header>
+              Select Country
+              <b-button
+                pill
+                size="sm"
+                variant="primary"
+                style="float: right"
+                @click="toggleCountyInfo()"
+                ><b>?</b></b-button
+              >
+            </template>
             <b-list-group>
               <b-list-group-item
                 button
@@ -40,6 +79,20 @@
                 @click="downloadPokemonApi(e)"
               >
                 {{ i.langText }}
+                <b-icon
+                  v-if="i.lastProxyFetchSuccess"
+                  class="h4"
+                  icon="check-circle-fill"
+                  variant="success"
+                  style="float: right"
+                ></b-icon>
+                <b-icon
+                  v-else
+                  class="h4"
+                  icon="exclamation-circle-fill"
+                  variant="info"
+                  style="float: right"
+                ></b-icon>
               </b-list-group-item>
             </b-list-group>
           </b-card>
@@ -126,7 +179,11 @@
 
       <b-row v-if="menu == 3">
         <b-col cols="12">
-          <iframe class="iframePlayer" :src="getPlayerUrl()" allowfullscreen></iframe>
+          <iframe
+            class="iframePlayer"
+            :src="getPlayerUrl()"
+            allowfullscreen
+          ></iframe>
         </b-col>
       </b-row>
     </b-container>
@@ -144,6 +201,7 @@ export default {
       selectedLanguage: false,
       selectedChannel: false,
       selectedEpisode: false,
+      showCountryInfo: false,
       menu: 0,
       loading: false,
       player: {
@@ -202,6 +260,7 @@ export default {
           this.pokemonAPI = data;
           this.menu = 1;
           this.loading = false;
+          this.scrollToTop();
         });
     },
 
@@ -224,6 +283,7 @@ export default {
       } else if (menuNr == 3) {
         this.menu = menuNr;
       }
+      this.scrollToTop();
     },
 
     setChannel(channelId) {
@@ -251,6 +311,10 @@ export default {
     },
     scrollToTop() {
       window.scrollTo(0, 0);
+    },
+    toggleCountyInfo() {
+      this.scrollToTop();
+      this.showCountryInfo = !this.showCountryInfo;
     },
   },
 };
@@ -281,5 +345,8 @@ export default {
 }
 .shadow {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.42) !important;
+}
+.text-left {
+  text-align: left;
 }
 </style>
