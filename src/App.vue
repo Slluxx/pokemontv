@@ -66,8 +66,9 @@
                 size="sm"
                 variant="primary"
                 style="float: right"
+                class="m-0 p-0 px-2"
                 @click="toggleCountyInfo()"
-                ><b>?</b></b-button
+                >?</b-button
               >
             </template>
             <b-list-group>
@@ -79,20 +80,13 @@
                 @click="downloadPokemonApi(e)"
               >
                 {{ i.langText }}
-                <b-icon
+                <b-badge
                   v-if="i.lastProxyFetchSuccess"
-                  class="h4"
-                  icon="check-circle-fill"
                   variant="success"
                   style="float: right"
-                ></b-icon>
-                <b-icon
-                  v-else
-                  class="h4"
-                  icon="exclamation-circle-fill"
-                  variant="info"
-                  style="float: right"
-                ></b-icon>
+                  >✓</b-badge
+                >
+                <b-badge v-else variant="info" style="float: right">✗</b-badge>
               </b-list-group-item>
             </b-list-group>
           </b-card>
