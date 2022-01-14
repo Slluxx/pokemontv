@@ -18,19 +18,13 @@
             </p>
 
             <p>
-              <b-icon
-                class="h4"
-                icon="check-circle-fill"
-                variant="success"
-              ></b-icon>
+              <b-badge
+                  variant="success"
+                  > All OK</b-badge>
               Data was successfully fetched through a proxy
             </p>
             <p>
-              <b-icon
-                class="h4"
-                icon="exclamation-circle-fill"
-                variant="info"
-              ></b-icon>
+              <b-badge variant="info">Most OK</b-badge>
               No proxy was available. Some episodes may not be available.
             </p>
           </b-card>
@@ -84,9 +78,9 @@
                   v-if="i.lastProxyFetchSuccess"
                   variant="success"
                   style="float: right"
-                  >✓</b-badge
+                  >All OK</b-badge
                 >
-                <b-badge v-else variant="info" style="float: right">✗</b-badge>
+                <b-badge v-else variant="info" style="float: right">Most OK</b-badge>
               </b-list-group-item>
             </b-list-group>
           </b-card>
