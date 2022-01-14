@@ -9331,8 +9331,8 @@
                 "size": 3305098207
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "23",
                 "description": "El hor\u00f3scopo del d\u00eda de la gu\u00eda de Serena predice un mal d\u00eda para nuestros h\u00e9roes. Y esa predicci\u00f3n resulta ser cierta.",
                 "is_country_whitelist": false,
@@ -9381,8 +9381,8 @@
                 "size": 3303814531
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "24",
                 "description": "Una noche lluviosa y una vieja mansi\u00f3n se combinan para ofrecer a nuestros h\u00e9roes una noche para recordar... o no.",
                 "is_country_whitelist": false,
@@ -9431,8 +9431,8 @@
                 "size": 3326693862
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "25",
                 "description": "Nuestros h\u00e9roes han llegado a Ciudad Romantis, y la L\u00edder de Gimnasio les tiene reservado un guardarropa lleno de sorpresas.",
                 "is_country_whitelist": false,
@@ -9481,8 +9481,8 @@
                 "size": 3300083576
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "26",
                 "description": "Ha llegado la hora del combate de Ash contra Valeria en el Gimnasio Romantis y, al parecer, pensar muy deprisa podr\u00eda ser la clave de la victoria de nuestro h\u00e9roe.",
                 "is_country_whitelist": false,
@@ -9531,8 +9531,8 @@
                 "size": 3295498592
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "27",
                 "description": "Tras el duro combate de Ash contra Valeria en el Gimnasio Romantis, el joven Sabino se hace un mont\u00f3n de preguntas.",
                 "is_country_whitelist": false,
@@ -9581,8 +9581,8 @@
                 "size": 3290406587
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "28",
                 "description": "Un descubrimiento inesperado, en su camino hacia Ciudad Fluxus, da a nuestros h\u00e9roes una estimulante oportunidad de ense\u00f1ar.",
                 "is_country_whitelist": false,
@@ -9631,8 +9631,8 @@
                 "size": 3308126424
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "29",
                 "description": "Una carrera inesperada proporciona a nuestros h\u00e9roes la oportunidad de que su miembro m\u00e1s joven alce el vuelo.",
                 "is_country_whitelist": false,
@@ -18565,8 +18565,8 @@
         "channel_name": "Generaciones Pok\u00e9mon",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Desde el Bosque Verde a la Cueva Desenlace, contempla el mundo Pok\u00e9mon como nunca antes lo hab\u00edas visto.",
                 "is_country_whitelist": false,
