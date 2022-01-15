@@ -32,7 +32,7 @@ include $(DEVKITPRO)/libnx/switch_rules
 #---------------------------------------------------------------------------------
 APP_TITLE :=	PokemonTV
 APP_AUTHOR :=	Slluxx
-APP_VERSION :=	1.0.0
+APP_VERSION :=	1.0.1
 
 TARGET		:=	pokemontv
 BUILD		:=	build
