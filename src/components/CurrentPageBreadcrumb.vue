@@ -3,17 +3,17 @@
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb">
         <template v-if="menu == 0">
-          <li class="breadcrumb-item active" aria-current="page">Languages</li>
+          <li class="breadcrumb-item active" aria-current="page">Countries</li>
         </template>
         <template v-else-if="menu == 1">
           <li class="breadcrumb-item">
-            <a href="#" @click="goBackToMenu(0)">Languages</a>
+            <a href="#" @click="goBackToMenu(0)">Countries</a>
           </li>
           <li class="breadcrumb-item active">Channels</li>
         </template>
         <template v-else-if="menu == 2">
           <li class="breadcrumb-item">
-            <a href="#" @click="goBackToMenu(0)">Languages</a>
+            <a href="#" @click="goBackToMenu(0)">Countries</a>
           </li>
           <li class="breadcrumb-item">
             <a href="#" @click="goBackToMenu(1)">Channels</a>
@@ -22,7 +22,7 @@
         </template>
         <template v-else-if="menu == 3">
           <li class="breadcrumb-item">
-            <a href="#" @click="goBackToMenu(0)">Languages</a>
+            <a href="#" @click="goBackToMenu(0)">Countries</a>
           </li>
           <li class="breadcrumb-item">
             <a href="#" @click="goBackToMenu(1)">Channels</a>
