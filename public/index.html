@@ -41,21 +41,9 @@
     <!-- built files will be auto injected -->
     <script async src="//static.getclicky.com/101349542.js"></script>
     <script>
-      window.addEventListener(
-        'hashchange',
-        function () {
-          location.hash = 'noBack';
-        },
-        false
-      );
-
-      window.addEventListener('beforeunload', function (e) {
-        // Cancel the event
-        e.preventDefault(); // If you prevent default behavior in Mozilla Firefox prompt will always be shown
-        // Chrome requires returnValue to be set
-        e.returnValue = '';
-        alert(1);
-      });
+      history.pushState(null, null, window.location.href);
+      history.back();
+      window.onpopstate = () => history.forward();
     </script>
   </body>
 </html>
