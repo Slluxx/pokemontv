@@ -3,7 +3,7 @@
   <div id="app">
     <b-container class="bv-example-row">
       <b-row v-if="loading">
-        <b-col>
+        <b-col cols="12" md="6" offset-md="3">
           <b-alert show>Loading...</b-alert>
         </b-col>
       </b-row>
@@ -18,9 +18,7 @@
             </p>
 
             <p>
-              <b-badge
-                  variant="success"
-                  > All OK</b-badge>
+              <b-badge variant="success"> All OK</b-badge>
               Data was successfully fetched through a proxy
             </p>
             <p>
@@ -30,24 +28,24 @@
           </b-card>
         </b-col>
       </b-row>
-      <b-row class="mb-5">
-        <b-col>
-          <b-button disabled variant="primary" v-if="menu == 0"
-            >Main Menu</b-button
-          >
 
-          <b-button variant="primary" v-if="menu == 1" @click="goBackToMenu(0)"
-            >Back to language Selection</b-button
-          >
-
-          <b-button variant="primary" v-if="menu == 2" @click="goBackToMenu(1)"
-            >Back to Channels</b-button
-          >
-
-          <b-button variant="primary" v-if="menu == 3" @click="goBackToMenu(2)"
-            >Back to Episodes</b-button
-          >
-        </b-col>
+      <b-row class="mb-4">
+        <template v-if="menu == 0">
+          <b-col cols="12" md="6" offset-md="3">
+            <CurrentPageBreadcrumb
+              :menu="menu"
+              @t_goBackToMenu="goBackToMenu"
+            ></CurrentPageBreadcrumb>
+          </b-col>
+        </template>
+        <template v-else>
+          <b-col cols="12">
+            <CurrentPageBreadcrumb
+              :menu="menu"
+              @t_goBackToMenu="goBackToMenu"
+            ></CurrentPageBreadcrumb>
+          </b-col>
+        </template>
       </b-row>
 
       <b-row v-if="menu == 0" class="mb-5">
@@ -80,7 +78,9 @@
                   style="float: right"
                   >All OK</b-badge
                 >
-                <b-badge v-else variant="info" style="float: right">Most OK</b-badge>
+                <b-badge v-else variant="info" style="float: right"
+                  >Most OK</b-badge
+                >
               </b-list-group-item>
             </b-list-group>
           </b-card>
@@ -167,11 +167,13 @@
 
       <b-row v-if="menu == 3">
         <b-col cols="12">
-          <iframe
-            class="iframePlayer"
-            :src="getPlayerUrl()"
-            allowfullscreen
-          ></iframe>
+          <b-card class="shadow" no-body>
+            <iframe
+              class="iframePlayer"
+              :src="getPlayerUrl()"
+              allowfullscreen
+            ></iframe>
+          </b-card>
         </b-col>
       </b-row>
     </b-container>
@@ -179,9 +181,10 @@
 </template>
 
 <script>
+import CurrentPageBreadcrumb from './components/CurrentPageBreadcrumb';
 export default {
   name: 'App',
-  components: {},
+  components: { CurrentPageBreadcrumb },
   data() {
     return {
       pokemonAPI: false,
