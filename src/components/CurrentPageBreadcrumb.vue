@@ -43,7 +43,7 @@ export default {
   props: ['menu'],
   methods: {
     goBackToMenu(nr) {
-      this.$emit('t_goBackToMenu', nr);
+      this.$emit('t-go-back-to-menu', nr);
     },
   },
 };

@@ -34,7 +34,7 @@
           <b-col cols="12" md="6" offset-md="3">
             <CurrentPageBreadcrumb
               :menu="menu"
-              @t_goBackToMenu="goBackToMenu"
+              @t-go-back-to-menu="goBackToMenu"
             ></CurrentPageBreadcrumb>
           </b-col>
         </template>
@@ -42,7 +42,7 @@
           <b-col cols="12">
             <CurrentPageBreadcrumb
               :menu="menu"
-              @t_goBackToMenu="goBackToMenu"
+              @t-go-back-to-menu="goBackToMenu"
             ></CurrentPageBreadcrumb>
           </b-col>
         </template>
