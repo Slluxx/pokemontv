@@ -19136,8 +19136,8 @@
         "channel_name": "Pok\u00e9mon G\u00e9n\u00e9rations",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "De la For\u00eat de Jade \u00e0 la Grotte Coda, red\u00e9couvrez le monde de Pok\u00e9mon comme vous ne l\u2019avez jamais vu !",
                 "is_country_whitelist": false,
@@ -20749,8 +20749,8 @@
                 "size": 360802160
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Organiser une f\u00eate n\u2019est pas une t\u00e2che facile, mais chanter Joyeux Anniversaire n\u2019est pas un probl\u00e8me\u00a0!  Fais plaisir \u00e0 quelqu\u2019un dont c\u2019est l\u2019anniversaire et chante\u00a0!",
                 "is_country_whitelist": false,
