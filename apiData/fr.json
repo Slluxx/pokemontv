@@ -405,8 +405,8 @@
                 "size": 2726883355
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "29",
                 "description": "Sacha est de retour \u00e0 l\u2019Ar\u00e8ne d\u2019Auffrac-les-Cong\u00e8res pour sa revanche, mais le Champion Urup le laissera-t-il briser la glace ?",
                 "is_country_whitelist": false,
@@ -19136,8 +19136,8 @@
         "channel_name": "Pok\u00e9mon G\u00e9n\u00e9rations",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "De la For\u00eat de Jade \u00e0 la Grotte Coda, red\u00e9couvrez le monde de Pok\u00e9mon comme vous ne l\u2019avez jamais vu !",
                 "is_country_whitelist": false,
@@ -21020,7 +21020,7 @@
         "channel_name": "Divertissement Pok\u00e9mon",
         "media": [
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "Aide \u00c9voli \u00e0 retrouver ses amis Pok\u00e9mon qui se sont dispers\u00e9s.",
