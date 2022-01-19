@@ -36,7 +36,7 @@ jobs:
           branch_mode: throw
           cwd: '.'
           default_author: github_actor
-          message: 'GitHub Actions - upload ghpages files'
+          message: 'GitHub Actions - upload api files'
           pathspec_error_handling: ignore
           pull: '--no-rebase'
           push: true
