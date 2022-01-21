@@ -8,7 +8,7 @@
                 "count": 0,
                 "rating": 1,
                 "episode": "",
-                "description": "Entrez\ndans le monde des Zarbi.",
+                "description": "Entrez dans le monde des Zarbi.",
                 "is_country_whitelist": false,
                 "title": "Pok\u00e9mon 3 : Le sort des Zarbi",
                 "season": "",
@@ -48,7 +48,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9S/3iDeb3tSG4OVZ72g-Z8hE6y4C9fQ3CEgQTC2_faho/m3_movie03_eu_fre.mp4",
-                "last_modified": 1642784568,
+                "last_modified": 1642790607,
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sl/zJ2Uqdjg0u_80Sq5bTyBzjlSu-FfndmnguD07G9Kw/m3_movie03_eu_fre-f91f6ae81593dc48eb5557de9d9ff1e440eaabca.m3u8",
                 "captions": "",
                 "id": "aa389861b2864188af581e17676b9ae5",
@@ -66,9 +66,9 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie03/movie03-1660x940-fr.png",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie03/movie03-1660x940-fr.png"
         },
-        "channel_update_date": 1642784568,
+        "channel_update_date": 1642790607,
         "media_type": "movie",
-        "channel_status": ""
+        "channel_status": "Disponible jusqu\u2019au 4 f\u00e9vrier"
     },
     {
         "channel_description": "Des Pok\u00e9mon de type Glace qui n\u2019ont pas froid aux yeux sur TV Pok\u00e9mon.",
@@ -21284,7 +21284,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sR/8RgwFRTFx1nepxQlZK75dvETGoZDu9MntJkopzbRQ/en_deliverable_pikachu_vs_eevee_relay_race.mp4",
-                "last_modified": 1642784568,
+                "last_modified": 1642790607,
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lR/p34gDsRWGOl5iASi0N6q9TO6AbHCF9rBy3MAMA_VI/en_deliverable_pikachu_vs_eevee_relay_race-505fdff31768ee98418bfe29481d54e77a2d204d.m3u8",
                 "captions": "",
                 "id": "2899a44ba2284dfca6dce65407fde5ad",

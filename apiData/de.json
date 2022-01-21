@@ -8,7 +8,7 @@
                 "count": 0,
                 "rating": 1,
                 "episode": "",
-                "description": "Ins\nunbekannte Abenteuer",
+                "description": "Ins unbekannte Abenteuer",
                 "is_country_whitelist": false,
                 "title": "Pok\u00e9mon 3 \u2013 Im Bann der Icognito",
                 "season": "",
@@ -48,7 +48,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9U/LWMKrYGCUSxyxWQkm7GdXKn4qtGfHmc4SDO0JV5x4/m3_german.mp4",
-                "last_modified": 1642783492,
+                "last_modified": 1642790337,
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oS/kun50S8u_WI0rN8HKY--rKY75WtZh9Pq7s8F4I7aE/m3_german-349d88245b62692c5ac7e43e2fa449da496d4ddc.m3u8",
                 "captions": "",
                 "id": "9633e64e643e4963826932ce319e9445",
@@ -576,8 +576,8 @@
                 "size": 2610255752
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "17",
                 "description": "Bei einer Reise zum Mount Lanakila haben unsere Helden Gelegenheit, viel Neues zu lernen und sich auf unerwartete Weise zu entfalten.",
                 "is_country_whitelist": false,
@@ -5081,8 +5081,8 @@
                 "size": 2861041206
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "17",
                 "description": "Bei einer Reise zum Mount Lanakila haben unsere Helden Gelegenheit, viel Neues zu lernen und sich auf unerwartete Weise zu entfalten.",
                 "is_country_whitelist": false,
@@ -6752,8 +6752,8 @@
                 "size": 2716244783
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "2",
                 "description": "Ash und Pikachu gew\u00f6hnen sich langsam an das Leben in der Alola-Region, aber pl\u00f6tzlich werden sie durch einen m\u00e4chtigen Einfluss in ganz neue Bahnen gelenkt!",
                 "is_country_whitelist": false,
