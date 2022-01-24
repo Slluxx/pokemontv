@@ -11294,8 +11294,8 @@
                 "size": 3313231002
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "3",
                 "description": "Ash est\u00e1 deseando atrapar a algunos Pok\u00e9mon de Kalos y, definitivamente, ya no est\u00e1 solo.",
                 "is_country_whitelist": false,
@@ -11344,8 +11344,8 @@
                 "size": 3288383619
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "4",
                 "description": "Durante el viaje de nuestros h\u00e9roes por la regi\u00f3n de Kalos, surgen nuevas y emocionantes amistades con Pok\u00e9mon.",
                 "is_country_whitelist": false,
