@@ -526,8 +526,8 @@
                 "size": 3316632315
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "14",
                 "description": "Es ist Zeit, dass Lilly endlich ihre \u00c4ngste \u00fcberwindet, und ein neuer Freund ist die perfekte Hilfe!",
                 "is_country_whitelist": false,
@@ -576,8 +576,8 @@
                 "size": 2610255752
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "17",
                 "description": "Bei einer Reise zum Mount Lanakila haben unsere Helden Gelegenheit, viel Neues zu lernen und sich auf unerwartete Weise zu entfalten.",
                 "is_country_whitelist": false,
@@ -5081,8 +5081,8 @@
                 "size": 2861041206
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "17",
                 "description": "Bei einer Reise zum Mount Lanakila haben unsere Helden Gelegenheit, viel Neues zu lernen und sich auf unerwartete Weise zu entfalten.",
                 "is_country_whitelist": false,
@@ -6752,8 +6752,8 @@
                 "size": 2716244783
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Ash und Pikachu gew\u00f6hnen sich langsam an das Leben in der Alola-Region, aber pl\u00f6tzlich werden sie durch einen m\u00e4chtigen Einfluss in ganz neue Bahnen gelenkt!",
                 "is_country_whitelist": false,
@@ -7352,8 +7352,8 @@
                 "size": 2605559966
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "14",
                 "description": "Es ist Zeit, dass Lilly endlich ihre \u00c4ngste \u00fcberwindet, und ein neuer Freund ist die perfekte Hilfe!",
                 "is_country_whitelist": false,
