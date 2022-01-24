@@ -7439,8 +7439,8 @@
                 "size": 2728476408
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "2",
                 "description": "Na een vergissing van Ash, belandt zijn Hawlucha in de voorstelling van zijn leven!",
                 "is_country_whitelist": false,
@@ -7639,8 +7639,8 @@
                 "size": 2613544055
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "6",
                 "description": "De wereld is in gevaar en een onwaarschijnlijke groep vijanden moet met elkaar samenwerken om deze te redden!",
                 "is_country_whitelist": false,
@@ -7689,8 +7689,8 @@
                 "size": 2725891424
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "7",
                 "description": "Door een toevallige ontmoeting met een Pok\u00e9mon in nood belanden onze helden in een onverwacht avontuur!",
                 "is_country_whitelist": false,
@@ -12081,8 +12081,8 @@
         "channel_name": "Pok\u00e9mon: Adventures in the Orange Islands",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Misty en Jessie doen mee aan de Koningin van het Prinsessen Festival. Ash en Brock lenen Misty hun Pok\u00e9mon voor het Gevecht en Jessie krijgt lik op stuk ondanks de inzet van een van haar eigen nieuwe Pok\u00e9mon.",
                 "is_country_whitelist": false,
@@ -18573,8 +18573,8 @@
                 "size": 526460065
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Een nieuwe kampioen komt op. Een oude koning keert terug. Een 3000 jaar oud verdriet komt tot een einde.",
                 "is_country_whitelist": false,
