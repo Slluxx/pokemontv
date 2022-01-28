@@ -11194,8 +11194,8 @@
                 "size": 3295177156
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Apr\u00e8s avoir port\u00e9 secours \u00e0 un Pok\u00e9mon bless\u00e9, Sacha accomplit un sauvetage incroyablement courageux dont la ville enti\u00e8re est le t\u00e9moin.",
                 "is_country_whitelist": false,
@@ -21241,8 +21241,8 @@
                 "size": 451203073
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Les \u00e9quipes de Pikachu et d\u2019\u00c9voli se donnent \u00e0 fond dans une course de relais. Quelle \u00e9quipe remportera la course\u00a0? Encourageons-les tous\u00a0!",
                 "is_country_whitelist": false,
@@ -21441,7 +21441,7 @@
                 "size": 587963035
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "Pikachu et \u00c9voli jouent \u00e0 celui qui \u00e9clate le plus de ballons\u00a0! Encourageons-les\u00a0!",
@@ -21791,8 +21791,8 @@
                 "size": 703865531
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Rejoignez Mimiqui alors qu\u2019il explore un manoir rempli d\u2019effrayants Pok\u00e9mon\u00a0!",
                 "is_country_whitelist": false,
