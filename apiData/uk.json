@@ -508,8 +508,8 @@
                 "size": 2633788548
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "39",
                 "description": "When our heroes take a break from special training, a mysterious island offers much more than they bargained for!",
                 "is_country_whitelist": false,
@@ -558,8 +558,8 @@
                 "size": 2689814456
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "29",
                 "description": "Arriving on Scalchop Island, our heroes decide to participate in an unusual competition!",
                 "is_country_whitelist": false,
@@ -20809,8 +20809,8 @@
         "channel_name": "Sing-a-long Songs",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Sing and dance along with Scorbunny!",
                 "is_country_whitelist": false,
@@ -21230,8 +21230,8 @@
         "channel_name": "Pok\u00e9mon Fun",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Take a look at a Pikachu\u2019s morning and find out what kind of routine it goes through.",
                 "is_country_whitelist": false,
@@ -21280,8 +21280,8 @@
                 "size": 423197880
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "It\u2019s Pok\u00e9mon Sports Day! Watch Pok\u00e9mon compete in various games such as foot races, ball tossing, tug-of-war, and jump rope!",
                 "is_country_whitelist": false,
@@ -21330,8 +21330,8 @@
                 "size": 580816998
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Teams of Pikachu and Eevee are giving their best in a relay race. Which team do you think will win the match? Let\u2019s cheer for both of them!",
                 "is_country_whitelist": false,
@@ -21780,8 +21780,8 @@
                 "size": 932521969
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Feel the rhythm and follow along to see if your favorite Pok\u00e9mon is inside one of the rolling Pok\u00e9 Balls!",
                 "is_country_whitelist": false,
