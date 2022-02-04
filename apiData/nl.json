@@ -2847,8 +2847,8 @@
                 "size": 2815920681
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Terwijl onze helden Nebby beter leren kennen, leert Nebby hen ook beter kennen!",
                 "is_country_whitelist": false,
@@ -5518,8 +5518,8 @@
                 "size": 2647816887
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "7",
                 "description": "Een prikkelbare Litten is vastbesloten om eten van anderen te stelen en Ash en Pikachu zijn vastbesloten om te ontdekken waarom!",
                 "is_country_whitelist": false,
@@ -8689,8 +8689,8 @@
                 "size": 2610594691
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "27",
                 "description": "Na het heftige gevecht van Ash met Valerie in de Laverre Gym, heeft Sawyer heel veel vragen.",
                 "is_country_whitelist": false,
@@ -8739,8 +8739,8 @@
                 "size": 2650336211
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "28",
                 "description": "Een toevallige ontdekking onderweg naar Anistar City biedt onze helden een uitdagend leermoment!",
                 "is_country_whitelist": false,
@@ -8789,8 +8789,8 @@
                 "size": 2733120354
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "29",
                 "description": "Een onverwachte race geeft onze helden de gelegenheid om hun nieuwste Pok\u00e9mon de kans te geven zijn vleugels te spreiden!",
                 "is_country_whitelist": false,
@@ -8839,8 +8839,8 @@
                 "size": 2639754224
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "30",
                 "description": "Een rondleiding in een Pok\u00e9bal fabriek verschaft onze helden veel meer dan alleen maar Pok\u00e9bal.",
                 "is_country_whitelist": false,
@@ -17673,8 +17673,8 @@
         "channel_name": "Pok\u00e9mon Generations",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Beleef de Pok\u00e9mon-wereld van Viridian Forest tot Terminus Cave als nooit tevoren!",
                 "is_country_whitelist": false,
@@ -17823,7 +17823,7 @@
                 "size": 782604152
             },
             {
-                "count": 2,
+                "count": 1,
                 "rating": 4,
                 "episode": "",
                 "description": "Vanwege geruchten dat Red Gyarados het Lake of Rage onveilig maken, besluit Lance van de Elite Four op onderzoek uit te gaan.",
@@ -17923,8 +17923,8 @@
                 "size": 699891545
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "De mysterieuze reiziger Eusine verkent de legendes van de Burned Tower van Ecruteak City en de Pok\u00e9mon die uit de as ervan zijn herrezen.",
                 "is_country_whitelist": false,
