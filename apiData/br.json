@@ -7251,7 +7251,7 @@
                     "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep33_ss01.jpg",
                     "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep33_ss01_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/C53OKhfWQzEptXbnEhCgBw/skim/",
+                "skimming_thumbnail_url_base": null,
                 "is_new": false,
                 "country_codes": [
                     "JP",

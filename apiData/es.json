@@ -21669,7 +21669,7 @@
                     "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/generations/rg2_03.jpg",
                     "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/generations/rg2_03_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/aNFvlD23Qm4hNfDFAAB0s8/skim/",
+                "skimming_thumbnail_url_base": null,
                 "is_new": false,
                 "country_codes": [
                     "JP",
