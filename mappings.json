@@ -4,56 +4,56 @@
         "playerUrl": "https://watch.pokemon.com/es-xl/#/player?id=",
         "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/el/",
         "proxyApiUrl": "https://www.proxyscan.io/api/proxy?country=AR&limit=10",
-        "lastProxyFetchSuccess": false
+        "lastProxyFetchSuccess": true
     },
     "dk": {
         "langText": "Danmark",
         "playerUrl": "https://watch.pokemon.com/da-dk/#/player?id=",
         "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/dk/",
         "proxyApiUrl": "https://www.proxyscan.io/api/proxy?country=DK&limit=10",
-        "lastProxyFetchSuccess": false
+        "lastProxyFetchSuccess": true
     },
     "es": {
         "langText": "Espa\u00f1a",
         "playerUrl": "https://watch.pokemon.com/es-es/#/player?id=",
         "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/es/",
         "proxyApiUrl": "https://www.proxyscan.io/api/proxy?country=ES&limit=10",
-        "lastProxyFetchSuccess": false
+        "lastProxyFetchSuccess": true
     },
     "fi": {
         "langText": "Suomi",
         "playerUrl": "https://watch.pokemon.com/fi-fi/#/player?id=",
         "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/fi/",
         "proxyApiUrl": "https://www.proxyscan.io/api/proxy?country=FI&limit=10",
-        "lastProxyFetchSuccess": false
+        "lastProxyFetchSuccess": true
     },
     "fr": {
         "langText": "France",
         "playerUrl": "https://watch.pokemon.com/fr-fr/#/player?id=",
         "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/fr/",
         "proxyApiUrl": "https://www.proxyscan.io/api/proxy?country=FR&limit=10",
-        "lastProxyFetchSuccess": false
+        "lastProxyFetchSuccess": true
     },
     "de": {
         "langText": "Deutschland",
         "playerUrl": "https://watch.pokemon.com/de-de/#/player?id=",
         "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/de/",
         "proxyApiUrl": "https://www.proxyscan.io/api/proxy?country=DE&limit=10",
-        "lastProxyFetchSuccess": false
+        "lastProxyFetchSuccess": true
     },
     "it": {
         "langText": "Italia",
         "playerUrl": "https://watch.pokemon.com/it-it/#/player?id=",
         "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/it/",
         "proxyApiUrl": "https://www.proxyscan.io/api/proxy?country=IT&limit=10",
-        "lastProxyFetchSuccess": false
+        "lastProxyFetchSuccess": true
     },
     "nl": {
         "langText": "Nederland",
         "playerUrl": "https://watch.pokemon.com/nl-nl/#/player?id=",
         "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/nl/",
         "proxyApiUrl": "https://www.proxyscan.io/api/proxy?country=NL&limit=10",
-        "lastProxyFetchSuccess": false
+        "lastProxyFetchSuccess": true
     },
     "no": {
         "langText": "Norge",
@@ -67,34 +67,34 @@
         "playerUrl": "https://watch.pokemon.com/pt-br/#/player?id=",
         "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/br/",
         "proxyApiUrl": "https://www.proxyscan.io/api/proxy?country=BR&limit=10",
-        "lastProxyFetchSuccess": false
+        "lastProxyFetchSuccess": true
     },
     "ru": {
         "langText": "Russia",
         "playerUrl": "https://watch.pokemon.com/ru-ru/#/player?id=",
         "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/ru/",
         "proxyApiUrl": "https://www.proxyscan.io/api/proxy?country=RU&limit=10",
-        "lastProxyFetchSuccess": false
+        "lastProxyFetchSuccess": true
     },
     "se": {
         "langText": "Sverige",
         "playerUrl": "https://watch.pokemon.com/sv-se/#/player?id=",
         "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/se/",
         "proxyApiUrl": "https://www.proxyscan.io/api/proxy?country=SE&limit=10",
-        "lastProxyFetchSuccess": false
+        "lastProxyFetchSuccess": true
     },
     "uk": {
         "langText": "UK",
         "playerUrl": "https://watch.pokemon.com/en-us/#/player?id=",
         "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/uk/",
         "proxyApiUrl": "https://www.proxyscan.io/api/proxy?country=GB&limit=10",
-        "lastProxyFetchSuccess": false
+        "lastProxyFetchSuccess": true
     },
     "us": {
         "langText": "United States",
         "playerUrl": "https://watch.pokemon.com/en-us/#/player?id=",
         "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/us/",
         "proxyApiUrl": "https://www.proxyscan.io/api/proxy?country=US&limit=10",
-        "lastProxyFetchSuccess": false
+        "lastProxyFetchSuccess": true
     }
 }
