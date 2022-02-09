@@ -8902,8 +8902,8 @@
                 "size": 3304147406
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "3",
                 "description": "Le Centre Pok\u00e9mon local a des ennuis, mais nos h\u00e9ros et le Professeur Platane sont l\u00e0 pour offrir leur aide !",
                 "is_country_whitelist": false,
@@ -11102,8 +11102,8 @@
                 "size": 3319462362
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "47",
                 "description": "Les chemins de nos h\u00e9ros se s\u00e9parent, c\u2019est l\u2019heure des adieux, des bons souvenirs, et des projets d\u2019avenir !",
                 "is_country_whitelist": false,
@@ -13794,8 +13794,8 @@
                 "size": 3300979356
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 2,
+                "rating": 5,
                 "episode": "7",
                 "description": "L\u2019occasion se pr\u00e9sente de participer \u00e0 une passionnante course de Rhinocorne, et Sacha est impatient d\u2019essayer !",
                 "is_country_whitelist": false,
@@ -14044,8 +14044,8 @@
                 "size": 3298578056
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "12",
                 "description": "Toujours en route vers la ville de Relifac-le-Haut et le prochain combat d'Ar\u00e8ne de Sacha, nos h\u00e9ros vont devoir affronter un d\u00e9plaisant personnage qui pratique un m\u00e9tier fort peu recommandable !",
                 "is_country_whitelist": false,
@@ -14094,8 +14094,8 @@
                 "size": 3303092301
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "13",
                 "description": "Un simple combat Pok\u00e9mon entre deux Dresseurs en pleine for\u00eat se transforme en une exp\u00e9rience qui va changer la vie d\u2019un jeune gar\u00e7on !",
                 "is_country_whitelist": false,
@@ -14144,8 +14144,8 @@
                 "size": 3307970131
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "14",
                 "description": "Un terrible orage oblige nos h\u00e9ros \u00e0 s\u2019abriter dans un vieux manoir effrayant, qui leur r\u00e9serve une rencontre inattendue !",
                 "is_country_whitelist": false,
@@ -14194,8 +14194,8 @@
                 "size": 3324154562
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "15",
                 "description": "Un malentendu lors d\u2019une nuit de camping se transforme en une formidable occasion de resserrer les liens qui unissent un Dresseur et son Pok\u00e9mon !",
                 "is_country_whitelist": false,
@@ -14244,8 +14244,8 @@
                 "size": 3297880019
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "16",
                 "description": "Une visite dans un Centre Pok\u00e9mon engendre une m\u00e9prise dont nos h\u00e9ros vont avoir le plus grand mal \u00e0 se d\u00e9p\u00eatrer !",
                 "is_country_whitelist": false,
