@@ -897,8 +897,8 @@
                 "size": 1230548763
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Vos rivaux. Peu importe \u00e0 quelle vitesse vous traversez Sinnoh, ils ont toujours de l\u2019avance, vous poussant \u00e0 \u00eatre meilleur. Mais \u00e0 un moment, peu importe qui ils sont, vous devez les affronter avec leurs Pok\u00e9mon.",
                 "is_country_whitelist": false,
@@ -8902,8 +8902,8 @@
                 "size": 3304147406
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "3",
                 "description": "Le Centre Pok\u00e9mon local a des ennuis, mais nos h\u00e9ros et le Professeur Platane sont l\u00e0 pour offrir leur aide !",
                 "is_country_whitelist": false,
@@ -13794,8 +13794,8 @@
                 "size": 3300979356
             },
             {
-                "count": 2,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "7",
                 "description": "L\u2019occasion se pr\u00e9sente de participer \u00e0 une passionnante course de Rhinocorne, et Sacha est impatient d\u2019essayer !",
                 "is_country_whitelist": false,
@@ -14344,8 +14344,8 @@
                 "size": 3298499806
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 2,
+                "rating": 5,
                 "episode": "18",
                 "description": "En arrivant \u00e0 Fort-Vanitas, nos h\u00e9ros se retrouvent impliqu\u00e9s dans une situation sans issue qui prend des proportions dramatiques !",
                 "is_country_whitelist": false,
@@ -14394,8 +14394,8 @@
                 "size": 3299424449
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 2,
+                "rating": 5,
                 "episode": "19",
                 "description": "La Team Rocket n\u2019a pas renonc\u00e9 \u00e0 capturer Pikachu, mais dans l\u2019imm\u00e9diat, l\u2019attention de tous est fix\u00e9e sur un autre puissant Pok\u00e9mon !",
                 "is_country_whitelist": false,
@@ -14444,8 +14444,8 @@
                 "size": 3317732957
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 2,
+                "rating": 5,
                 "episode": "20",
                 "description": "La visite de l\u2019une des institutions de combat les plus fascinantes de la r\u00e9gion de Kalos va fournir \u00e0 nos h\u00e9ros des souvenirs inoubliables et une r\u00e9v\u00e9lation surprenante !",
                 "is_country_whitelist": false,
@@ -14494,8 +14494,8 @@
                 "size": 3316269552
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 2,
+                "rating": 5,
                 "episode": "21",
                 "description": "Nos h\u00e9ros explorent le monde de la Pok\u00e9vision, avec une production \u00e9pique, pleine de surprises cin\u00e9matographiques !",
                 "is_country_whitelist": false,
@@ -23270,8 +23270,8 @@
                 "size": 150032491
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 2,
                 "episode": "",
                 "description": "Tes partenaires Pikachu et \u00c9voli t\u2019ont fait chanter, chanter, chanter, mais n\u2019oublie pas de danser tant que tu es d\u2019humeur\u00a0!",
                 "is_country_whitelist": false,

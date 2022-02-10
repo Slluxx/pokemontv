@@ -10476,8 +10476,8 @@
                 "size": 2718433673
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 2,
                 "episode": "9",
                 "description": "Our heroes are visiting Terminus Cave with hopes of seeing new Pok\u00e9mon, but they're not alone!",
                 "is_country_whitelist": false,
@@ -10626,8 +10626,8 @@
                 "size": 2731716178
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 3,
+                "rating": 5,
                 "episode": "12",
                 "description": "Serena is invited to a dance party for Pok\u00e9mon performers, and there are many surprises in store!",
                 "is_country_whitelist": false,
@@ -13247,8 +13247,8 @@
                 "size": 2716270812
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "16",
                 "description": "A chance meeting with a mystery Pok\u00e9mon performer provides Serena and her Pok\u00e9mon with some priceless advice and support!",
                 "is_country_whitelist": false,
