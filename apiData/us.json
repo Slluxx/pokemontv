@@ -975,8 +975,8 @@
         "channel_name": "Bidoof\u2019s Big Stand",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "A bumbling Bidoof with a tendency to bite off more than it can chew finds itself between a rock and a hard place as it embarks on a journey to find its place in the world.",
                 "is_country_whitelist": false,
@@ -7980,8 +7980,8 @@
                 "size": 2443504741
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "4",
                 "description": "Ash is after his first Pok\u00e9mon in the Alola region, and the adventure that ensues is typical Ash!",
                 "is_country_whitelist": false,
@@ -15693,8 +15693,8 @@
                 "size": 2717411952
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "21",
                 "description": "Ash and friends are exploring the world of Pok\u00e9vision, and it\u2019s chock-full of epic productions and cinematic surprises!",
                 "is_country_whitelist": false,
@@ -15743,8 +15743,8 @@
                 "size": 2719852819
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "22",
                 "description": "A visit by our heroes to an amazing aquarium turns out to reveal the stuff of legends!",
                 "is_country_whitelist": false,
@@ -25426,8 +25426,8 @@
                 "size": 925456681
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "",
                 "description": "Feel the rhythm and follow along to see if your favorite Pok\u00e9mon is inside one of the rolling Pok\u00e9 Balls!",
                 "is_country_whitelist": false,
