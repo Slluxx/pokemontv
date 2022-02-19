@@ -5,7 +5,7 @@
         "channel_name": "Pok\u00e9mon \u2013 Lucario und das Geheimnis von Mew",
         "media": [
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "Als Ash ein Lucario des Altertums freisetzt, muss er\ndas verbitterte Pok\u00e9mon \u00fcberzeugen, zum Helden zu werden und ihm zu helfen, das\nvon einem mutwilligen Mew entf\u00fchrte Pikachu zu befreien.",
@@ -23341,8 +23341,8 @@
                 "size": 360729575
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Eine Party zu veranstalten, ist keine leichte Aufgabe, aber das Geburtstagslied zu singen schon! Mach den Geburtstag von jemandem noch fr\u00f6hlicher, indem du mitsingst!",
                 "is_country_whitelist": false,
@@ -23391,8 +23391,8 @@
                 "size": 149687610
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Eure Partner Pikachu und Evoli lassen euch singen, singen, singen, aber vergesst dabei nicht, auch euer Tanzbein zu schwingen!",
                 "is_country_whitelist": false,
