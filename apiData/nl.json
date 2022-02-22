@@ -226,8 +226,8 @@
                 "size": 2909330436
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "4",
                 "description": "Terwijl Ash twee pakketjes naar het Aether Paradise brengt, komen er drie bekende lastposten tevoorschijn om daar Pok\u00e9mon te vangen.",
                 "is_country_whitelist": false,
@@ -276,8 +276,8 @@
                 "size": 2908605418
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "5",
                 "description": "Een toevallige ontmoeting met een andere trainer geeft Ash en Rowlet nieuwe gevechtservaringen die ze nooit hadden verwacht!",
                 "is_country_whitelist": false,
@@ -9860,8 +9860,8 @@
                 "size": 2728476408
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Na een vergissing van Ash, belandt zijn Hawlucha in de voorstelling van zijn leven!",
                 "is_country_whitelist": false,
@@ -20194,8 +20194,8 @@
                 "size": 535648955
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Er nadert een nieuwe uitdager om zijn abilities te testen tegenover de Elite Four van de regio Kanto. Zal hij zich kunnen bewijzen?",
                 "is_country_whitelist": false,
