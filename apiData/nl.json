@@ -9860,8 +9860,8 @@
                 "size": 2728476408
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "2",
                 "description": "Na een vergissing van Ash, belandt zijn Hawlucha in de voorstelling van zijn leven!",
                 "is_country_whitelist": false,
@@ -17523,8 +17523,8 @@
                 "size": 2803868225
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Ash snelt naar Viridian City met zijn gewonde Pikachu, waar hij Jessie, James en Meowth ontmoet van Team Rocket, evenals Misty, die boos is op Ash omdat hij haar fiets heeft gesloopt.",
                 "is_country_whitelist": false,
@@ -17573,8 +17573,8 @@
                 "size": 2787022334
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "3",
                 "description": "Ash ontdekt en vangt zijn eerste Pok\u00e9mon! Hoewel hij opgewonden is, is Misty vol afschuw over zijn nieuwe Insectsoort Pok\u00e9mon vriend.",
                 "is_country_whitelist": false,
@@ -20194,8 +20194,8 @@
                 "size": 535648955
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Er nadert een nieuwe uitdager om zijn abilities te testen tegenover de Elite Four van de regio Kanto. Zal hij zich kunnen bewijzen?",
                 "is_country_whitelist": false,
