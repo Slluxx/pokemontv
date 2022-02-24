@@ -15415,8 +15415,8 @@
                 "size": 3299407847
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "40",
                 "description": "Es ist der f\u00fcnfte Tag im Sommer Camp von Prof. Platan und das Pok\u00e9mon Orientierungs-Rennen f\u00fchrt unsere Helden zu einer geheimnisvollen Entdeckung!",
                 "is_country_whitelist": false,
@@ -15515,7 +15515,7 @@
                 "size": 3304619633
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "42",
                 "description": "Unsere Helden sind in Yantara City angekommen und Ashs Arena-Kampf gegen Connie steht unmittelbar bevor!",
@@ -15665,8 +15665,8 @@
                 "size": 3308091732
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "45",
                 "description": "W\u00e4hrend eines Aufenthalts im nahe gelegenen Pok\u00e9mon-Center machen unsere Helden Bekanntschaft mit einem Knuddeluff, das auf ungew\u00f6hnliche Art und Weise seinen Aufgaben nachkommt.",
                 "is_country_whitelist": false,
@@ -23341,8 +23341,8 @@
                 "size": 360729575
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Eine Party zu veranstalten, ist keine leichte Aufgabe, aber das Geburtstagslied zu singen schon! Mach den Geburtstag von jemandem noch fr\u00f6hlicher, indem du mitsingst!",
                 "is_country_whitelist": false,
@@ -23391,8 +23391,8 @@
                 "size": 149687610
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Eure Partner Pikachu und Evoli lassen euch singen, singen, singen, aber vergesst dabei nicht, auch euer Tanzbein zu schwingen!",
                 "is_country_whitelist": false,
