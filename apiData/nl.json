@@ -2847,8 +2847,8 @@
                 "size": 2815920681
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Terwijl onze helden Nebby beter leren kennen, leert Nebby hen ook beter kennen!",
                 "is_country_whitelist": false,
@@ -2897,8 +2897,8 @@
                 "size": 2906039730
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "3",
                 "description": "Terwijl onze helden het ene deel van Aether Paradise verkennen, is Team Rocket druk met het ontdekken van een ander deel!",
                 "is_country_whitelist": false,
@@ -9860,8 +9860,8 @@
                 "size": 2728476408
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "2",
                 "description": "Na een vergissing van Ash, belandt zijn Hawlucha in de voorstelling van zijn leven!",
                 "is_country_whitelist": false,
@@ -20194,8 +20194,8 @@
                 "size": 535648955
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Er nadert een nieuwe uitdager om zijn abilities te testen tegenover de Elite Four van de regio Kanto. Zal hij zich kunnen bewijzen?",
                 "is_country_whitelist": false,
@@ -20394,8 +20394,8 @@
                 "size": 651091867
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Wanneer een ongenode gast inbreekt in hun hoofdkwartier moet het Team Magma een race tegen de klok houden om hun ambities te verwezenlijken.",
                 "is_country_whitelist": false,
