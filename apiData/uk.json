@@ -23230,8 +23230,8 @@
         "channel_name": "Sing-a-long Songs",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Are you ready for some Pika-charm? Let\u2019s sing and dance together!",
                 "is_country_whitelist": false,
