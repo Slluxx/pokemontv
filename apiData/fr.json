@@ -789,8 +789,8 @@
                 "size": 1102632831
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Donna, Championne d\u2019Ar\u00e8ne et mannequin extr\u00eamement populaire, s\u2019est toujours efforc\u00e9e d\u2019\u00eatre la meilleure. Elle partage son temps entre ses deux professions, mais Shehroz lui conseille de n\u2019en choisir qu\u2019une si elle veut vraiment \u00eatre la meilleure. Va-t-elle sacrifier un r\u00eave pour que l\u2019autre puisse se r\u00e9aliser ?",
                 "is_country_whitelist": false,
@@ -4681,8 +4681,8 @@
                 "size": 2856137666
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "20",
                 "description": "L'apparition d'un duo de combattants c\u00e9l\u00e8bres va \u00e9veiller des rivalit\u00e9s inattendues.",
                 "is_country_whitelist": false,
@@ -14815,8 +14815,8 @@
                 "size": 3286977115
             },
             {
-                "count": 2,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "37",
                 "description": "Une querelle de famille s\u2019ach\u00e8ve par un formidable travail d\u2019\u00e9quipe !",
                 "is_country_whitelist": false,
@@ -21228,8 +21228,8 @@
                 "size": 782923897
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Une rumeur circule \u00e0 propos d\u2019un L\u00e9viator rouge qui s\u00e8merait la terreur au Lac Col\u00e8re. Peter du Conseil 4 m\u00e8ne l\u2019enqu\u00eate.",
                 "is_country_whitelist": false,
