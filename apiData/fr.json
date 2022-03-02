@@ -3881,8 +3881,8 @@
                 "size": 2847217565
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "4",
                 "description": "Sacha et ses amis sont embarqu\u00e9s dans une nouvelle aventure gr\u00e2ce aux \u00e9tonnants pouvoirs de Doudou. !",
                 "is_country_whitelist": false,
@@ -21228,8 +21228,8 @@
                 "size": 782923897
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Une rumeur circule \u00e0 propos d\u2019un L\u00e9viator rouge qui s\u00e8merait la terreur au Lac Col\u00e8re. Peter du Conseil 4 m\u00e8ne l\u2019enqu\u00eate.",
                 "is_country_whitelist": false,
