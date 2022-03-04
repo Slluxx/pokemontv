@@ -2,7 +2,7 @@
     {
         "channel_description": "",
         "stunt_channel": true,
-        "channel_name": "\u041f\u043e\u043a\u0435\u043c\u043e\u043d: \u0410\u0440\u043a\u0435\u0443\u0441 \u0438 \u0414\u0440\u0430\u0433\u043e\u0446\u0435\u043d\u043d\u044b\u0439 \u041a\u0430\u043c\u0435\u043d\u044c \u0416\u0438\u0437\u043d\u0438",
+        "channel_name": "\u041f\u043e\u043a\u0435\u043c\u043e\u043d: \u0410\u0440\u043a\u0435\u0443\u0441 \u0438 \u0434\u0440\u0430\u0433\u043e\u0446\u0435\u043d\u043d\u044b\u0439 \u043a\u0430\u043c\u0435\u043d\u044c \u0436\u0438\u0437\u043d\u0438",
         "media": [
             {
                 "count": 0,
@@ -66,7 +66,7 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-ru-ru/img/watch-pokemon-tv/pokemon-tv-app/movie12/movie12-1660x940-en.png",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-ru-ru/img/watch-pokemon-tv/pokemon-tv-app/movie12/movie12-1660x940-en.png"
         },
-        "channel_update_date": 1645810475,
+        "channel_update_date": 1646414721,
         "media_type": "movie",
         "channel_status": ""
     },
