@@ -2310,8 +2310,8 @@
                 "size": 3261752443
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "3",
                 "description": "Some unusual activity is occurring around Wela Volcano, but the Ultra Guardians are on the case!",
                 "is_country_whitelist": false,
@@ -5281,8 +5281,8 @@
                 "size": 2674399569
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "8",
                 "description": "Lusamine has been captured by an Ultra Beast and swept away through an Ultra Wormhole, but everyone is determined to get her back safely!",
                 "is_country_whitelist": false,
@@ -9302,8 +9302,8 @@
                 "size": 2371366652
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "40",
                 "description": "Lana and Popplio are working hard to master their Z-Move, but their progress is soon to grow by leaps and bounds!",
                 "is_country_whitelist": false,
