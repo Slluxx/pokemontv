@@ -2310,8 +2310,8 @@
                 "size": 3261752443
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "3",
                 "description": "Some unusual activity is occurring around Wela Volcano, but the Ultra Guardians are on the case!",
                 "is_country_whitelist": false,
@@ -3010,8 +3010,8 @@
                 "size": 3239732854
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "17",
                 "description": "The Pok\u00e9mon School students have one more research project to complete, and it\u2019s sure to generate excitement and electricity for everyone!",
                 "is_country_whitelist": false,
@@ -3210,8 +3210,8 @@
                 "size": 3317863907
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "21",
                 "description": "An appearance on a TV quiz show leads our heroes into a world they only dreamed of!",
                 "is_country_whitelist": false,
@@ -9302,8 +9302,8 @@
                 "size": 2371366652
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "40",
                 "description": "Lana and Popplio are working hard to master their Z-Move, but their progress is soon to grow by leaps and bounds!",
                 "is_country_whitelist": false,
@@ -11056,7 +11056,7 @@
                 "count": 0,
                 "rating": 1,
                 "episode": "31",
-                "description": "Rocket attempts to steal all the water Pok\u00e9mon from the annual Fire and Rescue Grand Prix.",
+                "description": "An unexpected Pok\u00e9mon firefighting competition reunites our heroes with some old friends, the Squirtle Squad! But they are in desperate need of some leadership, so Ash and Squirtle rejoin the ranks.",
                 "is_country_whitelist": false,
                 "title": "The Fire-ing Squad!",
                 "season": "3",
@@ -11097,7 +11097,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mn/zoUjLCatSrIUKC7hZo9vp_oF6Pxej584lK_hA_laU/0342---the-fire-ing-squad.mp4",
-                "last_modified": 1646422457,
+                "last_modified": 1646673542,
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WH/_fk8-DWea5rTMRMPbgXxSz2vxggHoHBQq40uuuUeg/0342---the-fire-ing-squad-63438696ae4d443c1b1528b62deaae0889ceca3f.m3u8",
                 "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WH/_fk8-DWea5rTMRMPbgXxSz2vxggHoHBQq40uuuUeg/vtt/4/en.vtt",
                 "id": "d21d7772be5e4c9abbe09cab467b0072",
@@ -11107,7 +11107,7 @@
                 "count": 0,
                 "rating": 1,
                 "episode": "32",
-                "description": "Ash and friends enthusiastically volunteer to watch over a troubled trainer's school of Wooper.",
+                "description": "When they stumble upon a preschool for Wooper and an emergency calls the teacher away, our heroes come to the rescue! But, as always, Team Rocket is around the corner and up to no good\u2026",
                 "is_country_whitelist": false,
                 "title": "No Big Woop!",
                 "season": "3",
@@ -11148,7 +11148,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mz/2mXKAolXBfZ1yxriUbA5l1k00Rac1mDYw4aswyxTQ/0343---no-big-woop.mp4",
-                "last_modified": 1646422457,
+                "last_modified": 1646673542,
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rI/4hc8t4jzzyNAcWtBUxZsKaIyFhvCh2_nIu25VHH64/0343---no-big-woop-40c987fef064911fabe492265c7e2fb507cbca6c.m3u8",
                 "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rI/4hc8t4jzzyNAcWtBUxZsKaIyFhvCh2_nIu25VHH64/vtt/4/en.vtt",
                 "id": "a86fe412993a42239ec19598df81cf20",
@@ -15291,8 +15291,8 @@
                 "size": 2806409838
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "13",
                 "description": "A tremendously large shadow begins to take form in the sea mists, but this possible discovery could be hindered due to the infamous Team Rocket lurking in the background cooking up another one of their schemes.",
                 "is_country_whitelist": false,
