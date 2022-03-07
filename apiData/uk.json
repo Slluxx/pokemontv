@@ -1089,8 +1089,8 @@
                 "size": 3261752443
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "3",
                 "description": "Some unusual activity is occurring around Wela Volcano, but the Ultra Guardians are on the case!",
                 "is_country_whitelist": false,
@@ -1789,8 +1789,8 @@
                 "size": 3239732854
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "17",
                 "description": "The Pok\u00e9mon School students have one more research project to complete, and it\u2019s sure to generate excitement and electricity for everyone!",
                 "is_country_whitelist": false,
@@ -1989,8 +1989,8 @@
                 "size": 3317863907
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "21",
                 "description": "An appearance on a TV quiz show leads our heroes into a world they only dreamed of!",
                 "is_country_whitelist": false,
@@ -8081,8 +8081,8 @@
                 "size": 2371366652
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "40",
                 "description": "Lana and Popplio are working hard to master their Z-Move, but their progress is soon to grow by leaps and bounds!",
                 "is_country_whitelist": false,
@@ -14070,8 +14070,8 @@
                 "size": 2806409838
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "13",
                 "description": "A tremendously large shadow begins to take form in the sea mists, but this possible discovery could be hindered due to the infamous Team Rocket lurking in the background cooking up another one of their schemes.",
                 "is_country_whitelist": false,
