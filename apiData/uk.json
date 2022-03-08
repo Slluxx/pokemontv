@@ -5,8 +5,8 @@
         "channel_name": "Pok\u00e9mon: Arceus and the Jewel of Life",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "A Tale Untold. A Legend Unleashed.",
                 "is_country_whitelist": false,
@@ -1789,8 +1789,8 @@
                 "size": 3239732854
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "17",
                 "description": "The Pok\u00e9mon School students have one more research project to complete, and it\u2019s sure to generate excitement and electricity for everyone!",
                 "is_country_whitelist": false,
@@ -1989,8 +1989,8 @@
                 "size": 3317863907
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "21",
                 "description": "An appearance on a TV quiz show leads our heroes into a world they only dreamed of!",
                 "is_country_whitelist": false,
@@ -10720,8 +10720,8 @@
                 "size": 2865790656
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "7",
                 "description": "Ash, Brock and Misty get sidetracked on their way to Viridian City when all of their belongings mysteriously disappear.",
                 "is_country_whitelist": false,
@@ -10771,8 +10771,8 @@
                 "size": 2868523211
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "8",
                 "description": "Ash and friends finally make their way to Viridian City where Ash hopes to earn his Earth Badge.",
                 "is_country_whitelist": false,
@@ -14070,8 +14070,8 @@
                 "size": 2806409838
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "13",
                 "description": "A tremendously large shadow begins to take form in the sea mists, but this possible discovery could be hindered due to the infamous Team Rocket lurking in the background cooking up another one of their schemes.",
                 "is_country_whitelist": false,
@@ -18276,8 +18276,8 @@
                 "size": 423197880
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 2,
                 "episode": "",
                 "description": "It\u2019s Pok\u00e9mon Sports Day! Watch Pok\u00e9mon compete in various games such as foot races, ball tossing, tug-of-war, and jump rope!",
                 "is_country_whitelist": false,
