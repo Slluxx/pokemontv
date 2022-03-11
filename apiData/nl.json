@@ -76,8 +76,8 @@
         "channel_name": "Pok\u00e9mon de serie: Zon & Maan - Ultra Legendes",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "De leerlingen van de Pok\u00e9mon school geven een voorstelling met meer wendingen dan ze ooit hadden gedacht!",
                 "is_country_whitelist": false,
@@ -176,8 +176,8 @@
                 "size": 2886333995
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "3",
                 "description": "Er is ongewone activiteit rond de Wela vulkaan, maar de Ultra Beschermers zijn ermee bezig!",
                 "is_country_whitelist": false,
@@ -15102,8 +15102,8 @@
         "channel_name": "Pok\u00e9mon Generations",
         "media": [
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Beleef de Pok\u00e9mon-wereld van Viridian Forest tot Terminus Cave als nooit tevoren!",
                 "is_country_whitelist": false,
