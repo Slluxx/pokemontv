@@ -2664,8 +2664,8 @@
         "channel_name": "Pok\u00e9mon the Series: Sun & Moon\u2014Ultra Legends",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "The Pok\u00e9mon School class is putting on a play with more twists and turns than they could ever expect!",
                 "is_country_whitelist": false,
@@ -15498,7 +15498,7 @@
                 "count": 0,
                 "rating": 1,
                 "episode": "8",
-                "description": "On the way to Vermillion City, Ash meets AJ, a Gym Leader at an unsanctioned Gym who has 98 wins and zero losses. They battle, and Ash is surprised that AJ's Ground-type Sandshrew can easily beat his Flying-type Pok\u00e9mon.",
+                "description": "After earning his second badge, Ash sets off triumphantly for Vermilion City. Along the way, he hears of AJ, a Trainer on the brink of 100 straight victories. Full of confidence, Ash challenges this fearsome Trainer!",
                 "is_country_whitelist": false,
                 "title": "The Path to the Pok\u00e9mon League",
                 "season": "1",
@@ -15538,7 +15538,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/r3/HLE_O0-fDMY7UctuiLRzsVssSEsCKu5I4EY0OVBU4/pok_tv_s0108_2398-master-en.mp4",
-                "last_modified": 1576011934,
+                "last_modified": 1647364018,
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tz/A6KcGl7Xt4JZssRoO0_-ta0o0vKjmw2SgifF3ORkc/pok_tv_s0108_2398-master-en-000c14ecf92f05a41a2debea24b9fc251e7dba09.m3u8",
                 "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tz/A6KcGl7Xt4JZssRoO0_-ta0o0vKjmw2SgifF3ORkc/vtt/7/en.vtt",
                 "id": "ac197c622e50433eb586ad46fd00ff51",
@@ -15838,7 +15838,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1b/ASvPZPzYVo407Mkucgx3kPqfXrITiTpIkQKNUrzC8/pok_tv_s0114_2398-master-en.mp4",
-                "last_modified": 1647349552,
+                "last_modified": 1647364018,
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T9/DU6ddxF0Xaw8aZwVtkKb-qAZaMvPsF43TBWZKTzFs/pok_tv_s0114_2398-master-en-6067d6f961121787d53240fe88971402a07c2803.m3u8",
                 "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T9/DU6ddxF0Xaw8aZwVtkKb-qAZaMvPsF43TBWZKTzFs/vtt/1/en.vtt",
                 "id": "27bd4db241f44893b4ebeafbab892f1a",
@@ -16045,8 +16045,8 @@
                 "size": 2804802142
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "19",
                 "description": "After leaving Acapulco in search of Saffron City, our heroes finally arrive at a small port town in the middle of celebrating a summer festival.",
                 "is_country_whitelist": false,
