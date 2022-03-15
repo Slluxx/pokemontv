@@ -1443,8 +1443,8 @@
         "channel_name": "Pok\u00e9mon the Series: Sun & Moon\u2014Ultra Legends",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "The Pok\u00e9mon School class is putting on a play with more twists and turns than they could ever expect!",
                 "is_country_whitelist": false,
@@ -14577,7 +14577,7 @@
                 "count": 0,
                 "rating": 1,
                 "episode": "14",
-                "description": "Our heroes finally reach Vermillion City, and they discover that the Pok\u00e9mon Center is filled with Pok\u00e9mon hurt during battles with Lt. Surge, the Vermillion City Gym Leader.",
+                "description": "Eager to earn a badge, Ash challenges Lt. Surge. Pikachu reluctantly enters the battle, only to discover that its opponent is a Raichu, a fierce Pok\u00e9mon with tremendous electric power\u2014and the evolved form of Pikachu!",
                 "is_country_whitelist": false,
                 "title": "Electric Shock Showdown",
                 "season": "1",
@@ -14617,7 +14617,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1b/ASvPZPzYVo407Mkucgx3kPqfXrITiTpIkQKNUrzC8/pok_tv_s0114_2398-master-en.mp4",
-                "last_modified": 1576011904,
+                "last_modified": 1647349428,
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T9/DU6ddxF0Xaw8aZwVtkKb-qAZaMvPsF43TBWZKTzFs/pok_tv_s0114_2398-master-en-6067d6f961121787d53240fe88971402a07c2803.m3u8",
                 "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T9/DU6ddxF0Xaw8aZwVtkKb-qAZaMvPsF43TBWZKTzFs/vtt/1/en.vtt",
                 "id": "27bd4db241f44893b4ebeafbab892f1a",
@@ -14824,8 +14824,8 @@
                 "size": 2804802142
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "19",
                 "description": "After leaving Acapulco in search of Saffron City, our heroes finally arrive at a small port town in the middle of celebrating a summer festival.",
                 "is_country_whitelist": false,
