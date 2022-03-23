@@ -1626,8 +1626,8 @@
                 "size": 2927838079
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "32",
                 "description": "Voorwerpen worden op heel Melemele eiland klein gesneden en de Ultra Beschermers gaan op onderzoek.",
                 "is_country_whitelist": false,
@@ -1676,8 +1676,8 @@
                 "size": 2933391262
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "33",
                 "description": "Een onverwachte ontmoeting met een onverwachte Pok\u00e9mon neemt Ash mee op een avontuur dat hij nooit zal vergeten.",
                 "is_country_whitelist": false,
@@ -5468,8 +5468,8 @@
                 "size": 2636847117
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "6",
                 "description": "De eerste vrije dag van Ash van de Pok\u00e9mon School, had een dag vol ontspanning moeten worden, maar het loopt allemaal niet volgens verwachting!",
                 "is_country_whitelist": false,
@@ -5818,8 +5818,8 @@
                 "size": 2656262465
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "13",
                 "description": "Een traditie van Alola maakt iedereen enthousiast en Ash besluit mee te doen.",
                 "is_country_whitelist": false,
@@ -5868,8 +5868,8 @@
                 "size": 2618922152
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "14",
                 "description": "Het is tijd dat Lillie haar angsten tegemoet treedt en de perfecte manier om dat te doen, is met een nieuwe vriend!",
                 "is_country_whitelist": false,
@@ -5918,8 +5918,8 @@
                 "size": 2624544706
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "15",
                 "description": "Het gedrag van Rockrufff is de laatste tijd nogal raadselachtig, maar Ash en Professor Kukui zijn vastbesloten om er achter te komen waarom hij zich zo gedraagt!",
                 "is_country_whitelist": false,
@@ -5968,8 +5968,8 @@
                 "size": 2636279504
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "16",
                 "description": "Team Rocket heeft het op de Pok\u00e9mon van onze helden gemunt, maar een mysterieuze derde Pok\u00e9mon steekt daar een stokje voor!",
                 "is_country_whitelist": false,
@@ -6018,8 +6018,8 @@
                 "size": 2638180891
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "17",
                 "description": "Een mysterie moet opgelost worden en er is ook een verrassende speurder, die vastbesloten is om dat te doen.",
                 "is_country_whitelist": false,
@@ -6068,8 +6068,8 @@
                 "size": 2580553442
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "18",
                 "description": "Onze helden hebben honger, maar een zoektocht naar een ontbrekend ingredi\u00ebnt, houdt dat in stand.",
                 "is_country_whitelist": false,
@@ -15352,8 +15352,8 @@
                 "size": 699891545
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "De mysterieuze reiziger Eusine verkent de legendes van de Burned Tower van Ecruteak City en de Pok\u00e9mon die uit de as ervan zijn herrezen.",
                 "is_country_whitelist": false,
@@ -15552,8 +15552,8 @@
                 "size": 873504291
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Aan het begin van een nieuw universum dat voor hem is uitgespreid ontmoet Cyrus van Team Galactic extreme tegenstand. Maar er komt hulp in onverwachte vorm.",
                 "is_country_whitelist": false,
