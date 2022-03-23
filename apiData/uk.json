@@ -17959,8 +17959,8 @@
                 "size": 517789626
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "There are a lot of Pok\u00e9mon playing inside and outside the house. Do you know how to spell all their names? Let\u2019s learn the alphabet together with Pok\u00e9mon!",
                 "is_country_whitelist": false,
@@ -18431,7 +18431,7 @@
             },
             {
                 "count": 0,
-                "rating": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Sing and dance along with Scorbunny!",
                 "is_country_whitelist": false,
@@ -20956,17 +20956,17 @@
         "channel_name": "Top Deck Academy Season 2",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Learn how to deepen your Pok\u00e9mon TCG strategy by simply using synergy! Dive deep with your host Rosemary Kelley into the mysterious waters of the Inteleon VMAX League Battle Deck.",
                 "is_country_whitelist": false,
                 "title": "Upgrade Your Deck Simply & Efficiently",
                 "season": "",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/top-deck-academy/top-deck-academy-02-01-180x103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/top-deck-academy/top-deck-academy-02-01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/top-deck-academy/top-deck-academy-02-01-360x206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/top-deck-academy/top-deck-academy-s02-ep01-180x103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/top-deck-academy/top-deck-academy-s02-ep01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/top-deck-academy/top-deck-academy-s02-ep01-360x206.jpg"
                 },
                 "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Av75I3MGQc4iOih5HqrShQ/skim/",
                 "is_new": false,
@@ -20999,7 +20999,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ye/oZ1ClY3AFpPBt11MGbtAypnc_WUFteh0pwVJAO0q4/tda_s02_ep01_en_v2.mp4",
-                "last_modified": 1647522606,
+                "last_modified": 1648055260,
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ex/h6CFzBDoRHohTORpY7uN9uX9mDoD7lcbKx9lnuDyI/tda_s02_ep01_en_v2-ee644cbf950ced5ab8d94f1e58a8403e93b092db.m3u8",
                 "captions": "",
                 "id": "02fef923730641ce88e8a1e47aab4a14",
