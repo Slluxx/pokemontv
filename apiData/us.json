@@ -12466,8 +12466,8 @@
                 "size": 2865790656
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "7",
                 "description": "Ash, Brock and Misty get sidetracked on their way to Viridian City when all of their belongings mysteriously disappear.",
                 "is_country_whitelist": false,
@@ -15316,8 +15316,8 @@
                 "size": 2791690142
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "3",
                 "description": "Team Rocket shows up to steal Pikachu\u2014they realize that there's really something special about this Pok\u00e9mon\u2014and Ash vows to defend himself.",
                 "is_country_whitelist": false,
@@ -19652,7 +19652,7 @@
             },
             {
                 "count": 0,
-                "rating": 5,
+                "rating": 1,
                 "episode": "",
                 "description": "Sing and dance along with Scorbunny!",
                 "is_country_whitelist": false,
@@ -22225,6 +22225,56 @@
                 "captions": "",
                 "id": "02fef923730641ce88e8a1e47aab4a14",
                 "size": 1711361957
+            },
+            {
+                "count": 0,
+                "rating": 1,
+                "episode": "",
+                "description": "Consistently drawing cards is a great way to keep your deck flowing, but you don\u2019t have to rely on Trainers and Supporters to help you draw cards. Host Andrew Mahone shows us how Pok\u00e9mon like Cinccino & Kricketune V are ready to help you keep your hand flush with cards!",
+                "is_country_whitelist": false,
+                "title": "Drawing Power from Cinccino & Kricketune V",
+                "season": "",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/top-deck-academy/top-deck-academy-s02-ep02-180x103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/top-deck-academy/top-deck-academy-s02-ep02.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/top-deck-academy/top-deck-academy-s02-ep02-360x206.jpg"
+                },
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/3kFQkZ2mSeYkV8paloFR8k/skim/",
+                "is_new": false,
+                "country_codes": [
+                    "JP",
+                    "HK",
+                    "VN",
+                    "TH",
+                    "NP",
+                    "BD",
+                    "ID",
+                    "BN",
+                    "KH",
+                    "KP",
+                    "KR",
+                    "WS",
+                    "SG",
+                    "MY",
+                    "IN",
+                    "MN",
+                    "MM",
+                    "MO",
+                    "LA",
+                    "PH",
+                    "PK",
+                    "AF",
+                    "LK",
+                    "PG",
+                    "CN",
+                    "TW"
+                ],
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g3/ybXvozRipA3fMVvMAZ287wAOjdU20fICD-livfR3c/tda_s02_ep02_v5.mp4",
+                "last_modified": 1648134617,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t2/T5P7t5mjffItJHnM5TrX-I2umMTqusG2y17tn-7LI/tda_s02_ep02_v5-f19686cbcb635842a94b919e923deb4023e1f879.m3u8",
+                "captions": "",
+                "id": "de4150919da649e6915f296a5a0547c9",
+                "size": 1806277969
             }
         ],
         "channel_creation_date": 1647522456,
