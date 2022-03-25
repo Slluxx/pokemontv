@@ -176,7 +176,7 @@
                 "size": 2886333995
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "3",
                 "description": "Er is ongewone activiteit rond de Wela vulkaan, maar de Ultra Beschermers zijn ermee bezig!",
@@ -1626,8 +1626,8 @@
                 "size": 2927838079
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "32",
                 "description": "Voorwerpen worden op heel Melemele eiland klein gesneden en de Ultra Beschermers gaan op onderzoek.",
                 "is_country_whitelist": false,
@@ -1676,8 +1676,8 @@
                 "size": 2933391262
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "33",
                 "description": "Een onverwachte ontmoeting met een onverwachte Pok\u00e9mon neemt Ash mee op een avontuur dat hij nooit zal vergeten.",
                 "is_country_whitelist": false,
@@ -5968,7 +5968,7 @@
                 "size": 2636279504
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "16",
                 "description": "Team Rocket heeft het op de Pok\u00e9mon van onze helden gemunt, maar een mysterieuze derde Pok\u00e9mon steekt daar een stokje voor!",
@@ -6119,7 +6119,7 @@
             },
             {
                 "count": 0,
-                "rating": 5,
+                "rating": 1,
                 "episode": "19",
                 "description": "Ash kijkt uit naar een zeer belangrijke rematch en zijn trainingsregime begint zijn vruchten af te werpen!",
                 "is_country_whitelist": false,
@@ -6218,8 +6218,8 @@
                 "size": 2639728878
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "21",
                 "description": "Het einde van een hoofdstuk in het leven van een vastberaden Pok\u00e9mon, betekent het begin van een gloednieuw hoofdstuk.",
                 "is_country_whitelist": false,
@@ -15352,8 +15352,8 @@
                 "size": 699891545
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "De mysterieuze reiziger Eusine verkent de legendes van de Burned Tower van Ecruteak City en de Pok\u00e9mon die uit de as ervan zijn herrezen.",
                 "is_country_whitelist": false,
@@ -15552,7 +15552,7 @@
                 "size": 873504291
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "Aan het begin van een nieuw universum dat voor hem is uitgespreid ontmoet Cyrus van Team Galactic extreme tegenstand. Maar er komt hulp in onverwachte vorm.",
