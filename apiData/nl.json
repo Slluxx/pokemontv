@@ -176,7 +176,7 @@
                 "size": 2886333995
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "3",
                 "description": "Er is ongewone activiteit rond de Wela vulkaan, maar de Ultra Beschermers zijn ermee bezig!",
@@ -1826,8 +1826,8 @@
                 "size": 2884475047
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "36",
                 "description": "De Alola Pok\u00e9mon League stevent af op een opwindende opening, maar er lijken moeilijkheden op komst..",
                 "is_country_whitelist": false,
@@ -1876,8 +1876,8 @@
                 "size": 2887476049
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "37",
                 "description": "De Alola Pok\u00e9mon League kent een zinderende start met het Koninklijk Gevecht, een competitie tussen vrienden en rivalen, zowel oude als nieuwe.",
                 "is_country_whitelist": false,
@@ -1926,8 +1926,8 @@
                 "size": 2949506447
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "38",
                 "description": "Terwijl de Alola Pok\u00e9mon League voortschrijdt, gaan vrienden en rivalen tot hun uiterste!",
                 "is_country_whitelist": false,
@@ -5968,7 +5968,7 @@
                 "size": 2636279504
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "16",
                 "description": "Team Rocket heeft het op de Pok\u00e9mon van onze helden gemunt, maar een mysterieuze derde Pok\u00e9mon steekt daar een stokje voor!",
@@ -6119,7 +6119,7 @@
             },
             {
                 "count": 0,
-                "rating": 5,
+                "rating": 1,
                 "episode": "19",
                 "description": "Ash kijkt uit naar een zeer belangrijke rematch en zijn trainingsregime begint zijn vruchten af te werpen!",
                 "is_country_whitelist": false,
@@ -6218,8 +6218,8 @@
                 "size": 2639728878
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "21",
                 "description": "Het einde van een hoofdstuk in het leven van een vastberaden Pok\u00e9mon, betekent het begin van een gloednieuw hoofdstuk.",
                 "is_country_whitelist": false,
@@ -15552,7 +15552,7 @@
                 "size": 873504291
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "Aan het begin van een nieuw universum dat voor hem is uitgespreid ontmoet Cyrus van Team Galactic extreme tegenstand. Maar er komt hulp in onverwachte vorm.",
