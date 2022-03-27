@@ -1826,8 +1826,8 @@
                 "size": 2884475047
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "36",
                 "description": "De Alola Pok\u00e9mon League stevent af op een opwindende opening, maar er lijken moeilijkheden op komst..",
                 "is_country_whitelist": false,
@@ -1876,8 +1876,8 @@
                 "size": 2887476049
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "37",
                 "description": "De Alola Pok\u00e9mon League kent een zinderende start met het Koninklijk Gevecht, een competitie tussen vrienden en rivalen, zowel oude als nieuwe.",
                 "is_country_whitelist": false,
@@ -1926,8 +1926,8 @@
                 "size": 2949506447
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "38",
                 "description": "Terwijl de Alola Pok\u00e9mon League voortschrijdt, gaan vrienden en rivalen tot hun uiterste!",
                 "is_country_whitelist": false,
@@ -9660,8 +9660,8 @@
                 "size": 2878219760
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "5",
                 "description": "Terwijl Ash en de rest zich haasten om de laatste veerboot van Cinnabar Island te halen, worden ze op een zijspoor gezet door een groep Squirtle, Wartortle en Blastoise, die hun hulp nodig hebben!",
                 "is_country_whitelist": false,
@@ -15452,8 +15452,8 @@
                 "size": 618526603
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 2,
                 "episode": "",
                 "description": "Diep onder de zee staat de leider van Team Aqua op het punt om zijn belangrijkste doel te bereiken. Kan een woord van redelijkheid het tij van verwoesting keren?",
                 "is_country_whitelist": false,
