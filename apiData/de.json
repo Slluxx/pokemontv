@@ -576,8 +576,8 @@
         "channel_name": "Pok\u00e9mon Ranger und der Tempel des Meeres",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Ash und seine Freunde verb\u00fcnden sich mit einem Pok\u00e9mon\nRanger und Manaphy, um zu verhindern, dass sich ein gieriger Pirat die\nwertvolle Meereskrone unter den Nagel rei\u00dft.",
                 "is_country_whitelist": false,
@@ -17457,8 +17457,8 @@
         "channel_name": "Pok\u00e9mon Origins",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Rot und sein Rivale Blau verfolgen nur ein Ziel: Sie wollen Prof. Eichs lang gehegten Traum, den Pok\u00e9dex zu vervollst\u00e4ndigen, endlich erf\u00fcllen.",
                 "is_country_whitelist": false,
