@@ -106,8 +106,8 @@
                 "size": 2857933291
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "30",
                 "description": "Hardly taking a second to relish his latest gym victory, Ash quickly sets course for the next gym in Blackthorn City.",
                 "is_country_whitelist": false,
@@ -1292,8 +1292,8 @@
                 "size": 1103471816
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Nessa, an incredibly popular Gym Leader and model, has always strived to be the best. Her focus is split between the two professions, and Chairman Rose advises her to choose one path or the other if she truly wants to be number one. Will she sacrifice one dream in pursuit of the other?",
                 "is_country_whitelist": false,
@@ -16665,8 +16665,8 @@
         "channel_name": "Pok\u00e9mon Generations",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "From Viridian Forest to Terminus Cave, see the Pok\u00e9mon world as never before!",
                 "is_country_whitelist": false,
@@ -17907,8 +17907,8 @@
                 "size": 585040869
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "It seems like a Pok\u00e9mon is hiding inside a fan! Can you guess its name? Let\u2019s learn the alphabet together with Pok\u00e9mon!",
                 "is_country_whitelist": false,
@@ -21054,8 +21054,8 @@
                 "size": 1711361957
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Consistently drawing cards is a great way to keep your deck flowing, but you don\u2019t have to rely on Trainers and Supporters to help you draw cards. Host Andrew Mahone shows us how Pok\u00e9mon like Cinccino & Kricketune V are ready to help you keep your hand flush with cards!",
                 "is_country_whitelist": false,
