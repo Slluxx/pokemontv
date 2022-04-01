@@ -106,8 +106,8 @@
                 "size": 2857933291
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "30",
                 "description": "Hardly taking a second to relish his latest gym victory, Ash quickly sets course for the next gym in Blackthorn City.",
                 "is_country_whitelist": false,
@@ -1292,8 +1292,8 @@
                 "size": 1103471816
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Nessa, an incredibly popular Gym Leader and model, has always strived to be the best. Her focus is split between the two professions, and Chairman Rose advises her to choose one path or the other if she truly wants to be number one. Will she sacrifice one dream in pursuit of the other?",
                 "is_country_whitelist": false,
