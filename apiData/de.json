@@ -576,7 +576,7 @@
         "channel_name": "Pok\u00e9mon Ranger und der Tempel des Meeres",
         "media": [
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "Ash und seine Freunde verb\u00fcnden sich mit einem Pok\u00e9mon\nRanger und Manaphy, um zu verhindern, dass sich ein gieriger Pirat die\nwertvolle Meereskrone unter den Nagel rei\u00dft.",
@@ -20399,8 +20399,8 @@
                 "size": 350717150
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Es scheint, als ob sich ein Pok\u00e9mon in einem Ventilator versteckt! Kannst du seinen Namen erraten? Lass uns zusammen mit Pok\u00e9mon das Alphabet lernen!",
                 "is_country_whitelist": false,
