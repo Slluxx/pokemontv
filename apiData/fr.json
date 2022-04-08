@@ -20854,7 +20854,7 @@
                 "episode": "",
                 "description": "Chantons en marchant avec des Pok\u00e9mon\u00a0! Viens te promener avec Pikachu, \u00c9voli et ses \u00c9volutions, et chante avec eux\u00a0!",
                 "is_country_whitelist": false,
-                "title": "En marche (version \u00c9voli)",
+                "title": "Marchons ensemble (version \u00c9voli)",
                 "season": "",
                 "images": {
                     "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/walking-walking-eevee-version-01-180x103.jpg",
@@ -20892,7 +20892,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qf/Qe4RPPBOoVLTkS9-HkE5o-T1uTlZccan9epJ7Ywuk/walking_walking_fr_1080p.mp4",
-                "last_modified": 1649431744,
+                "last_modified": 1649441408,
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2n/KHebmixwC5tlCStQCPMvzXms6y4uBgLoTU-Ljmwhk/walking_walking_fr_1080p-99fefa94e835e53eae6e7f589e0f490e837b1ef8.m3u8",
                 "captions": "",
                 "id": "6721d5df110844adae4e8595bc4659b7",
@@ -21410,7 +21410,7 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/pokemon-kids-tv/sing-a-long-songs/sing-a-long-songs-1660x940-fr.png",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/pokemon-kids-tv/sing-a-long-songs/sing-a-long-songs-1660x940-fr.png"
         },
-        "channel_update_date": 1634318268,
+        "channel_update_date": 1649441408,
         "media_type": "junior",
         "channel_status": ""
     },
