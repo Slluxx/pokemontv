@@ -577,7 +577,7 @@
         "channel_name": "Pok\u00e9mon Evolutions",
         "media": [
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "What goes through the mind of a Pok\u00e9mon Champion as they prepare to face the greatest challenge of all? Doubts? Regrets? Determination? All three?",
@@ -727,8 +727,8 @@
                 "size": 1294826274
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "He thought of everything as he plotted and schemed behind the scenes. He manipulated people and Pok\u00e9mon as each piece of his plan for Unova fell into place exactly as intended.",
                 "is_country_whitelist": false,
