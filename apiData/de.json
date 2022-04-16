@@ -20920,8 +20920,8 @@
         "channel_name": "Lieder zum Mitsingen",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Ein Lied f\u00fcr einen Spaziergang mit Pok\u00e9mon! Gehe zusammen mit Pikachu, Evoli und den Evoli-Entwicklungen spazieren und singe mit ihnen!",
                 "is_country_whitelist": false,
