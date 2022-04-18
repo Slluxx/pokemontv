@@ -1390,7 +1390,7 @@
                 "size": 1040987674
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "After getting into an argument with his friend John, Tommy wants to make amends. He enlists Allister, Galar\u2019s Ghost-type Gym Leader, to help in a most unusual way.",
@@ -4732,8 +4732,8 @@
                 "size": 2661429700
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "10",
                 "description": "Our heroes are determined to rescue Lusamine from inside the Ultra Wormhole, but Lusamine has other ideas!",
                 "is_country_whitelist": false,
@@ -4882,8 +4882,8 @@
                 "size": 2608176722
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "13",
                 "description": "Our heroes are wondering about Komala\u2019s sleep patterns when they\u2019re interrupted by a familiar visitor!",
                 "is_country_whitelist": false,
@@ -6953,8 +6953,8 @@
                 "size": 2429552538
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "6",
                 "description": "Ash\u2019s first day off from Pok\u00e9mon School was supposed to be a relaxing break, but things don\u2019t go quite as expected!",
                 "is_country_whitelist": false,
@@ -9787,8 +9787,8 @@
                 "size": 2676293893
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "19",
                 "description": "As Misty picks the local flora, Togepi wanders over to a very strange looking bush, it appears to have legs...spider legs!",
                 "is_country_whitelist": false,
