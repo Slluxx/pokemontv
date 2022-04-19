@@ -5,8 +5,8 @@
         "channel_name": "El desaf\u00edo de Darkrai",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "En alg\u00fan lugar entre el tiempo y el espacio... \u00a1nace una leyenda!",
                 "is_country_whitelist": false,
@@ -19457,8 +19457,8 @@
                 "size": 700289240
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "El misterioso viajero Eusine rememora las leyendas acerca de la Torre Quemada de Ciudad Iris y de los Pok\u00e9mon que resurgieron de las cenizas.",
                 "is_country_whitelist": false,
