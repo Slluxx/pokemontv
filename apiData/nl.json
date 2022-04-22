@@ -8789,8 +8789,8 @@
                 "size": 2610773526
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "29",
                 "description": "Er is een voedseldief onder onze helden\u2026kan het iets te maken hebben met de schattige en knuffelige Teddiursa die zich bij hen aangesloten heeft?",
                 "is_country_whitelist": false,
@@ -8839,8 +8839,8 @@
                 "size": 2640937608
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "30",
                 "description": "Als onze helden herenigd zijn met Pok\u00e9mon fotograaf Todd Snap, neemt hij ze mee op een avontuur om de Legendarische Pok\u00e9mon Articuno te vinden!",
                 "is_country_whitelist": false,
@@ -9639,8 +9639,8 @@
                 "size": 2646408286
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "46",
                 "description": "Als een man met een kap over zijn hoofd een Smoochum bij onze helden achterlaat, ontvouwt zich een verhaal dat hen helemaal naar het felle licht van het witte doek zal brengen!",
                 "is_country_whitelist": false,
@@ -9689,8 +9689,8 @@
                 "size": 2609965583
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "47",
                 "description": "Ash en zijn vrienden worden benaderd door een bouwkundige met een probleem:  een team van Grondsoort Pok\u00e9mon bouwt een tunnel, maar ze zijn doodsbang voor het water dat naar binnen lekt. Kunnen onze helden helpen?",
                 "is_country_whitelist": false,
@@ -10310,8 +10310,8 @@
                 "size": 2789330629
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "7",
                 "description": "Ash en zijn vrienden bereiken een stad waar misdaden in navolging van een legendarische meesterdief worden gepleegd. Alle hoop is gericht op de jonge Trainers. Kunnen zij dit criminele duo en hun Meowth handlanger stoppen?",
                 "is_country_whitelist": false,
@@ -12181,7 +12181,7 @@
                 "size": 2484899662
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "3",
                 "description": "Onze helden reizen naar Cinnabar Island, waar Ash de Volcano Badge wil winnen. Een vreemde zegt in raadsels waar ze de Gym kunnen vinden, waar Ash en Pikachu een hevig gevecht houden met een voor hen onbekende Pok\u00e9mon.",
