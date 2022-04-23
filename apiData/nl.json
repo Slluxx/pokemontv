@@ -9639,8 +9639,8 @@
                 "size": 2646408286
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "46",
                 "description": "Als een man met een kap over zijn hoofd een Smoochum bij onze helden achterlaat, ontvouwt zich een verhaal dat hen helemaal naar het felle licht van het witte doek zal brengen!",
                 "is_country_whitelist": false,
@@ -9689,8 +9689,8 @@
                 "size": 2609965583
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "47",
                 "description": "Ash en zijn vrienden worden benaderd door een bouwkundige met een probleem:  een team van Grondsoort Pok\u00e9mon bouwt een tunnel, maar ze zijn doodsbang voor het water dat naar binnen lekt. Kunnen onze helden helpen?",
                 "is_country_whitelist": false,
@@ -9789,8 +9789,8 @@
                 "size": 2658749606
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "49",
                 "description": "Misty ontmoet eindelijk een van haar idolen, een Zuster Joy die gespecialiseerd is in Watersoorten! De realiteit valt echter tegen als Zulster Joy toegeeft dat ze de liefde die Misty voor Water Pok\u00e9mon heeft, toch niet deelt\u2026",
                 "is_country_whitelist": false,
@@ -9839,8 +9839,8 @@
                 "size": 2609100456
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "50",
                 "description": "Ash en zijn vrienden hebben een laatste obstakel voor Olivine City: een gloeiend hete woestijn! En als Cyndaquil vermist wordt, is de hitte niet hun enige probleem!",
                 "is_country_whitelist": false,
@@ -10310,8 +10310,8 @@
                 "size": 2789330629
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "7",
                 "description": "Ash en zijn vrienden bereiken een stad waar misdaden in navolging van een legendarische meesterdief worden gepleegd. Alle hoop is gericht op de jonge Trainers. Kunnen zij dit criminele duo en hun Meowth handlanger stoppen?",
                 "is_country_whitelist": false,
@@ -12231,8 +12231,8 @@
                 "size": 2711600674
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "4",
                 "description": "Ash heeft eindelijk de Gym gevonden boven een plas gesmolten lava! Alleen een sterke Vuursoort Pok\u00e9mon kan hem helpen in dit gevecht voor de Volcano Badge, dus moet Ash vertrouwen op zijn slecht luisterende Charizard.",
                 "is_country_whitelist": false,
@@ -18223,8 +18223,8 @@
                 "size": 882104807
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "De overgeblevenen van Team Galactic hebben Heatran gewekt, diep binnen Stark Mountain. Wie kan verhinderen dat hun vurige ambities uitmonden in een catastrofe?",
                 "is_country_whitelist": false,
