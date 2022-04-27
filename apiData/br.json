@@ -493,7 +493,7 @@
     },
     {
         "channel_description": "Cuidado! Bidoof se mete em uma encrenca no novo curta de anima\u00e7\u00e3o, A ascens\u00e3o de Bidoof. Assista a essa aventura agora mesmo!",
-        "stunt_channel": true,
+        "stunt_channel": false,
         "channel_name": "A ascens\u00e3o de Bidoof",
         "media": [
             {
@@ -558,7 +558,7 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/bidoofs-big-stand/bidoofs-big-stand-1660x940-en.png",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/bidoofs-big-stand/bidoofs-big-stand-1660x940-en.png"
         },
-        "channel_update_date": 1645202637,
+        "channel_update_date": 1651086945,
         "media_type": "original",
         "channel_status": ""
     },
