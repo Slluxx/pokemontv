@@ -5,8 +5,8 @@
         "channel_name": "Pumped About Piplup",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "It's always exciting when new Pok\u00e9mon Trainers receives their first Pok\u00e9mon, but for a girl named Dawn, things will be far more exciting than she'd ever imagined!",
                 "is_country_whitelist": false,
@@ -105,8 +105,8 @@
                 "size": 2638419937
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "26",
                 "description": "With time running out before the start of the Floaroma Town Pok\u00e9mon Contest, Dawn and Pachirisu are getting in as much training as they can.",
                 "is_country_whitelist": false,
@@ -255,8 +255,8 @@
                 "size": 2662304365
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "17",
                 "description": "When Dawn and Ash reach Sandalstraw Town, they meet two familiar friends: Kenny and Barry! Kenny plans to enter the Sandalstraw Contest, while Barry is training for the upcoming Pok\u00e9mon Ping-Pong competition.",
                 "is_country_whitelist": false,
@@ -1014,7 +1014,7 @@
     },
     {
         "channel_description": "Look out! Bidoof bumbles into trouble in the new animated short Bidoof\u2019s Big Stand. Catch the adventure now!",
-        "stunt_channel": true,
+        "stunt_channel": false,
         "channel_name": "Bidoof\u2019s Big Stand",
         "media": [
             {
@@ -1079,13 +1079,13 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/bidoofs-big-stand/bidoofs-big-stand-1660x940-en.png",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/bidoofs-big-stand/bidoofs-big-stand-1660x940-en.png"
         },
-        "channel_update_date": 1643991758,
+        "channel_update_date": 1651151231,
         "media_type": "original",
         "channel_status": ""
     },
     {
         "channel_description": "Leon visits the Isle of Armor in The Gathering of Stars, a special new episode of Pok\u00e9mon: Twilight Wings, now on Pok\u00e9mon TV!",
-        "stunt_channel": true,
+        "stunt_channel": false,
         "channel_name": "Pok\u00e9mon: Twilight Wings",
         "media": [
             {
@@ -1500,7 +1500,7 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/twilight-wings/the-gathering-of-stars-1660x940-en.jpg",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/twilight-wings/the-gathering-of-stars-2732x940-en.jpg"
         },
-        "channel_update_date": 1624635313,
+        "channel_update_date": 1651151231,
         "media_type": "original",
         "channel_status": ""
     },
@@ -3181,8 +3181,8 @@
                 "size": 3366029536
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "10",
                 "description": "At the start of their break, the Pok\u00e9mon School students have visitors\u2014and Ash can\u2019t believe his eyes!",
                 "is_country_whitelist": false,
@@ -20493,8 +20493,8 @@
         "channel_name": "Pok\u00e9mon Generations",
         "media": [
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "From Viridian Forest to Terminus Cave, see the Pok\u00e9mon world as never before!",
                 "is_country_whitelist": false,
@@ -20843,8 +20843,8 @@
                 "size": 617731407
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Deep under the sea, Team Aqua\u2019s leader is about to achieve his greatest goal. Can one voice of reason turn the tide of destruction?",
                 "is_country_whitelist": false,
@@ -21193,8 +21193,8 @@
                 "size": 638035473
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "His plans left in ruins, Ghetsis makes one last attempt to bring Unova under his icy grasp. A hero arrives, intending to stop him.",
                 "is_country_whitelist": false,
@@ -21243,8 +21243,8 @@
                 "size": 767200793
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Scientist. Entrepreneur. Visionary. Take a closer look at the man whose acts have redefined the Kalos region: Lysandre.",
                 "is_country_whitelist": false,
@@ -21293,8 +21293,8 @@
                 "size": 731784530
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Detective Looker\u2019s assistants Emma and Mimi have been helping him out in Lumiose City, until a crime wave threatens to tear them apart.",
                 "is_country_whitelist": false,
@@ -21635,8 +21635,8 @@
         "channel_name": "Nursery Rhymes",
         "media": [
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "A Togepi got separated from its friends! Can Pikachu help it reunite with them?",
                 "is_country_whitelist": false,
@@ -21685,8 +21685,8 @@
                 "size": 761109185
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Curious about what\u2019s at the end of the river, Sobble and Popplio decide to take a boat ride. Who will they meet during the journey?",
                 "is_country_whitelist": false,
@@ -21735,8 +21735,8 @@
                 "size": 585040869
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "It seems like a Pok\u00e9mon is hiding inside a fan! Can you guess its name? Let\u2019s learn the alphabet together with Pok\u00e9mon!",
                 "is_country_whitelist": false,
@@ -21785,8 +21785,8 @@
                 "size": 613077571
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Oh no! All the cookies in the jar are gone! Let\u2019s find out which Pok\u00e9mon took them all.",
                 "is_country_whitelist": false,
@@ -21835,8 +21835,8 @@
                 "size": 517789626
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "There are a lot of Pok\u00e9mon playing inside and outside the house. Do you know how to spell all their names? Let\u2019s learn the alphabet together with Pok\u00e9mon!",
                 "is_country_whitelist": false,
@@ -21885,8 +21885,8 @@
                 "size": 622195281
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Mareep and Pikachu are such great friends that they always have fun together, no matter where they find themselves!",
                 "is_country_whitelist": false,
@@ -21935,8 +21935,8 @@
                 "size": 284737317
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Listen to the familiar tune: it\u2019s one of those songs heard around the world, but it goes by different names, like \u201cFlea Waltz,\u201d \u201cCat\u2019s Polka,\u201d \u201cChopsticks,\u201d \u201cLa Chocolatera,\u201d and \u201cNeko Funjatta\u201d!",
                 "is_country_whitelist": false,
@@ -21985,8 +21985,8 @@
                 "size": 582098269
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Follow Mewtwo as it flies over stunning landmarks, mountains, and seas. This is a feast for the eyes as well as the ears! Music: \u201cPomp and Circumstance\u201d preceded by excerpts from \u201cOrpheus in the Underworld\u201d",
                 "is_country_whitelist": false,
@@ -22035,8 +22035,8 @@
                 "size": 590263557
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Ride along with Pikachu and friends as they take a trip all through the town! Sing along and have a fun ride!",
                 "is_country_whitelist": false,
@@ -22135,8 +22135,8 @@
                 "size": 267136799
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "When Ludicolo and Eevee are running a farm of their own, things never get dull. Sing along and have fun with the frolicking friends of the farm!",
                 "is_country_whitelist": false,
@@ -22306,8 +22306,8 @@
                 "size": 573454971
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Brush your teeth along with all your favorite Pok\u00e9mon!",
                 "is_country_whitelist": false,
@@ -22356,8 +22356,8 @@
                 "size": 843754191
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Are you ready for some Pika-charm? Let\u2019s sing and dance together!",
                 "is_country_whitelist": false,
@@ -22406,8 +22406,8 @@
                 "size": 843532581
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Sing and dance along with Scorbunny!",
                 "is_country_whitelist": false,
@@ -22456,8 +22456,8 @@
                 "size": 438986255
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Our Pok\u00e9mon friends are so eager to help when it comes to putting up holiday decorations.",
                 "is_country_whitelist": false,
@@ -22506,8 +22506,8 @@
                 "size": 320634343
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Sing along and get into the holiday spirit! A sleigh ride is fun, but it\u2019s even more fun when Pok\u00e9mon are with you to Jingle Bell the night away!",
                 "is_country_whitelist": false,
@@ -22556,8 +22556,8 @@
                 "size": 363409193
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Throwing a party isn't an easy job, but singing the Happy Birthday song will be!  Make someone's birthday even happier by singing along!",
                 "is_country_whitelist": false,
@@ -22606,8 +22606,8 @@
                 "size": 153980796
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Your partners Pikachu and Eevee have been making you sing, sing, sing, but don\u2019t forget to dance while you\u2019re still in the mood!",
                 "is_country_whitelist": false,
@@ -22706,8 +22706,8 @@
                 "size": 866902274
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "You\u2019ve been invited to a party on a full moon night. Get into the Halloween mood and dance along with your Pok\u00e9mon friends!",
                 "is_country_whitelist": false,
@@ -23477,8 +23477,8 @@
                 "size": 934412343
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Feel the rhythm and follow along to see if your favorite Pok\u00e9mon is inside one of the rolling Pok\u00e9 Balls!",
                 "is_country_whitelist": false,
@@ -23627,8 +23627,8 @@
                 "size": 932585849
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Watch how Pikachu and Pelipper search for and find their fellow Pok\u00e9mon!",
                 "is_country_whitelist": false,
@@ -25330,6 +25330,56 @@
                 "captions": "",
                 "id": "1d41954dd778482f8f379f2f13017c62",
                 "size": 1708158108
+            },
+            {
+                "count": 0,
+                "rating": 1,
+                "episode": "",
+                "description": "Evolving Pok\u00e9mon helps them power up! Join Rosemary Kelley for a look at a different type of Stage 2 deck with the powerful Gardevoir and Gallade combination. This self-sustaining deck is a force to be reckoned with, even without using any fancy Pok\u00e9mon V or VMAX!",
+                "is_country_whitelist": false,
+                "title": "Creating a Strong Stage 2 Pok\u00e9mon Deck",
+                "season": "",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/top-deck-academy/top-deck-academy-s02-ep07-180x103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/top-deck-academy/top-deck-academy-s02-ep07.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/top-deck-academy/top-deck-academy-s02-ep07-360x206.jpg"
+                },
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/03EtFcqXSXokYAFuCvyP-0/skim/",
+                "is_new": false,
+                "country_codes": [
+                    "JP",
+                    "HK",
+                    "VN",
+                    "TH",
+                    "NP",
+                    "BD",
+                    "ID",
+                    "BN",
+                    "KH",
+                    "KP",
+                    "KR",
+                    "WS",
+                    "SG",
+                    "MY",
+                    "IN",
+                    "MN",
+                    "MM",
+                    "MO",
+                    "LA",
+                    "PH",
+                    "PK",
+                    "AF",
+                    "LK",
+                    "PG",
+                    "CN",
+                    "TW"
+                ],
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i0/lQfk9fpqZcjIFCyRzciq_8iofa1XB2ZDdFGFbiIIE/tda_s02_ep07_en.mp4",
+                "last_modified": 1651151231,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G7/fdmwEWbcK4-WbyXLleDpUP97UOmhi6FYFL3FV1WJA/tda_s02_ep07_en-3478be94b1cc6815fba86275c5427758dd58c691.m3u8",
+                "captions": "",
+                "id": "d3712d15ca97497a918005b82bf23fed",
+                "size": 1791169904
             }
         ],
         "channel_creation_date": 1647522456,

@@ -1014,7 +1014,7 @@
     },
     {
         "channel_description": "Aufgepasst! Bidiza begibt sich in Schwierigkeiten im neuen Zeichentrick-Kurzfilm Bidiza gibt alles. Schnapp dir jetzt das Abenteuer!",
-        "stunt_channel": true,
+        "stunt_channel": false,
         "channel_name": "Bidiza gibt alles",
         "media": [
             {
@@ -1079,13 +1079,13 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/bidoofs-big-stand/bidoofs-big-stand-1660x940-de.png",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/bidoofs-big-stand/bidoofs-big-stand-1660x940-de.png"
         },
-        "channel_update_date": 1643993081,
+        "channel_update_date": 1651151794,
         "media_type": "original",
         "channel_status": ""
     },
     {
         "channel_description": "Delion besucht in Die Zusammenkunft der Stars, einer besonderen neuen Folge von Pok\u00e9mon: Zwielichtschwingen, die R\u00fcstungsinsel \u2013 jetzt auf Pok\u00e9mon-TV!",
-        "stunt_channel": true,
+        "stunt_channel": false,
         "channel_name": "Pok\u00e9mon: Zwielichtschwingen",
         "media": [
             {
@@ -1450,7 +1450,7 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/twilight-wings/the-gathering-of-stars-1660x940-de.jpg",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/twilight-wings/the-gathering-of-stars-2732x940-de.jpg"
         },
-        "channel_update_date": 1643993081,
+        "channel_update_date": 1651151794,
         "media_type": "original",
         "channel_status": ""
     },
@@ -20349,8 +20349,8 @@
                 "size": 350717150
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Es scheint, als ob sich ein Pok\u00e9mon in einem Ventilator versteckt! Kannst du seinen Namen erraten? Lass uns zusammen mit Pok\u00e9mon das Alphabet lernen!",
                 "is_country_whitelist": false,
@@ -20449,8 +20449,8 @@
                 "size": 306465691
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Es gibt viele Pok\u00e9mon, die innerhalb und au\u00dferhalb des Hauses spielen. Wei\u00dft du, wie man alle ihre Namen buchstabiert? Lass uns gemeinsam mit den Pok\u00e9mon das Alphabet lernen!",
                 "is_country_whitelist": false,
