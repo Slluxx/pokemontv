@@ -11425,7 +11425,7 @@
                     "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep28_ss01.jpg",
                     "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep28_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/XGr0m6wLT94mldIXsBuOIU/skim/",
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KtFZwD2HTa0syRGN0sUJOY/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -11455,12 +11455,12 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pp/2lDFeUp0wgCLNf9_kc-mSXLVvBgIdF2Et2SBTx2R8/0428---the-light-fantastic.mp4",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5a/xcsRuLVr3NFF9BzxEgyd5CIpYSF3bmypa-BoiG8fc/0428---the-light-fantastic.mp4",
                 "last_modified": 1651157366,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4d/0TarkczwzgsWKV675hXg1PZF_-4MBdhqq3fBF7rzo/0428---the-light-fantastic-4983b4efe15cb21eb6e98a90fdeac68d2de29168.m3u8",
-                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4d/0TarkczwzgsWKV675hXg1PZF_-4MBdhqq3fBF7rzo/vtt/4/en.vtt",
-                "id": "5c6af49bac0b4fde9a57485ec06e3885",
-                "size": 2679694710
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jo/LC4CZxXDdCcarEV-1s7YkPxAEOi9l_eeXjltCAqVI/0428---the-light-fantastic-aa1bf3dff8e9ae22b93759790a2d2fe5f50c2dcd.m3u8",
+                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jo/LC4CZxXDdCcarEV-1s7YkPxAEOi9l_eeXjltCAqVI/vtt/1/en.vtt",
+                "id": "2ad159c03d874dadb32446374b1424e6",
+                "size": 2700565271
             },
             {
                 "count": 0,
@@ -11475,7 +11475,7 @@
                     "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep29_ss01.jpg",
                     "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep29_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/VYWABa1QSqEqjaudu_Vuyo/skim/",
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/wpEH5dHHRn8lZl5oOhTRa4/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -11505,12 +11505,12 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5r/lVyms-qL93aEn-C9rk2ZCeaybSdsqH6zHhZGiP0Uc/0429---unbearable.mp4",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/r2/4Pk0ZI-8Byv2ugtCHw4FY0apP6xlNCayBOe8w8PQY/0429---unbearable.mp4",
                 "last_modified": 1651157366,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mo/OsBb3eQgfhNK-SBIS2cjqkaw06soVsiau9y1R-6GQ/0429---unbearable-2ef0facb7d3d063013a168de11f14dad3c5c96c0.m3u8",
-                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mo/OsBb3eQgfhNK-SBIS2cjqkaw06soVsiau9y1R-6GQ/vtt/4/en.vtt",
-                "id": "55858005ad504aa1aa36ae76efd5bb2a",
-                "size": 2677215340
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GB/amRDs5xTDASXblpn5_mFmm6BVoF2Nhql8YJXAvXKA/0429---unbearable-0d5fee5c9bd364ffba3fb871c32717696341aeb9.m3u8",
+                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GB/amRDs5xTDASXblpn5_mFmm6BVoF2Nhql8YJXAvXKA/vtt/1/en.vtt",
+                "id": "c29107e5d1c7467f959979a0e85345ae",
+                "size": 2699446860
             },
             {
                 "count": 0,
