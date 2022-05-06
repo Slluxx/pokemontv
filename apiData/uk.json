@@ -5,8 +5,8 @@
         "channel_name": "Same-Species Showdowns",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "4",
                 "description": "Samurai challenges Ash to a battle, and Ash gets the advantage when his Metapod defends itself against Samurai's Pinsir.",
                 "is_country_whitelist": false,
@@ -9550,7 +9550,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GP/R0eyeXWLGvvSx5gL6PrSam3DIOHcvqxqfOL2-D8ac/0515---nerves-of-steelix.mp4",
-                "last_modified": 1454390077,
+                "last_modified": 1651863218,
                 "stream_url": "https://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/33bf7dca42f741e489617965aa0822d0/0515---nerves-of-steelix-944d8cc4815893102f99e92611418eb61c9bbdff.m3u8",
                 "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0q/1X0wcpMyWwQ4H87Ua6jetkdymLvCARdPJmylFrucE/vtt/3/en.vtt",
                 "id": "33bf7dca42f741e489617965aa0822d0",
@@ -11529,7 +11529,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nG/gBl5mMO9YPP-yx_uHlQkDIE9MIIEkSI6HnP4PuWms/0602---mother-of-all-battles.mp4",
-                "last_modified": 1507813515,
+                "last_modified": 1651863218,
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uO/gcllSKlF-7HvSEyECU62fLI3wnSfCf61m1J0GEYY4/0602---mother-of-all-battles-2daecf825d17f27c46f98c0cdb347ee98707d72e.m3u8",
                 "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uO/gcllSKlF-7HvSEyECU62fLI3wnSfCf61m1J0GEYY4/vtt/2/en.vtt",
                 "id": "d5bb9a9c27824230a399f4e42a11bfc6",
@@ -11580,7 +11580,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_M/6vUP9IotazQ55eHTaqdQ-N9IaCn8HNHURVFBVKuzc/0603---pop-goes-the-sneasel.mp4",
-                "last_modified": 1507813515,
+                "last_modified": 1651863218,
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-1/iBRT6vU6CdPnFTqHWnYrAOd8mLu4O9MmHr3a82b8Y/0603---pop-goes-the-sneasel-3d239ee507725ea68e8f78bc1d61b5c1c77a1e2f.m3u8",
                 "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-1/iBRT6vU6CdPnFTqHWnYrAOd8mLu4O9MmHr3a82b8Y/vtt/2/en.vtt",
                 "id": "555247df4ce2404f96dd84d28e82869e",
@@ -20044,8 +20044,8 @@
                 "size": 2787566062
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "4",
                 "description": "Samurai challenges Ash to a battle, and Ash gets the advantage when his Metapod defends itself against Samurai's Pinsir.",
                 "is_country_whitelist": false,
