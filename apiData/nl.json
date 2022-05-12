@@ -7318,8 +7318,8 @@
         "channel_name": "Pok\u00e9mon: Master Quest",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "Bij een knokpartij met Team Rocket, worden Ash en zijn vrienden van het schip gegooid dat hen naar de Whirl Islands brengt! Kunnen zij ontsnappen aan de sterke draaikolken die hen omlaag dreigen te trekken?",
                 "is_country_whitelist": false,
@@ -7418,8 +7418,8 @@
                 "size": 2516865786
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "3",
                 "description": "Onze helden komen net langs een klein bergdorpje tijdens de jaarlijkse Chinchou migratie. Het dorp stuurt altijd Trainers om de Chinchou te beschermen op hun reis\u2014maar zal dat genoeg zijn om Team Rocket tegen te houden?",
                 "is_country_whitelist": false,
@@ -18402,8 +18402,8 @@
                 "size": 2787984710
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "4",
                 "description": "Tijdens een confrontatie met een Metapod, worden Ash en Samurai aangevallen door een zwerm boze Beedrill. Ash vlucht en laat zijn Metapod achter, die kwaad op hem is omdat hij hem in de steek heeft gelaten.",
                 "is_country_whitelist": false,
@@ -21273,8 +21273,8 @@
                 "size": 791397332
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Terwijl de regio Hoenn region feest viert na het voorkomen van de verwoesting door een meteoor, onthullen verslaggever Gabby en haar cameraman Ty de primeur van hun leven.",
                 "is_country_whitelist": false,
@@ -21323,8 +21323,8 @@
                 "size": 873504291
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Aan het begin van een nieuw universum dat voor hem is uitgespreid ontmoet Cyrus van Team Galactic extreme tegenstand. Maar er komt hulp in onverwachte vorm.",
                 "is_country_whitelist": false,
