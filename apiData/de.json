@@ -576,8 +576,8 @@
         "channel_name": "Pok\u00e9mon: Entwicklungen",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Was geht einem Pok\u00e9mon-Champ durch den Kopf, w\u00e4hrend er sich auf seine gr\u00f6\u00dfte Herausforderung jemals vorbereitet? Zweifel? Bedauern? Entschlossenheit? Alle drei?",
                 "is_country_whitelist": false,
@@ -826,8 +826,8 @@
                 "size": 919803888
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Ihr ganzes Leben lang wurde ihr die Geschichte ihres Volkes erz\u00e4hlt, dessen W\u00fcnsche einen gr\u00f6\u00dferen Stellenwert einnehmen als ihre eigenen, und dass sie ihrer Verpflichtung in Hoenn nicht entkommen kann.",
                 "is_country_whitelist": false,
