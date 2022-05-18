@@ -1,5 +1,76 @@
 [
     {
+        "channel_description": "Take a trip to the Hisui region in the first episode of Pok\u00e9mon: Hisuian Snow now!",
+        "stunt_channel": true,
+        "channel_name": "Pok\u00e9mon: Hisuian Snow",
+        "media": [
+            {
+                "count": 0,
+                "rating": 1,
+                "episode": "",
+                "description": "Alec returns to the Hisui region to visit his father. There, he recalls events from his childhood when he encountered a wild Pok\u00e9mon in a snow-covered forest...",
+                "is_country_whitelist": false,
+                "title": "Onto the Icy Blue",
+                "season": "",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/hisuian-snow/hisuian_snow_ep01_ss01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/hisuian-snow/hisuian_snow_ep01_ss01.png",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/hisuian-snow/hisuian_snow_ep01_ss01_360_206.jpg"
+                },
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/bT6mn7-0R3koMkUzG7n75Q/skim/",
+                "is_new": false,
+                "country_codes": [
+                    "JP",
+                    "HK",
+                    "VN",
+                    "TH",
+                    "NP",
+                    "BD",
+                    "ID",
+                    "BN",
+                    "KH",
+                    "KP",
+                    "KR",
+                    "WS",
+                    "SG",
+                    "MY",
+                    "IN",
+                    "MN",
+                    "MM",
+                    "MO",
+                    "LA",
+                    "PH",
+                    "PK",
+                    "AF",
+                    "LK",
+                    "PG",
+                    "CN",
+                    "TW"
+                ],
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mg/XPw1EgZE6BA5zq2IUaP1g6RkKT0oSwQl4uliznzLc/hayabusa_snow_en_20220516.mp4",
+                "last_modified": 1652879274,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/__/eKN2eye88AnjlMlYVcFHZuXwN1C2ZTWmbS0e91iWY/hayabusa_snow_en_20220516-f3cb2fdf96c6e6bab4b8375be282e250001b4304.m3u8",
+                "captions": "",
+                "id": "6d3ea69fbfb44779a0c914cc6ee7ef94",
+                "size": 1386174579
+            }
+        ],
+        "channel_creation_date": 1652879277,
+        "whats_new_order": null,
+        "watch_now_order": 2,
+        "channel_id": "pokemon-hisuian-snow",
+        "channel_images": {
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/hisuian-snow/hisuian-snow-1125x1500-en.png",
+            "spotlight_image_960_1277": "",
+            "spotlight_image_2048_1152": "",
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/hisuian-snow/hisuian-snow-1660x940-en.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/hisuian-snow/hisuian-snow-1660x940-en.png"
+        },
+        "channel_update_date": 1652879274,
+        "media_type": "original",
+        "channel_status": ""
+    },
+    {
         "channel_description": "Mysteries and Superstitions Abound on Pok\u00e9mon TV!",
         "stunt_channel": true,
         "channel_name": "Pok\u00e9mon Mysteries",
@@ -255,8 +326,8 @@
                 "size": 2717509291
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "38",
                 "description": "On the fifth day of the Pok\u00e9mon Summer Academy, Professor Rowan has a special assignment for his campers: they'll each team up with a partner and go to the Summit Ruins at night.",
                 "is_country_whitelist": false,
@@ -632,7 +703,7 @@
         ],
         "channel_creation_date": 1652461174,
         "whats_new_order": null,
-        "watch_now_order": 2,
+        "watch_now_order": 3,
         "channel_id": "pokemon-mysteries",
         "channel_images": {
             "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/mysteries/mysteries-1125x1500-en.png",
@@ -641,7 +712,7 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/mysteries/mysteries-1660x940.png",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/mysteries/mysteries-1660x940.png"
         },
-        "channel_update_date": 1652461170,
+        "channel_update_date": 1652879274,
         "media_type": "episode",
         "channel_status": "AVAILABLE UNTIL MAY 27"
     },
@@ -25299,8 +25370,8 @@
                 "size": 582098269
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Follow Mewtwo as it flies over stunning landmarks, mountains, and seas. This is a feast for the eyes as well as the ears! Music: \u201cPomp and Circumstance\u201d preceded by excerpts from \u201cOrpheus in the Underworld\u201d",
                 "is_country_whitelist": false,
@@ -25349,8 +25420,8 @@
                 "size": 590263557
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Ride along with Pikachu and friends as they take a trip all through the town! Sing along and have a fun ride!",
                 "is_country_whitelist": false,
@@ -25449,8 +25520,8 @@
                 "size": 267136799
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "When Ludicolo and Eevee are running a farm of their own, things never get dull. Sing along and have fun with the frolicking friends of the farm!",
                 "is_country_whitelist": false,
@@ -25499,8 +25570,8 @@
                 "size": 407037776
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "When you can\u2019t hide your happiness, go sing and dance with Pok\u00e9mon friends! Clap your hands! Stomp your feet! Jump!",
                 "is_country_whitelist": false,
@@ -25570,8 +25641,8 @@
         "channel_name": "Sing-a-long Songs",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "It\u2019s a Pok\u00e9mon version of the popular nursery rhyme \u201cI Am the Music Man\u201d! Let\u2019s sing and dance together with Pikachu! Can you count how many Pikachu are in the video?",
                 "is_country_whitelist": false,
@@ -25670,8 +25741,8 @@
                 "size": 573454971
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Brush your teeth along with all your favorite Pok\u00e9mon!",
                 "is_country_whitelist": false,
@@ -25720,8 +25791,8 @@
                 "size": 843754191
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Are you ready for some Pika-charm? Let\u2019s sing and dance together!",
                 "is_country_whitelist": false,
@@ -25770,8 +25841,8 @@
                 "size": 843532581
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Sing and dance along with Scorbunny!",
                 "is_country_whitelist": false,
@@ -25920,8 +25991,8 @@
                 "size": 363409193
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "",
                 "description": "Throwing a party isn't an easy job, but singing the Happy Birthday song will be!  Make someone's birthday even happier by singing along!",
                 "is_country_whitelist": false,
@@ -25970,8 +26041,8 @@
                 "size": 153980796
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Your partners Pikachu and Eevee have been making you sing, sing, sing, but don\u2019t forget to dance while you\u2019re still in the mood!",
                 "is_country_whitelist": false,
@@ -26341,8 +26412,8 @@
                 "size": 5516028298
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Pikachu and Piplup come across some mysterious clay. Let\u2019s watch and see what they do with it!",
                 "is_country_whitelist": false,
@@ -26391,8 +26462,8 @@
                 "size": 1900365915
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Feel the rhythm and follow along to see if your favorite Pok\u00e9mon is inside one of the rolling Pok\u00e9 Balls!",
                 "is_country_whitelist": false,
@@ -26541,8 +26612,8 @@
                 "size": 1214912478
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Take a look at a Pikachu\u2019s morning and find out what kind of routine it goes through.",
                 "is_country_whitelist": false,
@@ -26741,8 +26812,8 @@
                 "size": 525819164
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Heave-ho! Pikachu and Eevee are determined to roll the giant ball! Who do you think will reach the finish line first?",
                 "is_country_whitelist": false,
@@ -27041,8 +27112,8 @@
                 "size": 925456681
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Feel the rhythm and follow along to see if your favorite Pok\u00e9mon is inside one of the rolling Pok\u00e9 Balls!",
                 "is_country_whitelist": false,
@@ -27091,8 +27162,8 @@
                 "size": 932521969
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Feel the rhythm and follow along to see if your favorite Pok\u00e9mon is inside one of the rolling Pok\u00e9 Balls!",
                 "is_country_whitelist": false,
@@ -27191,8 +27262,8 @@
                 "size": 703648519
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Join Mimikyu as it explores a manor filled with spooky, scary Pok\u00e9mon!",
                 "is_country_whitelist": false,
