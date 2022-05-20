@@ -1,5 +1,76 @@
 [
     {
+        "channel_description": "Ash verzet zich samen met de Mythical Pok\u00e9mon Shaymin tegen de macht van Giratina in Pok\u00e9mon: Giratina en de Krijger van de Lucht.",
+        "stunt_channel": true,
+        "channel_name": "Pok\u00e9mon: Giratina en de Krijger van de Lucht",
+        "media": [
+            {
+                "count": 0,
+                "rating": 1,
+                "episode": "",
+                "description": "In een Omgekeerde wereld raast een Legendarisch gevecht maar door.",
+                "is_country_whitelist": false,
+                "title": "Pok\u00e9mon: Giratina en de Krijger van de Lucht",
+                "season": "",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02_360_206.jpg"
+                },
+                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/vS29J0qLSJEoZZQLTlejVA/skim/",
+                "is_new": false,
+                "country_codes": [
+                    "JP",
+                    "HK",
+                    "VN",
+                    "TH",
+                    "NP",
+                    "BD",
+                    "ID",
+                    "BN",
+                    "KH",
+                    "KP",
+                    "KR",
+                    "WS",
+                    "SG",
+                    "MY",
+                    "IN",
+                    "MN",
+                    "MM",
+                    "MO",
+                    "LA",
+                    "PH",
+                    "PK",
+                    "AF",
+                    "LK",
+                    "PG",
+                    "CN",
+                    "TW"
+                ],
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xz/NsXYrRkzqKJk0jD5fhlleone-ERCYFW7RFT-IJWow/pokemon_movie11_dut.mp4",
+                "last_modified": 1653061622,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qt/7DYZfunX2hdFFzY8gBqlfySap3M4R64NsaSV9kmTs/pokemon_movie11_dut-0d0a81c2d7075139b47feeadaee6a11ab8932934.m3u8",
+                "captions": "",
+                "id": "bd2dbd274a8b4891a196502d395e8d50",
+                "size": 12027576693
+            }
+        ],
+        "channel_creation_date": 1467416841,
+        "whats_new_order": null,
+        "watch_now_order": 3,
+        "channel_id": "pokemon-giratina-en-de-krijger-van-de-lucht",
+        "channel_images": {
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/movie11/movie11-1125x1500-en.png",
+            "spotlight_image_960_1277": "",
+            "spotlight_image_2048_1152": "",
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/movie11/movie11-1660x940-en.jpg",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/movie11/movie11-1660x940-en.jpg"
+        },
+        "channel_update_date": 1653061622,
+        "media_type": "movie",
+        "channel_status": ""
+    },
+    {
         "channel_description": "De reis gaat verder op Pok\u00e9mon TV! Bekijk vandaag afleveringen van het nieuwe seizoen van Pok\u00e9mon de serie: Zon & Maan - Ultra Legendes!",
         "stunt_channel": false,
         "channel_name": "Pok\u00e9mon de serie: Zon & Maan - Ultra Legendes",
@@ -55,8 +126,8 @@
                 "size": 2823176575
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "2",
                 "description": "Harper en Sarah willen dolgraag naar een spookhuis en uiteindelijk wordt het allemaal net iets te leuk!",
                 "is_country_whitelist": false,
@@ -7668,8 +7739,8 @@
                 "size": 2524166304
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "8",
                 "description": "Het is de tweede ronde van de Whirl Cup en Ash en Misty staan tegenover elkaar! Wie zal dit winnen? En zal het plan van Team Rocket om de politie af te leiden lukken?",
                 "is_country_whitelist": false,
