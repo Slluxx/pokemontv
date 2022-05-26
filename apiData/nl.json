@@ -5,8 +5,8 @@
         "channel_name": "Pok\u00e9mon: Giratina en de Krijger van de Lucht",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "In een Omgekeerde wereld raast een Legendarisch gevecht maar door.",
                 "is_country_whitelist": false,
@@ -126,8 +126,8 @@
                 "size": 2823176575
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Harper en Sarah willen dolgraag naar een spookhuis en uiteindelijk wordt het allemaal net iets te leuk!",
                 "is_country_whitelist": false,
@@ -7839,8 +7839,8 @@
                 "size": 2620451209
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "10",
                 "description": "Onze helden ontmoeten een sieradenmaker die hen de legende vertelt van het vierde Whirl Island\u2026en die al snel verwikkeld is in een list van Team Rocket!",
                 "is_country_whitelist": false,
@@ -7889,8 +7889,8 @@
                 "size": 2617537495
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "11",
                 "description": "Terwijl twee groepen Team Rocket boeven erop uit trekken om de Legendarische Pok\u00e9mon Lugia te vangen, komt Ash zijn oude vriend Richie en zijn partner tegen, een Pikachu genaamd Sparky!",
                 "is_country_whitelist": false,
