@@ -5,7 +5,7 @@
         "channel_name": "Pok\u00e9mon : Les neiges de Hisui",
         "media": [
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "Alec retourne dans la r\u00e9gion de Hisui pour rendre visite \u00e0 son p\u00e8re. Il se rem\u00e9more alors des \u00e9v\u00e8nements survenus dans son enfance lorsqu\u2019il a rencontr\u00e9 un Pok\u00e9mon sauvage dans une for\u00eat enneig\u00e9e...",
@@ -10394,8 +10394,8 @@
                 "size": 2592823466
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "30",
                 "description": "Sans m\u00eame prendre le temps de savourer sa derni\u00e8re victoire, Sacha se lance \u00e0 l'assaut de son prochain objectif\u00a0: l'Ar\u00e8ne d'\u00c9benelle.",
                 "is_country_whitelist": false,
@@ -24312,8 +24312,8 @@
                 "size": 400521932
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 2,
                 "episode": "",
                 "description": "Chantons en marchant avec des Pok\u00e9mon\u00a0! Viens te promener avec Pikachu, \u00c9voli et ses \u00c9volutions, et chante avec eux\u00a0!",
                 "is_country_whitelist": false,
