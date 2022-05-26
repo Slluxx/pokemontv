@@ -76,8 +76,8 @@
         "channel_name": "Pok\u00e9mon: Giratina & the Sky Warrior",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "In a Reverse World, a Legendary Battle Rages On\u2026",
                 "is_country_whitelist": false,
@@ -8873,8 +8873,8 @@
                 "size": 2423552018
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "42",
                 "description": "A celebratory Pok\u00e9mon School class trip turns out to be a reunion no one will ever forget!",
                 "is_country_whitelist": false,
@@ -8994,8 +8994,8 @@
         "channel_name": "Pok\u00e9mon: Master Quest",
         "media": [
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "In a scuffle with Team Rocket, Ash and friends are thrown from the ship bearing them to the Whirl Islands.",
                 "is_country_whitelist": false,
