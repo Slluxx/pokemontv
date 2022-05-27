@@ -76,7 +76,7 @@
         "channel_name": "Pok\u00e9mon: Giratina & the Sky Warrior",
         "media": [
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "In a Reverse World, a Legendary Battle Rages On\u2026",
@@ -6823,8 +6823,8 @@
         "channel_name": "Pok\u00e9mon the Series: Sun & Moon",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "What begins as a vacation for our hero on Melemele Island in the Alola region turns into the promise of many, many exciting adventures to come!",
                 "is_country_whitelist": false,
