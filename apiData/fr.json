@@ -5,8 +5,8 @@
         "channel_name": "Insectomania",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "20",
                 "description": "Lorsque nos amis aper\u00e7oivent une nu\u00e9e de Papilusion planer au-dessus de l'oc\u00e9an, Pierre, en tant qu'\u00e9leveur de Pok\u00e9mon, explique qu'il s'agit de la p\u00e9riode de ponte des Papilusion.",
                 "is_country_whitelist": false,
@@ -20728,8 +20728,8 @@
                 "size": 2800058415
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "20",
                 "description": "Lorsque nos amis aper\u00e7oivent une nu\u00e9e de Papilusion planer au-dessus de l'oc\u00e9an, Pierre, en tant qu'\u00e9leveur de Pok\u00e9mon, explique qu'il s'agit de la p\u00e9riode de ponte des Papilusion.",
                 "is_country_whitelist": false,
@@ -24933,7 +24933,7 @@
                 "size": 7370442350
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "Pikachu et Tiplouf trouvent de la p\u00e2te \u00e0 modeler myst\u00e9rieuse. Regardons ce qu\u2019ils en feront\u00a0!",
