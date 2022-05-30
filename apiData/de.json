@@ -1089,8 +1089,8 @@
         "channel_name": "Bidiza gibt alles",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Ein tollpatschiges Bidiza legt einen Zahn zu und st\u00fcrzt sich Hals \u00fcber Kopf in ein gro\u00dfes Abenteuer, um seinen Platz in der Welt zu finden.",
                 "is_country_whitelist": false,
@@ -24933,7 +24933,7 @@
                 "size": 7370236579
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "Pikachu und Plinfa sto\u00dfen auf eine geheimnisvolle Knete. Schauen wir mal, was sie damit machen!",
@@ -25433,8 +25433,8 @@
                 "size": 587085763
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 2,
                 "episode": "",
                 "description": "Pikachu und Evoli sind bereit f\u00fcr ein freundschaftliches Spiel mit Luftballons! Lasst uns die beiden anfeuern!",
                 "is_country_whitelist": false,
