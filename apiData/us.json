@@ -208,8 +208,8 @@
                 "size": 2676074929
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "26",
                 "description": "On the way to Pastoria City, Ash and his friends meet Tyler and his Piplup, Pippy. The pair is hot on the trail of a Yanma.",
                 "is_country_whitelist": false,
@@ -258,8 +258,8 @@
                 "size": 2653704449
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "23",
                 "description": "Ash\u2019s battle with Burgh, the Castelia Gym Leader, has finally arrived!",
                 "is_country_whitelist": false,
@@ -308,8 +308,8 @@
                 "size": 2673357761
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "14",
                 "description": "Continuing their journey to Mistralton City, our heroes come across Chargestone Cave and a dilemma for its residents!",
                 "is_country_whitelist": false,
@@ -13368,9 +13368,9 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season05/season05-1660x940-en.png",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season05/season05-1660x940-en.png"
         },
-        "channel_update_date": 1651847030,
+        "channel_update_date": 1654013912,
         "media_type": "episode",
-        "channel_status": ""
+        "channel_status": "AVAILABLE UNTIL JUNE 3"
     },
     {
         "channel_description": "Ash and Pikachu explore the Johto region in the fourth season of Pok\u00e9mon the Series. Watch it now on Pok\u00e9mon TV!",
@@ -16028,9 +16028,9 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season04/season04-1660x940-en.png",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season04/season04-1660x940-en.png"
         },
-        "channel_update_date": 1648835356,
+        "channel_update_date": 1654013912,
         "media_type": "episode",
-        "channel_status": ""
+        "channel_status": "AVAILABLE UNTIL JUNE 3"
     },
     {
         "channel_description": "Take one more step up the ladder by joining Ash in the Johto region in Pok\u00e9mon: The Johto Journeys, now on Pok\u00e9mon TV!",
@@ -18140,9 +18140,9 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season03/season03-1660x940-en.png",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season03/season03-1660x940-en.png"
         },
-        "channel_update_date": 1646411930,
+        "channel_update_date": 1654013912,
         "media_type": "episode",
-        "channel_status": ""
+        "channel_status": "AVAILABLE UNTIL JUNE 3"
     },
     {
         "channel_description": "Ash and Pikachu leave Kanto for the Orange Islands in the second season of Pok\u00e9mon the Series\u2014see it now on Pok\u00e9mon TV!",
