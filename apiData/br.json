@@ -85,7 +85,7 @@
                 "season": "",
                 "images": {
                     "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss01.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02.jpg",
                     "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02_360_206.jpg"
                 },
                 "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/U2zrY4wRRHMnLnjWYJdzPI/skim/",
@@ -119,7 +119,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bm/6kcriKPEnEQonwq4NSOxEBCM_cL1RgR6017A9dt08/m11_movie11_bpo.mp4",
-                "last_modified": 1653061666,
+                "last_modified": 1654043919,
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uq/ChBcxoou-ER9eUL35ynRjPUccW_Ty_jF4v_o9ULwM/m11_movie11_bpo-51edfd2842823674ca754e440ff4660ff5af51aa.m3u8",
                 "captions": "",
                 "id": "536ceb638c1144739cb9e359825dccf2",
@@ -23821,7 +23821,7 @@
                 "size": 7370061728
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "Pikachu e Piplup se deparam com uma argila misteriosa. Vamos assistir e ver o que eles fazem com ela!",

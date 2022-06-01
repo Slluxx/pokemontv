@@ -14,7 +14,7 @@
                 "season": "",
                 "images": {
                     "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss01.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02.jpg",
                     "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02_360_206.jpg"
                 },
                 "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/vS29J0qLSJEoZZQLTlejVA/skim/",
@@ -48,7 +48,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xz/NsXYrRkzqKJk0jD5fhlleone-ERCYFW7RFT-IJWow/pokemon_movie11_dut.mp4",
-                "last_modified": 1653061622,
+                "last_modified": 1654043849,
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qt/7DYZfunX2hdFFzY8gBqlfySap3M4R64NsaSV9kmTs/pokemon_movie11_dut-0d0a81c2d7075139b47feeadaee6a11ab8932934.m3u8",
                 "captions": "",
                 "id": "bd2dbd274a8b4891a196502d395e8d50",
@@ -8089,8 +8089,8 @@
                 "size": 2602919641
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "15",
                 "description": "Na meerdere onderbrekingen, waaronder de zoveelste streek van Team Rocket, gaat het gevecht van Ash tegen Jasmine in de Olivine Gym eindelijk beginnen!",
                 "is_country_whitelist": false,
@@ -8139,8 +8139,8 @@
                 "size": 2633355676
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "16",
                 "description": "Als de Pok\u00e9mon in het lab van Professor Oak in Kanto het niet met elkaar kunnen vinden, vraagt de professor Ash om zijn Bulbasaur naar het lab te sturen om te helpen de vrede te bewaren.",
                 "is_country_whitelist": false,
@@ -11210,8 +11210,8 @@
                 "size": 2604984870
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "13",
                 "description": "Als Ash ernstige buikpijn krijgt, ver weg van een ziekenhuis, krijgt hij hulp van een plaatselijke genezer en zijn Shuckle metgezellen!",
                 "is_country_whitelist": false,
@@ -18423,8 +18423,8 @@
                 "size": 2787022334
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "3",
                 "description": "Ash ontdekt en vangt zijn eerste Pok\u00e9mon! Hoewel hij opgewonden is, is Misty vol afschuw over zijn nieuwe Insectsoort Pok\u00e9mon vriend.",
                 "is_country_whitelist": false,
@@ -18473,8 +18473,8 @@
                 "size": 2787984710
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "4",
                 "description": "Tijdens een confrontatie met een Metapod, worden Ash en Samurai aangevallen door een zwerm boze Beedrill. Ash vlucht en laat zijn Metapod achter, die kwaad op hem is omdat hij hem in de steek heeft gelaten.",
                 "is_country_whitelist": false,
