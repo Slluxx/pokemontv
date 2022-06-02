@@ -55,8 +55,8 @@
                 "size": 2809708330
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "3",
                 "description": "Ash and friends discover a forest where invading Pinsir are causing heavy deforestation.",
                 "is_country_whitelist": false,
@@ -157,8 +157,8 @@
                 "size": 2857578070
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "28",
                 "description": "Team Rocket is devising a plan to capture a Seedot. Jessie is gushing over how wonderful it's going to be when her Silcoon (which is actually a Cascoon) evolves into a Beautifly. James and Meowth shudder at the impending doom.",
                 "is_country_whitelist": false,
@@ -208,8 +208,8 @@
                 "size": 2676074929
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "26",
                 "description": "On the way to Pastoria City, Ash and his friends meet Tyler and his Piplup, Pippy. The pair is hot on the trail of a Yanma.",
                 "is_country_whitelist": false,
@@ -258,7 +258,7 @@
                 "size": 2653704449
             },
             {
-                "count": 2,
+                "count": 1,
                 "rating": 5,
                 "episode": "23",
                 "description": "Ash\u2019s battle with Burgh, the Castelia Gym Leader, has finally arrived!",
@@ -308,8 +308,8 @@
                 "size": 2673357761
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "14",
                 "description": "Continuing their journey to Mistralton City, our heroes come across Chargestone Cave and a dilemma for its residents!",
                 "is_country_whitelist": false,
@@ -8999,8 +8999,8 @@
                 "size": 2660769824
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "3",
                 "description": "On their way to the Whirl Cup competition, Ash and friends are fortunate enough to pass a small mountain village just as an annual Chinchou migration is about to occur.",
                 "is_country_whitelist": false,
@@ -14919,8 +14919,8 @@
                 "size": 2857694251
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "3",
                 "description": "Ash and friends discover a forest where invading Pinsir are causing heavy deforestation.",
                 "is_country_whitelist": false,
@@ -24990,8 +24990,8 @@
         "channel_name": "Pok\u00e9mon Fun",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Ditto transformed into a stone and took a nap. When it woke up, it was surprised to find Rowlet sleeping on top of it! See what Ditto does next!",
                 "is_country_whitelist": false,
