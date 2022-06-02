@@ -6,7 +6,7 @@
         "media": [
             {
                 "count": 0,
-                "rating": 3,
+                "rating": 1,
                 "episode": "",
                 "description": "In een Omgekeerde wereld raast een Legendarisch gevecht maar door.",
                 "is_country_whitelist": false,
@@ -8089,8 +8089,8 @@
                 "size": 2602919641
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "15",
                 "description": "Na meerdere onderbrekingen, waaronder de zoveelste streek van Team Rocket, gaat het gevecht van Ash tegen Jasmine in de Olivine Gym eindelijk beginnen!",
                 "is_country_whitelist": false,
@@ -8139,8 +8139,8 @@
                 "size": 2633355676
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "16",
                 "description": "Als de Pok\u00e9mon in het lab van Professor Oak in Kanto het niet met elkaar kunnen vinden, vraagt de professor Ash om zijn Bulbasaur naar het lab te sturen om te helpen de vrede te bewaren.",
                 "is_country_whitelist": false,
@@ -8239,8 +8239,8 @@
                 "size": 2471371238
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "18",
                 "description": "Als onze helden plotseling klokgelui onderzoeken, ontdekken zij dat de Kristallen Klokken, die alleen luiden als de Legendarische Pok\u00e9mon Ho-Oh terugkeert, verdwenen zijn! De onderzoeker Eusine lijkt iets te weten\u2026",
                 "is_country_whitelist": false,
@@ -8289,8 +8289,8 @@
                 "size": 2614424413
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "19",
                 "description": "Als Ash zijn oude rivaal Gary tegenkomt, die zijn Arcanine in wil zetten in een race, besluit hij om ook mee te doen! Maar eerst moet hij Team Rocket wegjagen van het Pok\u00e9mon Dagverblijf.",
                 "is_country_whitelist": false,
@@ -8339,8 +8339,8 @@
                 "size": 1802161446
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "20",
                 "description": "Als het Pok\u00e9mon Ei dat aan Ash was gegeven, verdwenen is, roepen onze helden de hulp in van arme Agent Jenny. Al snel ontdekken ze dat zelf moeten zorgen dat het Ei terugkomt!",
                 "is_country_whitelist": false,
@@ -8389,7 +8389,7 @@
                 "size": 2617024546
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "21",
                 "description": "Het moment is eindelijk aangebroken: er komt een Phanpy uit het Pok\u00e9mon Ei van Ash! De kleine Pok\u00e9mon heeft veel energie en gaat er al snel vandoor\u2026met onze helden en Team Rocket in het kielzog!",
@@ -8489,8 +8489,8 @@
                 "size": 2655690183
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "23",
                 "description": "Als dichte mist de reis van onze helden vertraagt, nodigen een meisje en haar Ninetales hen uit in hun nabijgelegen landhuis...waar Brock en hun gastvrouw een romance beginnen die spookachtig kan blijken te zijn!",
                 "is_country_whitelist": false,
@@ -18423,8 +18423,8 @@
                 "size": 2787022334
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "3",
                 "description": "Ash ontdekt en vangt zijn eerste Pok\u00e9mon! Hoewel hij opgewonden is, is Misty vol afschuw over zijn nieuwe Insectsoort Pok\u00e9mon vriend.",
                 "is_country_whitelist": false,
@@ -18473,8 +18473,8 @@
                 "size": 2787984710
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "4",
                 "description": "Tijdens een confrontatie met een Metapod, worden Ash en Samurai aangevallen door een zwerm boze Beedrill. Ash vlucht en laat zijn Metapod achter, die kwaad op hem is omdat hij hem in de steek heeft gelaten.",
                 "is_country_whitelist": false,
