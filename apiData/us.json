@@ -208,8 +208,8 @@
                 "size": 2676074929
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "26",
                 "description": "On the way to Pastoria City, Ash and his friends meet Tyler and his Piplup, Pippy. The pair is hot on the trail of a Yanma.",
                 "is_country_whitelist": false,
@@ -258,8 +258,8 @@
                 "size": 2653704449
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "23",
                 "description": "Ash\u2019s battle with Burgh, the Castelia Gym Leader, has finally arrived!",
                 "is_country_whitelist": false,
@@ -308,8 +308,8 @@
                 "size": 2673357761
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "14",
                 "description": "Continuing their journey to Mistralton City, our heroes come across Chargestone Cave and a dilemma for its residents!",
                 "is_country_whitelist": false,
@@ -529,7 +529,7 @@
         "channel_name": "Pok\u00e9mon: Hisuian Snow",
         "media": [
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "Alec returns to the Hisui region to visit his father. There, he recalls events from his childhood when he encountered a wild Pok\u00e9mon in a snow-covered forest...",
@@ -600,8 +600,8 @@
         "channel_name": "Pok\u00e9mon: Giratina & the Sky Warrior",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "In a Reverse World, a Legendary Battle Rages On\u2026",
                 "is_country_whitelist": false,
