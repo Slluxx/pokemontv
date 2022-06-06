@@ -529,7 +529,7 @@
         "channel_name": "Pok\u00e9mon: Hisuian Snow",
         "media": [
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "Alec returns to the Hisui region to visit his father. There, he recalls events from his childhood when he encountered a wild Pok\u00e9mon in a snow-covered forest...",
@@ -11271,8 +11271,8 @@
                 "size": 2676340722
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "25",
                 "description": "As our heroes set out on their journey again, they encounter a waterfall.",
                 "is_country_whitelist": false,
