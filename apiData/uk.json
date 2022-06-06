@@ -529,7 +529,7 @@
         "channel_name": "Pok\u00e9mon: Hisuian Snow",
         "media": [
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "Alec returns to the Hisui region to visit his father. There, he recalls events from his childhood when he encountered a wild Pok\u00e9mon in a snow-covered forest...",
@@ -9438,8 +9438,8 @@
                 "size": 2674969320
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "13",
                 "description": "Ash, Brock, Max and May have just arrived at a Contest Hall. Janet and Chaz, two experienced Pok\u00e9mon Coordinators, teach the gang all about Contests.",
                 "is_country_whitelist": false,
@@ -15893,8 +15893,8 @@
                 "size": 2803673868
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "40",
                 "description": "Our heroes continue their Pok\u00e9mon training without a break even over spring vacation, when what should appear before them but a carnival.",
                 "is_country_whitelist": false,
@@ -16093,8 +16093,8 @@
                 "size": 2806734620
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "44",
                 "description": "As our heroes sleep peacefully, Pikachu begins experiencing an unusual sensation. As though it were choking on something, Pikachu's expression grows steadily more and more pained.",
                 "is_country_whitelist": false,
@@ -16193,8 +16193,8 @@
                 "size": 2797566366
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "46",
                 "description": "As Ash sits on a rock, staring at his Pok\u00e9dex, it displays Farfetch'd, an odd-looking Pok\u00e9mon holding a leek.",
                 "is_country_whitelist": false,
