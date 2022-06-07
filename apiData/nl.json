@@ -7318,8 +7318,8 @@
         "channel_name": "Pok\u00e9mon Advanced",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Pikachu heeft last van een ernstige elektrische overbelasting! Kunnen Ash en Professor Birch een oplossing vinden, voordat het te laat is?",
                 "is_country_whitelist": false,
@@ -7368,8 +7368,8 @@
                 "size": 2576292002
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Door een stroomstoring in het Pok\u00e9mon Center doen Ash en zijn vriendin May een verbazingwekkende ontdekking!",
                 "is_country_whitelist": false,
@@ -7418,8 +7418,8 @@
                 "size": 2604944578
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "3",
                 "description": "Ash is klaar voor zijn eerste Gym Gevecht in de Hoenn regio en de Gym Leader waartegen hij het moet opnemen is niemand minder dan May's vader!",
                 "is_country_whitelist": false,
@@ -7468,8 +7468,8 @@
                 "size": 2486589014
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "4",
                 "description": "Wanneer Team Rocket een zwerm Taillow op onze helden afstuurt, komt een oude vriend ze redden!",
                 "is_country_whitelist": false,
