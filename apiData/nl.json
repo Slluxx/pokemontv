@@ -7618,8 +7618,8 @@
                 "size": 2587166731
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "7",
                 "description": "Wanneer Ash in het bos verdwaalt, ontmoet hij een Treecko die vastberaden is zijn boshuis te behouden.",
                 "is_country_whitelist": false,
@@ -7668,8 +7668,8 @@
                 "size": 2595192509
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 2,
+                "rating": 5,
                 "episode": "8",
                 "description": "Ash's Treecko neemt het op tegen een wilde Seviper, maar dat loopt niet zo goed af...",
                 "is_country_whitelist": false,
@@ -7718,8 +7718,8 @@
                 "size": 2625135526
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "9",
                 "description": "Onze helden pauzeren in Rinshin Town en onderzoeken een mysterieus spookhuis!",
                 "is_country_whitelist": false,
@@ -7768,8 +7768,8 @@
                 "size": 2583120738
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "10",
                 "description": "Ash neemt het op tegen een Trainer die beweert de sterkste Pok\u00e9mon van de wereld te hebben, maar er is iets eigenaardigs aan dit gevecht...",
                 "is_country_whitelist": false,
@@ -7818,8 +7818,8 @@
                 "size": 2590240205
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "11",
                 "description": "Nadat Max een groep Mightyena heeft ontmoet, raakt hij bevriend met een Poochyena die nog niet ge\u00ebvolueerd is en besluit hij hem zelf te gaan trainen!",
                 "is_country_whitelist": false,
@@ -7868,8 +7868,8 @@
                 "size": 2594854076
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "12",
                 "description": "Onze helden ontmoeten drie zusjes die bessen kweken met behulp van een groep Lotad!",
                 "is_country_whitelist": false,
@@ -7918,8 +7918,8 @@
                 "size": 2615712358
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "13",
                 "description": "Ash en zijn vrienden ontdekken een nieuwe Pok\u00e9mon Competitie en het lijkt er op dat May haar roeping heeft gevonden!",
                 "is_country_whitelist": false,
@@ -8566,56 +8566,6 @@
                 "captions": "",
                 "id": "943f0da7fb6c42c6886e4eb911a591b0",
                 "size": 2629661670
-            },
-            {
-                "count": 0,
-                "rating": 1,
-                "episode": "26",
-                "description": "Wanneer onze helden van hun Pok\u00e9mon gescheiden worden in een diepe, donkere grot, komen beide groepen in de problemen!",
-                "is_country_whitelist": false,
-                "title": "Neem dat maar voor Nuzleaf!",
-                "season": "6",
-                "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep38_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep38_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep38_360_206.jpg"
-                },
-                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/uNFVJXQORQsnhRq22OF978/skim/",
-                "is_new": false,
-                "country_codes": [
-                    "JP",
-                    "HK",
-                    "VN",
-                    "TH",
-                    "NP",
-                    "BD",
-                    "ID",
-                    "BN",
-                    "KH",
-                    "KP",
-                    "KR",
-                    "WS",
-                    "SG",
-                    "MY",
-                    "IN",
-                    "MN",
-                    "MM",
-                    "MO",
-                    "LA",
-                    "PH",
-                    "PK",
-                    "AF",
-                    "LK",
-                    "PG",
-                    "CN",
-                    "TW"
-                ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gt/BYHHHN-UFt2njZ_6GtanKSzgIZkzrbsmOmFiUdKLA/pokemon_season6_ep38_dut.mp4",
-                "last_modified": 1602889466,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Px/l9ayfaLJYlzNcwq0E0PNBObfCF7CtPaSWXOW4CaBA/pokemon_season6_ep38_dut-e5bceed5b95bbef1c3061d41f92ff3aceaa4d402.m3u8",
-                "captions": "",
-                "id": "b8d15525740e450b9e146adb6385f7bf",
-                "size": 2625321620
             },
             {
                 "count": 0,
