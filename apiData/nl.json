@@ -7618,8 +7618,8 @@
                 "size": 2587166731
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "7",
                 "description": "Wanneer Ash in het bos verdwaalt, ontmoet hij een Treecko die vastberaden is zijn boshuis te behouden.",
                 "is_country_whitelist": false,
@@ -7668,8 +7668,8 @@
                 "size": 2595192509
             },
             {
-                "count": 2,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "8",
                 "description": "Ash's Treecko neemt het op tegen een wilde Seviper, maar dat loopt niet zo goed af...",
                 "is_country_whitelist": false,
@@ -7968,8 +7968,8 @@
                 "size": 2602109706
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "14",
                 "description": "Terwijl May haar eerste Wurmple voor haar eerste Pok\u00e9mon Wedstrijd gaat vangen, wordt Ash uitgedaagd voor een Dubbelgevecht!",
                 "is_country_whitelist": false,
