@@ -2310,8 +2310,8 @@
                 "size": 2906651767
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "17",
                 "description": "Les \u00e9l\u00e8ves de l'\u00c9cole Pok\u00e9mon ont un dernier projet \u00e0 accomplir, qui se r\u00e9v\u00e8lera sans doute aussi passionnant qu'\u00e9lectrisant pour tout le monde !",
                 "is_country_whitelist": false,
@@ -18549,8 +18549,8 @@
                 "size": 314586756
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Chante avec eux pour te mettre dans l\u2019esprit des f\u00eates\u00a0! Une balade en tra\u00eeneau, c\u2019est amusant, mais c\u2019est encore plus amusant avec des Pok\u00e9mon \u00e0 tes c\u00f4t\u00e9s pour chanter Vive le vent\u00a0!",
                 "is_country_whitelist": false,
@@ -18599,8 +18599,8 @@
                 "size": 360802160
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Organiser une f\u00eate n\u2019est pas une t\u00e2che facile, mais chanter Joyeux Anniversaire n\u2019est pas un probl\u00e8me\u00a0!  Fais plaisir \u00e0 quelqu\u2019un dont c\u2019est l\u2019anniversaire et chante\u00a0!",
                 "is_country_whitelist": false,
@@ -18749,8 +18749,8 @@
                 "size": 866762926
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Vous avez re\u00e7u une invitation \u00e0 une f\u00eate par une nuit de pleine lune. Mettez-vous dans l\u2019ambiance d\u2019Halloween et dansez avec vos amis Pok\u00e9mon\u00a0!",
                 "is_country_whitelist": false,
