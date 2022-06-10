@@ -7718,8 +7718,8 @@
                 "size": 2625135526
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "9",
                 "description": "Onze helden pauzeren in Rinshin Town en onderzoeken een mysterieus spookhuis!",
                 "is_country_whitelist": false,
@@ -7768,8 +7768,8 @@
                 "size": 2583120738
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "10",
                 "description": "Ash neemt het op tegen een Trainer die beweert de sterkste Pok\u00e9mon van de wereld te hebben, maar er is iets eigenaardigs aan dit gevecht...",
                 "is_country_whitelist": false,
@@ -7818,8 +7818,8 @@
                 "size": 2590240205
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "11",
                 "description": "Nadat Max een groep Mightyena heeft ontmoet, raakt hij bevriend met een Poochyena die nog niet ge\u00ebvolueerd is en besluit hij hem zelf te gaan trainen!",
                 "is_country_whitelist": false,
@@ -7868,8 +7868,8 @@
                 "size": 2594854076
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "12",
                 "description": "Onze helden ontmoeten drie zusjes die bessen kweken met behulp van een groep Lotad!",
                 "is_country_whitelist": false,
@@ -7918,8 +7918,8 @@
                 "size": 2615712358
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "13",
                 "description": "Ash en zijn vrienden ontdekken een nieuwe Pok\u00e9mon Competitie en het lijkt er op dat May haar roeping heeft gevonden!",
                 "is_country_whitelist": false,
@@ -7968,8 +7968,8 @@
                 "size": 2602109706
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "14",
                 "description": "Terwijl May haar eerste Wurmple voor haar eerste Pok\u00e9mon Wedstrijd gaat vangen, wordt Ash uitgedaagd voor een Dubbelgevecht!",
                 "is_country_whitelist": false,
@@ -8018,8 +8018,8 @@
                 "size": 2623867947
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "15",
                 "description": "Onze helden bezoeken de Pok\u00e9mon Trainer School in Rustboro City, waar Max een confrontatie heeft met een klasgenoot!",
                 "is_country_whitelist": false,
@@ -8368,8 +8368,8 @@
                 "size": 2635678683
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "22",
                 "description": "Ash en zijn vrienden ontmoeten Steven Stone in de Granite Grot, waar ze al snel in \u00e9\u00e9n van Team Rocket's vallen lopen!",
                 "is_country_whitelist": false,
