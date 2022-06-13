@@ -1289,8 +1289,8 @@
                 "size": 1102632831
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Donna, Championne d\u2019Ar\u00e8ne et mannequin extr\u00eamement populaire, s\u2019est toujours efforc\u00e9e d\u2019\u00eatre la meilleure. Elle partage son temps entre ses deux professions, mais Shehroz lui conseille de n\u2019en choisir qu\u2019une si elle veut vraiment \u00eatre la meilleure. Va-t-elle sacrifier un r\u00eave pour que l\u2019autre puisse se r\u00e9aliser ?",
                 "is_country_whitelist": false,
@@ -10944,8 +10944,8 @@
                 "size": 2484830732
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "3",
                 "description": "Sacha, Pierre et Ondine se rendent \u00e0 Cramois'\u00eele o\u00f9 Sacha esp\u00e8re remporter son Badge Volcan.",
                 "is_country_whitelist": false,
@@ -18349,8 +18349,8 @@
                 "size": 311365948
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Lave-toi les dents avec tes Pok\u00e9mon pr\u00e9f\u00e9r\u00e9s\u00a0!",
                 "is_country_whitelist": false,
@@ -18449,8 +18449,8 @@
                 "size": 509314068
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Chante et danse avec Flambino\u00a0!",
                 "is_country_whitelist": false,
@@ -18649,7 +18649,7 @@
                 "size": 150032491
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "Tes partenaires Pikachu et \u00c9voli t\u2019ont fait chanter, chanter, chanter, mais n\u2019oublie pas de danser tant que tu es d\u2019humeur\u00a0!",
