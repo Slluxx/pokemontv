@@ -55,8 +55,8 @@
                 "size": 1386174579
             },
             {
-                "count": 3,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "After falling down a cliffside, young Alec befriends the Hisuian Zorua, and they work together to climb back up. But when Alec returns to his father, he's surprised at his father's reaction upon seeing the Zorua.",
                 "is_country_whitelist": false,
@@ -126,8 +126,8 @@
         "channel_name": "Arcanine Heats Things Up",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "45",
                 "description": "As our heroes pass the entrance to a small village, they stop in front of a strange sign.",
                 "is_country_whitelist": false,
@@ -580,8 +580,8 @@
                 "size": 2519925917
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "48",
                 "description": "When our heroes discover a buried treasure chest in the forest, little do they realize the disaster that waits for them inside it!",
                 "is_country_whitelist": false,
@@ -1493,8 +1493,8 @@
                 "size": 1548909955
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Leon heads to the Isle of Armor to meet with his former mentor, Mustard, and ask for his support. By gathering star Trainers from across Galar, he\u2019ll create a tournament unlike any other!",
                 "is_country_whitelist": false,
@@ -16194,8 +16194,8 @@
                 "size": 2792419152
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "45",
                 "description": "As our heroes pass the entrance to a small village, they stop in front of a strange sign.",
                 "is_country_whitelist": false,
