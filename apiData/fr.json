@@ -18649,7 +18649,7 @@
                 "size": 150032491
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "Tes partenaires Pikachu et \u00c9voli t\u2019ont fait chanter, chanter, chanter, mais n\u2019oublie pas de danser tant que tu es d\u2019humeur\u00a0!",
@@ -18749,8 +18749,8 @@
                 "size": 866762926
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Vous avez re\u00e7u une invitation \u00e0 une f\u00eate par une nuit de pleine lune. Mettez-vous dans l\u2019ambiance d\u2019Halloween et dansez avec vos amis Pok\u00e9mon\u00a0!",
                 "is_country_whitelist": false,
