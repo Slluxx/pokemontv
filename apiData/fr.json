@@ -5,8 +5,8 @@
         "channel_name": "POK\u00c9TOON",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "En pleine chasse aux Pok\u00e9 F\u00e8ves, Baggiguane croise un Pok\u00e9mon singulier\u2026 du nom de Mimiqui\u00a0! Ce dernier aimerait qu'ils deviennent amis, mais Baggiguane est obnubil\u00e9 par sa recherche de nourriture. La course-poursuite qui s'ensuit les m\u00e8nera-t-elle vers une potentielle amiti\u00e9\u00a0?",
                 "is_country_whitelist": false,
@@ -1752,8 +1752,8 @@
                 "size": 2890955434
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "3",
                 "description": "Une activit\u00e9 anormale est constat\u00e9e sur le Mont Wela, mais les Ultra-Gardiens sont sur le coup !",
                 "is_country_whitelist": false,
