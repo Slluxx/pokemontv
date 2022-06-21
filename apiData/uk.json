@@ -5,7 +5,7 @@
         "channel_name": "POK\u00c9TOON",
         "media": [
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "On the hunt for some tasty Pok\u00e9 Beans, Scraggy runs into a peculiar Pok\u00e9mon\u2014Mimikyu! Mimikyu wants to be friends, but Scraggy only wants snacks. Watch as they chase each other toward a potential friendship.",
@@ -76,8 +76,8 @@
         "channel_name": "Pok\u00e9mon: Arceus and the Jewel of Life",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "A Tale Untold. A Legend Unleashed.",
                 "is_country_whitelist": false,
@@ -11080,8 +11080,8 @@
         "channel_name": "Pok\u00e9mon: Adventures in the Orange Islands",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "Misty and Jessie compete against one another for Queen of the Princess Festival, a day where women rule and the guys have to do whatever the girls tell them.",
                 "is_country_whitelist": false,
@@ -18670,8 +18670,8 @@
                 "size": 843754191
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Are you ready for some Pika-charm? Let\u2019s sing and dance together!",
                 "is_country_whitelist": false,
@@ -19291,8 +19291,8 @@
                 "size": 6658822620
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "ASMR is a soothing sound that is comfortable to listen to. Have a relaxing day at the beach with Squirtle! (Wearing headphones is recommended!)",
                 "is_country_whitelist": false,
