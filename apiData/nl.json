@@ -5,8 +5,8 @@
         "channel_name": "POK\u00c9TOON",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Wanneer hij op zoek is naar smakelijke Pok\u00e9 Beans, stuit Scraggy op een bijzondere Pok\u00e9mon: Mimikyu! Mimikyu wil graag vrienden worden, maar het enige wat Scraggy wil zijn lekkere hapjes. Kijk hoe ze achter elkaar aan zitten en ontdek hoe hun vriendschap vorm krijgt.",
                 "is_country_whitelist": false,
@@ -297,8 +297,8 @@
                 "size": 2909330436
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "4",
                 "description": "Terwijl Ash twee pakketjes naar het Aether Paradise brengt, komen er drie bekende lastposten tevoorschijn om daar Pok\u00e9mon te vangen.",
                 "is_country_whitelist": false,
@@ -347,8 +347,8 @@
                 "size": 2908605418
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "5",
                 "description": "Een toevallige ontmoeting met een andere trainer geeft Ash en Rowlet nieuwe gevechtservaringen die ze nooit hadden verwacht!",
                 "is_country_whitelist": false,
@@ -397,8 +397,8 @@
                 "size": 2893122282
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "6",
                 "description": "De liefde van Rotom Dex voor de tv show Alolan detective Laki, zorgt voor onverwachte wendingen.",
                 "is_country_whitelist": false,
@@ -15324,7 +15324,7 @@
             },
             {
                 "count": 1,
-                "rating": 5,
+                "rating": 3,
                 "episode": "",
                 "description": "In het kielzog van de overname van de Goldenrod Radio Tower door Team Rocket, leidt het onderzoek van Detective Looker hem naar een raadselachtige jonge Trainer.",
                 "is_country_whitelist": false,

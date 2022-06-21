@@ -1752,8 +1752,8 @@
                 "size": 2890955434
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "3",
                 "description": "Une activit\u00e9 anormale est constat\u00e9e sur le Mont Wela, mais les Ultra-Gardiens sont sur le coup !",
                 "is_country_whitelist": false,
@@ -5473,8 +5473,8 @@
                 "size": 2845337326
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "23",
                 "description": "Nos h\u00e9ros vont accueillir un nouveau membre de la famille, qui leur r\u00e9serve bien des surprises agr\u00e9ables !",
                 "is_country_whitelist": false,
@@ -6023,8 +6023,8 @@
                 "size": 2889903900
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "34",
                 "description": "Les Ultra-Gardiens sont \u00e0 nouveau appel\u00e9s, cette fois pour une double capture !",
                 "is_country_whitelist": false,
@@ -6173,8 +6173,8 @@
                 "size": 2874952340
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "37",
                 "description": "Le public du D\u00f4me Royal est plus enthousiaste que jamais... Mais cette fois, le Royal Mask va recevoir une aide inattendue !",
                 "is_country_whitelist": false,
@@ -19162,8 +19162,8 @@
                 "size": 6658822620
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "L\u2019ASMR est un son agr\u00e9able \u00e0 \u00e9couter qui d\u00e9tend. D\u00e9tends-toi \u00e0 la plage avec Carapuce. (Le port d\u2019\u00e9couteurs est recommand\u00e9.)",
                 "is_country_whitelist": false,
