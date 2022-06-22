@@ -1335,7 +1335,7 @@
         "channel_name": "Pok\u00e9mon: Twilight Wings",
         "media": [
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "The initial chapter of the new seven-episode animated series set in the Galar region is now available for you to enjoy.",
@@ -19792,7 +19792,7 @@
         "media": [
             {
                 "count": 0,
-                "rating": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "It\u2019s a Pok\u00e9mon version of the popular nursery rhyme \u201cI Am the Music Man\u201d! Let\u2019s sing and dance together with Pikachu! Can you count how many Pikachu are in the video?",
                 "is_country_whitelist": false,
@@ -20042,7 +20042,7 @@
             },
             {
                 "count": 0,
-                "rating": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Our Pok\u00e9mon friends are so eager to help when it comes to putting up holiday decorations.",
                 "is_country_whitelist": false,
