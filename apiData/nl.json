@@ -5918,7 +5918,7 @@
                 "size": 2649603210
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "8",
                 "description": "Lillie heeft een Pok\u00e9mon Ei waar ze voor moet zorgen totdat het uitkomt, maar zal haar angst in de weg zitten?",
@@ -7568,8 +7568,8 @@
                 "size": 2643240086
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "41",
                 "description": "Drie van onze helden vormen een team voor de jaarlijkse Charjabug race, een opwindend evenement met schokkende resultaten!",
                 "is_country_whitelist": false,
