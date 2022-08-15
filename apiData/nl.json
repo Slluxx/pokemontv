@@ -7739,8 +7739,8 @@
         "channel_name": "Pok\u00e9mon: Advanced Battle",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "Onze helden zien weer een ongelukkige Spoink en hij heeft nog steeds problemen om zijn parel vast te houden!",
                 "is_country_whitelist": false,
@@ -7789,8 +7789,8 @@
                 "size": 2717558011
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "2",
                 "description": "Ash en zijn vrienden sluiten zich aan bij een schatzoeker om de zeebodem te onderzoeken, maar Team Rocket zit ze op de hielen!",
                 "is_country_whitelist": false,
