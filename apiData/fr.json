@@ -5,8 +5,8 @@
         "channel_name": "Les combats les plus embl\u00e9matiques de Sacha",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "25",
                 "description": "Ironie du sort, Sacha doit affronter son nouvel ami, Richie, lors du cinqui\u00e8me tour du Tournoi de la Ligue Pok\u00e9mon.",
                 "is_country_whitelist": false,
@@ -17857,8 +17857,8 @@
                 "size": 2798528907
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "25",
                 "description": "Ironie du sort, Sacha doit affronter son nouvel ami, Richie, lors du cinqui\u00e8me tour du Tournoi de la Ligue Pok\u00e9mon.",
                 "is_country_whitelist": false,
