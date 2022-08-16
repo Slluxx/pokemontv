@@ -309,8 +309,8 @@
                 "size": 2687092207
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "32",
                 "description": "As Ash begins his semifinal battle against Tobias, he discovers that his opponent is not to be taken lightly!",
                 "is_country_whitelist": false,
@@ -359,8 +359,8 @@
                 "size": 2669422895
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "11",
                 "description": "As the Unova League roars toward the final match, the competition becomes more fierce, and the strength and skill levels more amazing!",
                 "is_country_whitelist": false,
@@ -409,8 +409,8 @@
                 "size": 2726924287
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "35",
                 "description": "As the Kalos League semifinal round continues between Ash and Sawyer, the audience witnesses a rivalry few have ever experienced!",
                 "is_country_whitelist": false,
@@ -459,8 +459,8 @@
                 "size": 2740636524
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "38",
                 "description": "The final round of the Kalos League is in high gear, and surprises are in abundance: from the first second to the very last!",
                 "is_country_whitelist": false,
@@ -509,8 +509,8 @@
                 "size": 2698354181
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "47",
                 "description": "The Alola Pok\u00e9mon League is down to the final moments of the final battle! Who will emerge victorious?",
                 "is_country_whitelist": false,
@@ -5656,8 +5656,8 @@
                 "size": 3288138898
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "47",
                 "description": "The Alola Pok\u00e9mon League is down to the final moments of the final battle! Who will emerge victorious?",
                 "is_country_whitelist": false,
