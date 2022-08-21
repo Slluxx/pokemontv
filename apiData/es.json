@@ -1760,8 +1760,8 @@
         "channel_name": "El gran viaje de Bidoof",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Un Bidoof algo torpe y con tendencia a meter la pata est\u00e1 entre la espada y la pared y decide emprender un viaje para encontrar su lugar en el mundo.",
                 "is_country_whitelist": false,
