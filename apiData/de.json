@@ -5623,8 +5623,8 @@
                 "size": 2852983250
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "15",
                 "description": "Eine zuf\u00e4llige Begegnung mit der Vergangenheit gef\u00e4hrdet Gegenwart und Zukunft.",
                 "is_country_whitelist": false,
@@ -5673,8 +5673,8 @@
                 "size": 2861415353
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "16",
                 "description": "Maho und Tracy verbindet ein Kindheitserlebnis, das bitters\u00fc\u00dfe Erinnerungen wachruft!",
                 "is_country_whitelist": false,
@@ -5723,8 +5723,8 @@
                 "size": 2861041206
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "17",
                 "description": "Bei einer Reise zum Mount Lanakila haben unsere Helden Gelegenheit, viel Neues zu lernen und sich auf unerwartete Weise zu entfalten.",
                 "is_country_whitelist": false,
