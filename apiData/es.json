@@ -2502,8 +2502,8 @@
                 "size": 2883940162
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "8",
                 "description": "Un combate improvisado contra Tapu Koko da como resultado un inesperado y alucinante viaje para Ash y Pikachu.",
                 "is_country_whitelist": false,
@@ -2552,8 +2552,8 @@
                 "size": 2907188153
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "9",
                 "description": "Nuestros h\u00e9roes se enfrentan a una regi\u00f3n de Alola en un mundo paralelo... y aparecen justo a tiempo para ayudar a salvarla.",
                 "is_country_whitelist": false,
