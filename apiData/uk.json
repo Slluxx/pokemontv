@@ -5,8 +5,8 @@
         "channel_name": "Back to School with Pok\u00e9mon",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "9",
                 "description": "While searching for firewood in the foggy woods, Ash and Pikachu discover a bunch of prep-school kids bullying a classmate named Joe.",
                 "is_country_whitelist": false,
@@ -207,7 +207,7 @@
                 "size": 2674064323
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "21",
                 "description": "Zoey welcomes our heroes to her hometown, Snowpoint City, the site of Ash\u2019s next Gym battle.",
@@ -20226,8 +20226,8 @@
                 "size": 2793943744
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "9",
                 "description": "While searching for firewood in the foggy woods, Ash and Pikachu discover a bunch of prep-school kids bullying a classmate named Joe.",
                 "is_country_whitelist": false,
