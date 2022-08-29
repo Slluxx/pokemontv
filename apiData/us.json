@@ -106,8 +106,8 @@
                 "size": 2859034423
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "19",
                 "description": "As Misty picks the local flora, Togepi wanders over to a very strange looking bush, it appears to have legs...spider legs!",
                 "is_country_whitelist": false,
@@ -156,8 +156,8 @@
                 "size": 2701509986
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "15",
                 "description": "Now that Ash and friends have arrived in Rustboro City, they're taking a moment to sightsee. They bump into a schoolteacher, Roxanne, and her class on a class trip.",
                 "is_country_whitelist": false,
@@ -207,7 +207,7 @@
                 "size": 2674064323
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "21",
                 "description": "Zoey welcomes our heroes to her hometown, Snowpoint City, the site of Ash\u2019s next Gym battle.",
@@ -16644,8 +16644,8 @@
                 "size": 2673708424
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "15",
                 "description": "Now that Ash and friends have arrived in Rustboro City, they're taking a moment to sightsee. They bump into a schoolteacher, Roxanne, and her class on a class trip.",
                 "is_country_whitelist": false,
