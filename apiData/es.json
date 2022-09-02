@@ -255,8 +255,8 @@
                 "size": 2687098135
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "14",
                 "description": "Tras llegar a Ciudad Engobe, y por petici\u00f3n de la Profesora Encina, nuestros h\u00e9roes hacen una visita a uno de los Gimnasios m\u00e1s ins\u00f3litos que han visto.",
                 "is_country_whitelist": false,
@@ -526,8 +526,8 @@
         "channel_name": "Pok\u00e9mon Blanco: Victini y Zekrom | Pok\u00e9mon Negro: Victini y Reshiram",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Durante su viaje por la regi\u00f3n de Teselia, Ash y sus amigos Iris y \nMillo llegan a Pueblo Eindoak, edificado alrededor de un castillo \nconocido como la Espada del Valle. Los tres han ido hasta all\u00ed para \ntomar parte en el torneo anual del pueblo, \u00a1y Ash consigue ganar gracias\n a la ayuda inesperada del Pok\u00e9mon singular Victini! Lo cierto es que \nVictini tiene un v\u00ednculo especial con ese lugar...",
                 "is_country_whitelist": false,
