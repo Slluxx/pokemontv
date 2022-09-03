@@ -949,8 +949,8 @@
         "channel_name": "Pok\u00e9mon: Hisuian Snow",
         "media": [
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Alec returns to the Hisui region to visit his father. There, he recalls events from his childhood when he encountered a wild Pok\u00e9mon in a snow-covered forest...",
                 "is_country_whitelist": false,
@@ -1049,8 +1049,8 @@
                 "size": 2304690122
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "After many years, Alec returns to the Hisui region to collect the medicinal plants he learned about as a child...and maybe see an old friend.",
                 "is_country_whitelist": false,
