@@ -5652,8 +5652,8 @@
                 "size": 2834082823
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "20",
                 "description": "Ein ber\u00fchmtes Kampf-Duo aus Alola entfacht eine erstaunlich feurige Entschlossenheit!",
                 "is_country_whitelist": false,
@@ -5702,8 +5702,8 @@
                 "size": 2865043713
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "21",
                 "description": "Der \u00dcberraschungsbesuch eines ehemaligen Sch\u00fclers der Pok\u00e9mon-Schule begeistert unsere Helden mit dem Stoff, aus dem Legenden sind.",
                 "is_country_whitelist": false,
