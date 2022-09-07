@@ -8402,8 +8402,8 @@
         "channel_name": "Pok\u00e9mon: Battle Frontier",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Ash e seus amigos entram numa cidade fantasma onde eles tentam resolver uma disputa entre um grupo de Pok\u00e9mon Tipo Fantasma e outro Tipo Ps\u00edquico.",
                 "is_country_whitelist": false,
