@@ -15602,8 +15602,8 @@
                 "size": 2609573849
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "6",
                 "description": "Onze helden zijn een Pok\u00e9mon stroper op het spoor, en Team Rocket is ook in de buurt!",
                 "is_country_whitelist": false,
@@ -23215,8 +23215,8 @@
                 "size": 745867949
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "In het kielzog van de overname van de Goldenrod Radio Tower door Team Rocket, leidt het onderzoek van Detective Looker hem naar een raadselachtige jonge Trainer.",
                 "is_country_whitelist": false,
