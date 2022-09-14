@@ -106,8 +106,8 @@
                 "size": 2868523211
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 2,
                 "episode": "1",
                 "description": "Our heroes have finally reached the next stop on the road to Johto: Goldenrod City!",
                 "is_country_whitelist": false,
@@ -157,8 +157,8 @@
                 "size": 2630285547
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "37",
                 "description": "Ash, Misty, and Brock are traveling along when they notice a strange shape falling from the sky. They run in to investigate, but soon realized that they were not the only witnesses of this event.",
                 "is_country_whitelist": false,
