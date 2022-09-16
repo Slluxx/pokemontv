@@ -1,6 +1,6 @@
 [
     {
-        "channel_description": "Le Pok\u00e9mon fabuleux, Keldeo, a besoin de l\u2019aide de Sacha pour secourir ses amis dans Pok\u00e9mon, le film : Kyurem VS la Lame de Justice.",
+        "channel_description": "Le Pok\u00e9mon fabuleux, Keldeo, a besoin de l\u2019aide de Sacha pour secourir ses amis dans Pok\u00e9mon, le film : Kyurem VS la Lame de la Justice.",
         "stunt_channel": true,
         "channel_name": "Pok\u00e9mon, le film : Kyurem VS la Lame de la Justice",
         "media": [
@@ -8,7 +8,7 @@
                 "count": 0,
                 "rating": 1,
                 "episode": "",
-                "description": "Sacha, Pikachu et leurs amis se joignent au\nPok\u00e9mon fabuleux, Keldeo, pour prot\u00e9ger Cobaltium, Terrakium et Viridium de\nKyurem. Nos h\u00e9ros pourront-ils arr\u00eater la fureur du Pok\u00e9mon l\u00e9gendaire\u00a0?",
+                "description": "Sacha, Pikachu et leurs amis se joignent au Pok\u00e9mon fabuleux, Keldeo, pour prot\u00e9ger Cobaltium, Terrakium et Viridium de Kyurem. Nos h\u00e9ros pourront-ils arr\u00eater la fureur du Pok\u00e9mon l\u00e9gendaire ?",
                 "is_country_whitelist": false,
                 "title": "Pok\u00e9mon, le film : Kyurem VS la Lame de la Justice",
                 "season": "",
@@ -48,7 +48,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sJ/NP6Z7CEaX3hOvbZtBL4wCFLQWV9czNPOXfK6ZJiUI/pokemon_movie15_fre.mp4",
-                "last_modified": 1663350322,
+                "last_modified": 1663353498,
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bw/BNoTPFPX5KsI6ycuZb9RBNNOM4fEka4PCUYfiD5Uk/pokemon_movie15_fre-504490827833c5239bcfc60f1c9e5598810dfa69.m3u8",
                 "captions": "",
                 "id": "b9837cd6ea684a18bf4e65b110c775d9",
@@ -66,7 +66,7 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie15/movie15-1660x940-fr.png",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie15/movie15-2732x940-fr.png"
         },
-        "channel_update_date": 1663343875,
+        "channel_update_date": 1663354303,
         "media_type": "movie",
         "channel_status": "\u00c9PISODES DISPONIBLES JUSQU\u2019AU 30 SEPTEMBRE"
     },
