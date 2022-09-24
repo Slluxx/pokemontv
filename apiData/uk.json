@@ -257,8 +257,8 @@
                 "size": 2694219244
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "32",
                 "description": "The Kalos League is just getting under way, and the battle temperature is already turned way up!",
                 "is_country_whitelist": false,
@@ -8996,8 +8996,8 @@
                 "size": 2427332684
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "38",
                 "description": "When Mimikyu faces a fashion problem, Jessie sees a bonding opportunity!",
                 "is_country_whitelist": false,
