@@ -426,8 +426,8 @@
         "channel_name": "Pok\u00e9mon, le film : Kyurem VS la Lame de la Justice",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Sacha, Pikachu et leurs amis se joignent au Pok\u00e9mon fabuleux, Keldeo, pour prot\u00e9ger Cobaltium, Terrakium et Viridium de Kyurem. Nos h\u00e9ros pourront-ils arr\u00eater la fureur du Pok\u00e9mon l\u00e9gendaire ?",
                 "is_country_whitelist": false,
