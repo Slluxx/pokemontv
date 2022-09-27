@@ -14356,7 +14356,7 @@
                     "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep01_ss01.jpg",
                     "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep01_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/I5klpE8iSK0h5nF0LVrSIs/skim/",
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/uR-YG-vFS-Arx5acjBEZwg/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -14386,12 +14386,12 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ua/VB0YRJzYypYfPH0_FXwI1Mm4XREEAxBETworMkbQE/0701---what-you-seed-is-what-you-get.mp4",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aR/gaGMPdVPXk2TpAiIkGEk8WkQJ9bdC5JszQ1WVJ928/pok_tv_s0701_2398-master-en.mp4",
                 "last_modified": 1664303104,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3R/jaPLHqq-1pz_qZlW5_T9mO4yd40MW9V8xM8O0ifYI/0701---what-you-seed-is-what-you-get-f484bf2b2389a8bd2b374563d8f6fd313d1b9d1a.m3u8",
-                "captions": "",
-                "id": "239925a44f2248ad8799c5d0b56b488b",
-                "size": 209314887
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qi/DfohxkEgbSmqVtat6EnR5jzAJz5GGH7if3S0FJ03U/pok_tv_s0701_2398-master-en-6340dae784bafd8b4696f741efcddde6e6cc7565.m3u8",
+                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qi/DfohxkEgbSmqVtat6EnR5jzAJz5GGH7if3S0FJ03U/vtt/6/en.vtt",
+                "id": "b91f981bebc54be0af1e5a7230446708",
+                "size": 2691011089
             },
             {
                 "count": 0,
