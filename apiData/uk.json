@@ -157,8 +157,8 @@
                 "size": 2720526533
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "39",
                 "description": "The Pok\u00e9mon Summer Academy is almost over, but there's one more event left: the Pok\u00e9mon Triathlon!",
                 "is_country_whitelist": false,
@@ -207,8 +207,8 @@
                 "size": 2654083107
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "13",
                 "description": "When Team Rocket sits down for a delicious lunch at a noodle shop, the shop's owner asks to speak to them.",
                 "is_country_whitelist": false,
