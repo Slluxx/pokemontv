@@ -591,7 +591,7 @@
                     "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep09_ss01.jpg",
                     "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep09_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ugp1xkd9Szwpwo0goiUpE8/skim/",
+                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/X6ogWVeKQzcp9FPOfhDmEw/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -612,6 +612,7 @@
                     "MN",
                     "MM",
                     "MO",
+                    "IT",
                     "LA",
                     "PH",
                     "PK",
@@ -621,12 +622,12 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GQ/rZ0cEPx-ES1Dpz_RFCra0Z9V2iQ50e7NF8jcetMSk/pok_tv_s0809_2398-master-en.mp4",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mF/uuDHYs_9LIz6x6SaN2Izi2hRSSkcuho6sP4ppWxig/0809---vanity-affair.mp4",
                 "last_modified": 1664566825,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HR/gDd2rBFJ2r8X5zbbpW1MlmSfAGVhfqKayRwd3MoPU/pok_tv_s0809_2398-master-en-cbaaceab990962315a2643c4c85ac25a083ad162.m3u8",
-                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HR/gDd2rBFJ2r8X5zbbpW1MlmSfAGVhfqKayRwd3MoPU/vtt/2/en-US.vtt",
-                "id": "520a75c6477d4b3ca70a34828894a44f",
-                "size": 2720526533
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9W/WdADJQhHSGjhxOWPWgIWQ259Uuz2kY5hBb_bUDghk/0809---vanity-affair-4d54cad2d5e81fb6c6d14ecfd813325cf5f14e0d.m3u8",
+                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9W/WdADJQhHSGjhxOWPWgIWQ259Uuz2kY5hBb_bUDghk/vtt/2/en.vtt",
+                "id": "5faa2059578a4337a7d14f39f843984c",
+                "size": 2705797237
             },
             {
                 "count": 0,
@@ -12436,7 +12437,7 @@
                     "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep07_ss01.jpg",
                     "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep07_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-dDkW6tiQYQlDE64tVqmrg/skim/",
+                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/0XYSxKF5SrIg7jVa8v4QfI/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -12457,6 +12458,7 @@
                     "MN",
                     "MM",
                     "MO",
+                    "IT",
                     "LA",
                     "PH",
                     "PK",
@@ -12466,12 +12468,12 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/z2/4bVq1VjxTQmQphkTjOdB5lrqg2JmzodYesR03vt48/pok_tv_s0807_2398-master-en.mp4",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LX/keYNFKV9tDpDaMU4pvHhzOdxE6Jyjnpj7PsLffCQ8/0807---its-still-rocket-roll-to-me.mp4",
                 "last_modified": 1664566825,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/y2/N5pdhVHrfyOasd7XSqVHyocFneh1qFcqlIOCD8rwo/pok_tv_s0807_2398-master-en-265dec8dc1a0fb8c6ebab955b30f3fb03593342e.m3u8",
-                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/y2/N5pdhVHrfyOasd7XSqVHyocFneh1qFcqlIOCD8rwo/vtt/2/en-US.vtt",
-                "id": "f9d0e45bab62418494313ae2d56a9ab8",
-                "size": 2718072180
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6b/UGvS_zFKF33QZ8gXJJK7ysj6NxPMvPIS3MWSytAaQ/0807---its-still-rocket-roll-to-me-0309da8f27472b9698d9907c3ad65d0680caf9cc.m3u8",
+                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6b/UGvS_zFKF33QZ8gXJJK7ysj6NxPMvPIS3MWSytAaQ/vtt/2/en.vtt",
+                "id": "d17612c4a1794ab283b8d56bcbf841f2",
+                "size": 2705110779
             },
             {
                 "count": 0,
@@ -12536,7 +12538,7 @@
                     "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep09_ss01.jpg",
                     "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep09_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ugp1xkd9Szwpwo0goiUpE8/skim/",
+                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/X6ogWVeKQzcp9FPOfhDmEw/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -12557,6 +12559,7 @@
                     "MN",
                     "MM",
                     "MO",
+                    "IT",
                     "LA",
                     "PH",
                     "PK",
@@ -12566,12 +12569,12 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GQ/rZ0cEPx-ES1Dpz_RFCra0Z9V2iQ50e7NF8jcetMSk/pok_tv_s0809_2398-master-en.mp4",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mF/uuDHYs_9LIz6x6SaN2Izi2hRSSkcuho6sP4ppWxig/0809---vanity-affair.mp4",
                 "last_modified": 1664566825,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HR/gDd2rBFJ2r8X5zbbpW1MlmSfAGVhfqKayRwd3MoPU/pok_tv_s0809_2398-master-en-cbaaceab990962315a2643c4c85ac25a083ad162.m3u8",
-                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HR/gDd2rBFJ2r8X5zbbpW1MlmSfAGVhfqKayRwd3MoPU/vtt/2/en-US.vtt",
-                "id": "520a75c6477d4b3ca70a34828894a44f",
-                "size": 2720526533
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9W/WdADJQhHSGjhxOWPWgIWQ259Uuz2kY5hBb_bUDghk/0809---vanity-affair-4d54cad2d5e81fb6c6d14ecfd813325cf5f14e0d.m3u8",
+                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9W/WdADJQhHSGjhxOWPWgIWQ259Uuz2kY5hBb_bUDghk/vtt/2/en.vtt",
+                "id": "5faa2059578a4337a7d14f39f843984c",
+                "size": 2705797237
             },
             {
                 "count": 0,
