@@ -55,8 +55,8 @@
                 "size": 2812566624
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "2",
                 "description": "Lors d'un duel Pok\u00e9mon, Sacha bat \u00e0 plates coutures un jeune et ambitieux Dresseur qui s'enfuit, d\u00e9moralis\u00e9.",
                 "is_country_whitelist": false,
@@ -1047,8 +1047,8 @@
                 "size": 1991189839
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Un Magicarpe tr\u00e8s d\u00e9vou\u00e9 souhaite plus que tout au monde se faire un ami.",
                 "is_country_whitelist": false,
