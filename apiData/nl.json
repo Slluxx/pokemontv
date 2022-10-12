@@ -7989,8 +7989,8 @@
                 "size": 2481093368
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "6",
                 "description": "May strijdt tegen een voormalig rock-'n roll gitarist en bandleider in de Silver Town Pok\u00e9mon Wedstrijd voor haar tweede Kanto lintje!",
                 "is_country_whitelist": false,
@@ -8039,8 +8039,8 @@
                 "size": 2433425551
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "7",
                 "description": "Terwijl ze even een pauze nemen van het trainingsschema van Ash om te gaan vissen, helpen onze helden een jonge vrouw om het meer van haar familie in eigen bezit te houden en uit handen van een projectontwikkelaar.",
                 "is_country_whitelist": false,
@@ -8089,8 +8089,8 @@
                 "size": 2495606563
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "8",
                 "description": "Bij het Strijd Stadion daagt Ash Zone Leider Tucker uit, een meester in zowel gevechtstaktiek als in showbizz, voor zijn derde Zone Symbool.",
                 "is_country_whitelist": false,
