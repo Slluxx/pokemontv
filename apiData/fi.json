@@ -9668,8 +9668,8 @@
                 "size": 2644713757
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "48",
                 "description": "On Hearthomen kilpailun aika! Dawn saa kovan vastuksen: kilpakumppani Zoey, Pok\u00e9mon-bardi Nando, sek\u00e4 Rakettiryhm\u00e4n Jessien ovat p\u00e4\u00e4tt\u00e4v\u00e4isin\u00e4 h\u00e4nt\u00e4 vastassa!",
                 "is_country_whitelist": false,
@@ -9718,7 +9718,7 @@
                 "size": 2626061152
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "49",
                 "description": "Heti Pok\u00e9mon-kilpalun j\u00e4lkeen Ash, Dawn ja Brock p\u00e4\u00e4tt\u00e4v\u00e4t osallistua Hearthome Cityn Tag-ottelukilpailuun, jossa kahden kouluttajan joukkueet ottelevat vastakkain!",
@@ -9768,8 +9768,8 @@
                 "size": 2617389387
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "50",
                 "description": "Ash on saanut Tag-ottelukilpailussa parikseen kilpakumppaninsa Paulin, mutta Paul on Chimcharilleen liian ankara!",
                 "is_country_whitelist": false,
