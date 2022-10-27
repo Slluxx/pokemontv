@@ -55,8 +55,8 @@
                 "size": 2792439706
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "44",
                 "description": "As our heroes look to Ash\u2019s next battle at the Anistar City Gym, they discover things about its Gym Leader they never could have imagined!",
                 "is_country_whitelist": false,
@@ -7344,8 +7344,8 @@
                 "size": 2521679387
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Ash and Pikachu are adjusting to life in the Alola region\u2014and it\u2019s about to give them a powerful push in a new direction!",
                 "is_country_whitelist": false,
@@ -7444,8 +7444,8 @@
                 "size": 2443504741
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "4",
                 "description": "Ash is after his first Pok\u00e9mon in the Alola region, and the adventure that ensues is typical Ash!",
                 "is_country_whitelist": false,
@@ -7544,8 +7544,8 @@
                 "size": 2429552538
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "6",
                 "description": "Ash\u2019s first day off from Pok\u00e9mon School was supposed to be a relaxing break, but things don\u2019t go quite as expected!",
                 "is_country_whitelist": false,
