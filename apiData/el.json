@@ -523,7 +523,7 @@
     {
         "channel_description": "Ash and his friends love catching z\u2019s, and Pok\u00e9mon, on Pok\u00e9mon TV.",
         "stunt_channel": true,
-        "channel_name": "Hora de dormir",
+        "channel_name": "Dulces sue\u00f1os",
         "media": [
             {
                 "count": 0,
@@ -1029,7 +1029,7 @@
         "channel_creation_date": 1666974395,
         "whats_new_order": null,
         "watch_now_order": 3,
-        "channel_id": "hora-de-dormir",
+        "channel_id": "dulces-suenos",
         "channel_images": {
             "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/sleep/sleep-1125x1500-es.png",
             "spotlight_image_960_1277": "",
@@ -1037,7 +1037,7 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/sleep/sleep-1660x940.png",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/sleep/sleep-1660x940.png"
         },
-        "channel_update_date": 1666974392,
+        "channel_update_date": 1666989999,
         "media_type": "episode",
         "channel_status": "DISPONIBLE HASTA EL 11 DE NOVIEMBRE"
     },
