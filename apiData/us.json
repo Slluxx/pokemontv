@@ -1026,8 +1026,8 @@
                 "size": 2647174144
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "13",
                 "description": "Our heroes are wondering about Komala\u2019s sleep patterns when they\u2019re interrupted by a familiar visitor!",
                 "is_country_whitelist": false,
@@ -7216,8 +7216,8 @@
                 "size": 2608176722
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "13",
                 "description": "Our heroes are wondering about Komala\u2019s sleep patterns when they\u2019re interrupted by a familiar visitor!",
                 "is_country_whitelist": false,
@@ -9537,8 +9537,8 @@
                 "size": 2391023254
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "11",
                 "description": "Ash has time off from school for training, but a fellow student\u2019s activities away from school have our hero wanting to find out all about it!",
                 "is_country_whitelist": false,
@@ -12808,8 +12808,8 @@
                 "size": 2655302095
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "33",
                 "description": "What could convince our heroes to take a time-out from their journey to Eterna City? A Pok\u00e9mon Dress-Up Contest where Pok\u00e9mon try to imitate other Pok\u00e9mon!",
                 "is_country_whitelist": false,
