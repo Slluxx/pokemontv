@@ -1026,8 +1026,8 @@
                 "size": 2647174144
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "13",
                 "description": "Our heroes are wondering about Komala\u2019s sleep patterns when they\u2019re interrupted by a familiar visitor!",
                 "is_country_whitelist": false,
@@ -5994,8 +5994,8 @@
                 "size": 2608176722
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "13",
                 "description": "Our heroes are wondering about Komala\u2019s sleep patterns when they\u2019re interrupted by a familiar visitor!",
                 "is_country_whitelist": false,
@@ -8315,8 +8315,8 @@
                 "size": 2391023254
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "11",
                 "description": "Ash has time off from school for training, but a fellow student\u2019s activities away from school have our hero wanting to find out all about it!",
                 "is_country_whitelist": false,
@@ -8465,8 +8465,8 @@
                 "size": 2392817946
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "14",
                 "description": "The time has come for Lillie to address her fears, and having a new friend is the perfect way to do it!",
                 "is_country_whitelist": false,
@@ -19376,8 +19376,8 @@
         "channel_name": "Pok\u00e9mon ASMR",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "ASMR is a soothing sound that is comfortable to listen to. Relax with Bulbasaur while it tries to find the perfect spot for a peaceful rest. (Wearing headphones is recommended!)",
                 "is_country_whitelist": false,
@@ -21139,8 +21139,8 @@
                 "size": 476672888
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "ASMR is a soothing sound that is comfortable to listen to. Relax with Bulbasaur while it tries to find the perfect spot for a peaceful rest. (Wearing headphones is recommended!)",
                 "is_country_whitelist": false,
@@ -22460,8 +22460,8 @@
                 "size": 866902274
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "ASMR is a soothing sound that is comfortable to listen to. Relax with Bulbasaur while it tries to find the perfect spot for a peaceful rest. (Wearing headphones is recommended!)",
                 "is_country_whitelist": false,
