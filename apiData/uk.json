@@ -776,8 +776,8 @@
                 "size": 2678711235
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "6",
                 "description": "Ash discovers that his opponent, Gym Leader Cilan, is a kindred spirit!",
                 "is_country_whitelist": false,
@@ -876,8 +876,8 @@
                 "size": 2694707641
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "5",
                 "description": "A nighttime campout brings some interesting adventures for our heroes\u2019 Pok\u00e9mon!",
                 "is_country_whitelist": false,
