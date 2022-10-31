@@ -10037,8 +10037,8 @@
                 "size": 2435717280
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "21",
                 "description": "The ending of one chapter in the life of a determined Pok\u00e9mon ushers in the beginning of a brand-new one!",
                 "is_country_whitelist": false,
@@ -10087,8 +10087,8 @@
                 "size": 2429883156
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "22",
                 "description": "A day at the beach offers up our heroes much more than they bargained for!",
                 "is_country_whitelist": false,
@@ -10637,8 +10637,8 @@
                 "size": 2376755168
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "33",
                 "description": "Our heroes are busy with extracurricular activities on Akala Island, and Ash and Lana are in for a great adventure!",
                 "is_country_whitelist": false,
