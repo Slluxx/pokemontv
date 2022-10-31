@@ -1026,8 +1026,8 @@
                 "size": 2647174144
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "13",
                 "description": "Our heroes are wondering about Komala\u2019s sleep patterns when they\u2019re interrupted by a familiar visitor!",
                 "is_country_whitelist": false,
@@ -7216,8 +7216,8 @@
                 "size": 2608176722
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "13",
                 "description": "Our heroes are wondering about Komala\u2019s sleep patterns when they\u2019re interrupted by a familiar visitor!",
                 "is_country_whitelist": false,
@@ -9537,8 +9537,8 @@
                 "size": 2391023254
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "11",
                 "description": "Ash has time off from school for training, but a fellow student\u2019s activities away from school have our hero wanting to find out all about it!",
                 "is_country_whitelist": false,
@@ -9837,7 +9837,7 @@
                 "size": 2424005783
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "17",
                 "description": "There\u2019s a mystery that needs solving, and there\u2019s also a surprising sleuth who\u2019s determined to solve it!",
@@ -9887,8 +9887,8 @@
                 "size": 2322317061
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "18",
                 "description": "Rotom Dex is eager to help solve the mystery of Ash\u2019s missing Z-Crystal!",
                 "is_country_whitelist": false,

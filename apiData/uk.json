@@ -8315,8 +8315,8 @@
                 "size": 2391023254
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "11",
                 "description": "Ash has time off from school for training, but a fellow student\u2019s activities away from school have our hero wanting to find out all about it!",
                 "is_country_whitelist": false,
@@ -8615,7 +8615,7 @@
                 "size": 2424005783
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "17",
                 "description": "There\u2019s a mystery that needs solving, and there\u2019s also a surprising sleuth who\u2019s determined to solve it!",
