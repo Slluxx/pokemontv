@@ -9344,8 +9344,8 @@
         "channel_name": "DP Battle Dimension",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Mientras nuestros h\u00e9roes se dirigen a Ciudad Rocavelo, el nuevo Chimchar de Ash lucha por adaptarse a su nuevo entorno.",
                 "is_country_whitelist": false,
@@ -10444,8 +10444,8 @@
                 "size": 2632352730
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "23",
                 "description": "El d\u00eda antes de la Copa Plubio, Zoe aparece en el Lago Valor para la competici\u00f3n.",
                 "is_country_whitelist": false,
