@@ -8918,8 +8918,8 @@
                 "size": 2628117646
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "33",
                 "description": "H\u00e4vitty\u00e4\u00e4n Paulille Ashin Gligar haluaa erikoisharjoituksia, ja siihen l\u00f6ytyykin avuksi odottamaton liittolainen!",
                 "is_country_whitelist": false,
@@ -8968,8 +8968,8 @@
                 "size": 2650502512
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "34",
                 "description": "Saatuaan selville, ett\u00e4 Hearthome Cityn salijohtaja on viel\u00e4kin poissa, Ash ja Dawn keksiv\u00e4t toisenlaisen kilpailun pit\u00e4\u00e4kseen itsens\u00e4 kiireisen\u00e4!",
                 "is_country_whitelist": false,
@@ -9018,8 +9018,8 @@
                 "size": 2651030240
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "35",
                 "description": "Kulkiessaan kapeaa rotkoa matkallaan Celestic Towniin sankarimme huomaavat joutuneensa kolmen p\u00e4\u00e4tt\u00e4v\u00e4isen ja voimakkaan Psyduckin pys\u00e4ytt\u00e4miksi.",
                 "is_country_whitelist": false,
@@ -9068,8 +9068,8 @@
                 "size": 2656604255
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "36",
                 "description": "Professori Rowan kutsuu sankarimme osallistumaan Pok\u00e9mon-kes\u00e4leirille, jossa kouluttajille annetaan satunnainen Pok\u00e9mon, jotta he voisivat oppia yhteisty\u00f6t\u00e4!",
                 "is_country_whitelist": false,
@@ -10189,8 +10189,8 @@
                 "size": 2616057142
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "6",
                 "description": "Ilmestytty\u00e4\u00e4n kuin tyhj\u00e4st\u00e4, Paul on j\u00e4lleen haastamassa Ashin ottelusarjaan, joka paljastaa miten erilaisia he ovat kouluttajina ja ihmisin\u00e4.",
                 "is_country_whitelist": false,
@@ -10239,8 +10239,8 @@
                 "size": 2640131352
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "7",
                 "description": "Matkalla Jubilife Cityyn Dawnin ensimm\u00e4iseen Pok\u00e9mon-kilpailuun, Piplup p\u00e4\u00e4tt\u00e4\u00e4kin auttaa h\u00e4d\u00e4ss\u00e4 olevaa Pok\u00e9mon-ryhm\u00e4\u00e4.",
                 "is_country_whitelist": false,
