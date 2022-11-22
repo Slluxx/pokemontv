@@ -20749,8 +20749,8 @@
         "channel_name": "Generaciones Pok\u00e9mon",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 2,
                 "episode": "",
                 "description": "Desde el Bosque Verde a la Cueva Desenlace, contempla el mundo Pok\u00e9mon como nunca antes lo hab\u00edas visto.",
                 "is_country_whitelist": false,
@@ -20799,8 +20799,8 @@
                 "size": 469498995
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 2,
                 "episode": "",
                 "description": "El detective Handsome de la Polic\u00eda Internacional descubre informaci\u00f3n crucial para la busca y captura de Giovanni, el jefe del Team Rocket.",
                 "is_country_whitelist": false,
@@ -20849,8 +20849,8 @@
                 "size": 535475047
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "",
                 "description": "Un nuevo aspirante llega para poner a prueba su destreza ante el Alto Mando de la regi\u00f3n de Kanto. \u00bfEstar\u00e1 a la altura de tama\u00f1o desaf\u00edo?",
                 "is_country_whitelist": false,
