@@ -9868,8 +9868,8 @@
                 "size": 2631148141
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "52",
                 "description": "Matkatessaan Canalave Cityn l\u00e4pi sankarimme tulevat saarelle, miss\u00e4 kaikki nukkuvat levottomasti ja n\u00e4kev\u00e4t loppumattomia painajaisia!",
                 "is_country_whitelist": false,
@@ -9939,8 +9939,8 @@
         "channel_name": "Pok\u00e9mon: Timantti ja helmi",
         "media": [
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Ashin, Pikachun ja Aipomin suunnatessa kohti Sinnoh-alueetta, jossa heit\u00e4 odottavat lukemattomat uudet seikkailut, nuori kouluttaja nimelt\u00e4\u00e4n Dawn on vasta aloittamassa omaa Pok\u00e9mon-matkaansa.",
                 "is_country_whitelist": false,
@@ -10439,8 +10439,8 @@
                 "size": 2630699786
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "11",
                 "description": "Ash p\u00e4\u00e4tt\u00e4\u00e4 liitty\u00e4 Dawnin mukaan heid\u00e4n ensimm\u00e4iseen Pok\u00e9mon-kilpailuunsa, ja Dawn l\u00f6yt\u00e4\u00e4 uuden yst\u00e4v\u00e4n ja kilpakumppanin kanssakoordinaattorista nimelt\u00e4 Zoey!",
                 "is_country_whitelist": false,
@@ -10489,8 +10489,8 @@
                 "size": 2622793226
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "12",
                 "description": "Jubilife Cityn Pok\u00e9mon-kilpailu on k\u00e4ynniss\u00e4! P\u00e4\u00e4sev\u00e4tk\u00f6 Ash ja Dawn finaaliin? Ja miten k\u00e4y, jos he kohtaavat toisensa?",
                 "is_country_whitelist": false,
@@ -10539,8 +10539,8 @@
                 "size": 2644400206
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "13",
                 "description": "Matkallaan Oreburgh Cityyn sankarimme saavat selville, ett\u00e4 jotakin tapahtuu mets\u00e4ss\u00e4 asuville lent\u00e4ville Pok\u00e9moneille, ja he p\u00e4\u00e4tt\u00e4v\u00e4t tutkia asiaa.",
                 "is_country_whitelist": false,
@@ -10589,8 +10589,8 @@
                 "size": 2604925264
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "14",
                 "description": "Sankareittemme auttaessa vahingoittunutta Nuzleafia, Rakettiryhm\u00e4 yritt\u00e4\u00e4 varastaa sen, ja p\u00e4\u00e4tyy samalla nappaamaan Brockin!",
                 "is_country_whitelist": false,
