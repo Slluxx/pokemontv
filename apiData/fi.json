@@ -9568,8 +9568,8 @@
                 "size": 2656599863
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "46",
                 "description": "K\u00e4ydess\u00e4\u00e4n yst\u00e4v\u00e4ns\u00e4 Angien luona matkallaan Hearthome Cityyn, sankarimme tutkivat huivihirvi\u00f6n arvoitusta!",
                 "is_country_whitelist": false,
@@ -10389,8 +10389,8 @@
                 "size": 2621574874
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "10",
                 "description": "Sankareittemme saapuessa Jubilife Cityyn Dawnin ensimm\u00e4ist\u00e4 Pok\u00e9mon-kilpailua varten, he kohtaavat huijaavia Pok\u00e9mon-kauppiaita, joilla on pahat mieless\u00e4\u00e4n!",
                 "is_country_whitelist": false,
