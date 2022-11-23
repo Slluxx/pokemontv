@@ -9518,8 +9518,8 @@
                 "size": 2643931412
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "45",
                 "description": "Galactic-tiimin jatkaessa pahaa juontaan hehkukuulan varastamiseksi, mestari Cynthia ja sankarimme huomaavat, ett\u00e4 heid\u00e4n on kohdattava sek\u00e4 Galactic-tiimi ett\u00e4 Rakettiryhm\u00e4 suojellakseen sit\u00e4!",
                 "is_country_whitelist": false,
@@ -10289,8 +10289,8 @@
                 "size": 2630479508
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "8",
                 "description": "Sankarimme t\u00f6rm\u00e4\u00e4v\u00e4t vale-Pok\u00e9mon-saliin, jota vet\u00e4v\u00e4t Rakettiryhm\u00e4l\u00e4iset, yritt\u00e4en varastaa niin monta Pok\u00e9monia kuin mahdollista!",
                 "is_country_whitelist": false,
@@ -10339,8 +10339,8 @@
                 "size": 2625140349
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "9",
                 "description": "Sankarimme l\u00f6yt\u00e4v\u00e4t Bunearyn mets\u00e4st\u00e4 matkallaan Jubilife Cityyn, ja Dawn p\u00e4\u00e4tt\u00e4\u00e4 ett\u00e4 h\u00e4nen on saatava napattua se!",
                 "is_country_whitelist": false,
