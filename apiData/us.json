@@ -5824,8 +5824,8 @@
                 "size": 2597343680
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "7",
                 "description": "Although Faba\u2019s original sinister plot has been foiled, he isn\u2019t about to give up on his dream!",
                 "is_country_whitelist": false,
@@ -5924,8 +5924,8 @@
                 "size": 2659737035
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "9",
                 "description": "Our heroes are determined to rescue Lusamine, and help is coming from unexpected and astounding sources!",
                 "is_country_whitelist": false,
@@ -5974,8 +5974,8 @@
                 "size": 2661429700
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "10",
                 "description": "Our heroes are determined to rescue Lusamine from inside the Ultra Wormhole, but Lusamine has other ideas!",
                 "is_country_whitelist": false,
