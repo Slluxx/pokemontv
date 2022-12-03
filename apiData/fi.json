@@ -7318,8 +7318,8 @@
         "channel_name": "Pok\u00e9mon: DP Galactic Battles",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Kuultuaan herkullisesta leivoksesta nimelt\u00e4 \u201dVanha kakku\u201d sankarimme l\u00e4htev\u00e4t k\u00e4ym\u00e4\u00e4n \u201dVanhassa linnassa\u201d, miss\u00e4 sit\u00e4 valmistetaan, ja kohtaavat siell\u00e4 sarjan odottamattomia ja pelottavia yll\u00e4tyksi\u00e4!",
                 "is_country_whitelist": false,
@@ -14460,8 +14460,8 @@
                 "size": 2609442472
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "39",
                 "description": "Sankarimme nousevat h\u00f6yrylaivaan, joka suuntaa Hearthome Cityyn, mutta kun heid\u00e4n on palattava kaupunkiin hakemaan tarvikkeita, l\u00e4htee laiva vahingossa ilman heit\u00e4, vain heid\u00e4n Pok\u00e9moninsa mukanaan!",
                 "is_country_whitelist": false,
