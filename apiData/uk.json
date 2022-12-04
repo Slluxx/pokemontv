@@ -4902,8 +4902,8 @@
                 "size": 2608176722
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "13",
                 "description": "Our heroes are wondering about Komala\u2019s sleep patterns when they\u2019re interrupted by a familiar visitor!",
                 "is_country_whitelist": false,
@@ -5002,8 +5002,8 @@
                 "size": 2600390870
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "15",
                 "description": "An accidental encounter with the past puts the present and future in jeopardy!",
                 "is_country_whitelist": false,
