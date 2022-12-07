@@ -9144,8 +9144,8 @@
                 "size": 2700197378
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "6",
                 "description": "En Isla Hierro, el adversario de Ash, Benito, se est\u00e1 entrenando con su Empoleon y Heracross, cuando de repente Empoleon se vuelve contra su Entrenador.",
                 "is_country_whitelist": false,
@@ -9194,8 +9194,8 @@
                 "size": 2700122445
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "7",
                 "description": "El Equipo Galaxia se ha hecho con las ruinas de Isla Hierro, donde su Llave Lanza ha liberado una extra\u00f1a energ\u00eda de las ruinas.",
                 "is_country_whitelist": false,
@@ -9244,8 +9244,8 @@
                 "size": 2705966347
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "8",
                 "description": "\u00a1Pikachu y Piplup se encuentran con el Team Rocket, quienes pronto secuestran a los dos Pok\u00e9mon y se marchan en su submarino Magikarp!",
                 "is_country_whitelist": false,
