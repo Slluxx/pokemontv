@@ -1,23 +1,23 @@
 [
     {
-        "channel_description": "",
+        "channel_description": "Una ancestral amenaza corre el riesgo de quedar desatada, y solo Ash y sus amigos pueden ayudar en la pel\u00edcula Pok\u00e9mon Hoopa y un duelo hist\u00f3rico.",
         "stunt_channel": true,
-        "channel_name": "Diancie y la cris\u00e1lida de la destrucci\u00f3n",
+        "channel_name": "Hoopa y un duelo hist\u00f3rico",
         "media": [
             {
                 "count": 0,
                 "rating": 1,
                 "episode": "",
-                "description": "Cuando la destrucci\u00f3n inicia, \u00bfpuede la Vida prevalecer?",
+                "description": "Ash y sus amigos descubren que una amenaza que ha permanecido contenida durante muchos a\u00f1os ahora corre el riesgo de quedar desatada de nuevo. \u00bfQu\u00e9 conexi\u00f3n tiene este oscuro poder con el Pok\u00e9mon singular Hoopa?",
                 "is_country_whitelist": false,
-                "title": "Diancie y la cris\u00e1lida de la destrucci\u00f3n",
+                "title": "Hoopa y un duelo hist\u00f3rico",
                 "season": "",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie17/movie17_ss01_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie17/movie17_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie17/movie17_ss01_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie18/movie18_ep01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie18/movie18_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie18/movie18_ep01_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/QR6kB2rLSX4pHtyu-WolAc/skim/",
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/2f-2QD7oRkkk2cRVt5-r3k/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -47,28 +47,28 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jC/f1ml9PFJvhiBCYoMe0yDsoHH-8VapK6DjuMhObk0M/pokemon_m17_las.mp4",
-                "last_modified": 1669228565,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m4/3iLaBbWogvdx7U7IHErjja7u30orteNjJ_Eo1Zyus/pokemon_m17_las-3c700386ce8d17379a44ecc849f2a62546d75919.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J_/6iCIu2N8hnFk0tsyEvR3k8htOCGgAsB4YepKdvpgo/pokemon_movie18_las.mp4",
+                "last_modified": 1670595584,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g1/NFfUY0TMHVxNw8aswxdqq2akzg-wQTk-EyGffydcQ/pokemon_movie18_las-f87b092789cea69c5882f3e3a427b27131a2637b.m3u8",
                 "captions": "",
-                "id": "411ea4076acb497ea47b72bbe5a89407",
-                "size": 10563769539
+                "id": "d9ffb6403ee8464993671156de7eaf79",
+                "size": 9863749653
             }
         ],
         "channel_creation_date": 1560369948,
         "whats_new_order": null,
         "watch_now_order": 2,
-        "channel_id": "diancie-y-la-crisalida-de-la-destruccion",
+        "channel_id": "hoopa-y-un-duelo-historico",
         "channel_images": {
-            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie17/movie17-1125x1500-es.png",
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie18/movie18-1125x1500-es.jpg",
             "spotlight_image_960_1277": "",
             "spotlight_image_2048_1152": "",
-            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie17/movie17-1660x940-es.png",
-            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie17/movie17-2732x940-es.png"
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie18/movie18-1660x940-es.jpg",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie18/movie18-1660x940-es.jpg"
         },
-        "channel_update_date": 1669660927,
+        "channel_update_date": 1670595584,
         "media_type": "movie",
-        "channel_status": "DISPONIBLE HASTA EL 9 DE DICIEMBRE"
+        "channel_status": "DISPONIBLE HASTA EL 23 DE DICIEMBRE"
     },
     {
         "channel_description": "En los cortos animados de POK\u00c9TOON, podr\u00e1s encontrar aventuras Pok\u00e9mon de lo m\u00e1s divertidas, conmovedoras y mucho m\u00e1s.",
