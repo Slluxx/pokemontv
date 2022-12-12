@@ -10444,8 +10444,8 @@
                 "size": 2701724754
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "32",
                 "description": "Continuando su viaje hacia Lilypad Town y al siguiente Concurso Pokemon de Maya, nuestros h\u00e9roes se encuentran con un amplio huerto de bayas y Piplup se enamora del Marill de la due\u00f1a del huerto.",
                 "is_country_whitelist": false,
@@ -10494,8 +10494,8 @@
                 "size": 2701604817
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "33",
                 "description": "Al llegar a la casa de Maya en Pueblo Hojaverde, Casilda, la madre de Maya, est\u00e1 planificando los eventos del festival del pueblo junto con Izzy y Cara.",
                 "is_country_whitelist": false,
@@ -10544,8 +10544,8 @@
                 "size": 2672778463
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "34",
                 "description": "Es el primer d\u00eda del Festival de Hojaverde, y el Profesor Oak tiene que dar una charla sobre \"la interrelaci\u00f3n entre los Pok\u00e9mon y las piedras de evoluci\u00f3n\".",
                 "is_country_whitelist": false,
@@ -11194,8 +11194,8 @@
                 "size": 2711764087
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "47",
                 "description": "Mientras nuestros h\u00e9roes siguen su lucha contra el Equipo Galaxia y su intento por construir un nuevo orden mundial, \u00a1el destino de la regi\u00f3n Sinnoh y el mundo entero es a\u00fan dudoso!",
                 "is_country_whitelist": false,
@@ -11244,8 +11244,8 @@
                 "size": 2722314939
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "48",
                 "description": "Cuando nuestros h\u00e9roes descubren el cofre de un tesoro enterrado en el bosque, \u00a1no se imaginan el desastre que les espera dentro!",
                 "is_country_whitelist": false,
@@ -11294,8 +11294,8 @@
                 "size": 2687050374
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "49",
                 "description": "De camino al pr\u00f3ximo Concurso Pok\u00e9mon de Maya en Pueblo Amanecer, nuestros h\u00e9roes conocen a un Maestro del combate a\u00e9reo, quien presenta al Gliscor de Ash con un reto... \u00a1y una oportunidad!",
                 "is_country_whitelist": false,
