@@ -10594,8 +10594,8 @@
                 "size": 2688520199
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "35",
                 "description": "El Festival de Hojaverde est\u00e1 llegando a su fin, pero antes de que esto ocurra, \u00a1todav\u00eda hay algunos asuntos pendientes!",
                 "is_country_whitelist": false,
@@ -11344,8 +11344,8 @@
                 "size": 2690152764
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "50",
                 "description": "Cuando Maya se prepara para su Concurso de combate doble en Pueblo Amanecer, \u00a1una peque\u00f1a ayuda de sus amigos le da una inspiraci\u00f3n nueva y sorprendente!",
                 "is_country_whitelist": false,
@@ -11394,8 +11394,8 @@
                 "size": 2684812440
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "51",
                 "description": "Cuando siguen hacia Pueblo Amanecer y al siguiente Concurso Pok\u00e9mon de Maya, nuestros h\u00e9roes se topan con una anciana mujer que entrena a un Altaria, en quien el Team Rocket tiene los ojos puestos para robarlo.",
                 "is_country_whitelist": false,
@@ -11444,8 +11444,8 @@
                 "size": 2701341936
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "52",
                 "description": "Conforme Pueblo Amanecer y el pr\u00f3ximo Concurso Pok\u00e9mon de Maya se acercan, Gible decide devolver a nuestros h\u00e9roes la visita, \u00a1pero no se deja atrapar f\u00e1cilmente!",
                 "is_country_whitelist": false,
