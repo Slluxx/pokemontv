@@ -1,6 +1,6 @@
 [
     {
-        "channel_description": "Una ancestral amenaza corre el riesgo de quedar desatada, y solo Ash y sus amigos pueden ayudar en la pel\u00edcula Pok\u00e9mon Hoopa y un duelo hist\u00f3rico.",
+        "channel_description": "Una ancestral amenaza corre el riesgo de quedar desatada, y s\u00f3lo Ash y sus amigos pueden ayudar en la pel\u00edcula Pok\u00e9mon Hoopa y un duelo hist\u00f3rico.",
         "stunt_channel": true,
         "channel_name": "Hoopa y un duelo hist\u00f3rico",
         "media": [
@@ -8,7 +8,7 @@
                 "count": 0,
                 "rating": 1,
                 "episode": "",
-                "description": "Ash y sus amigos descubren que una amenaza que ha permanecido contenida durante muchos a\u00f1os ahora corre el riesgo de quedar desatada de nuevo. \u00bfQu\u00e9 conexi\u00f3n tiene este oscuro poder con el Pok\u00e9mon singular Hoopa?",
+                "description": "Ash y sus amigos descubren que una amenaza que ha permanecido contenida durante muchos a\u00f1os ahora corre el riesgo de quedar desatada de nuevo. \u00bfQu\u00e9 conexi\u00f3n tiene este oscuro poder con el Pok\u00e9mon M\u00edtico Hoopa?",
                 "is_country_whitelist": false,
                 "title": "Hoopa y un duelo hist\u00f3rico",
                 "season": "",
@@ -48,7 +48,7 @@
                     "TW"
                 ],
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J_/6iCIu2N8hnFk0tsyEvR3k8htOCGgAsB4YepKdvpgo/pokemon_movie18_las.mp4",
-                "last_modified": 1670595584,
+                "last_modified": 1670871990,
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g1/NFfUY0TMHVxNw8aswxdqq2akzg-wQTk-EyGffydcQ/pokemon_movie18_las-f87b092789cea69c5882f3e3a427b27131a2637b.m3u8",
                 "captions": "",
                 "id": "d9ffb6403ee8464993671156de7eaf79",
@@ -66,7 +66,7 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie18/movie18-1660x940-es.jpg",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie18/movie18-1660x940-es.jpg"
         },
-        "channel_update_date": 1670595584,
+        "channel_update_date": 1670871990,
         "media_type": "movie",
         "channel_status": "DISPONIBLE HASTA EL 23 DE DICIEMBRE"
     },
