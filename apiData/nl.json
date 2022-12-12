@@ -526,8 +526,8 @@
                 "size": 2886333995
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "3",
                 "description": "Er is ongewone activiteit rond de Wela vulkaan, maar de Ultra Beschermers zijn ermee bezig!",
                 "is_country_whitelist": false,
@@ -21594,8 +21594,8 @@
                 "size": 882104807
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "",
                 "description": "De overgeblevenen van Team Galactic hebben Heatran gewekt, diep binnen Stark Mountain. Wie kan verhinderen dat hun vurige ambities uitmonden in een catastrofe?",
                 "is_country_whitelist": false,
