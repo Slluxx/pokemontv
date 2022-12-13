@@ -7468,8 +7468,8 @@
                 "size": 2710920799
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "4",
                 "description": "Ashin saliottelu Byronia vastaan Canalaven salilla on vihdoin koittanut.  Ottelu t\u00e4t\u00e4 salijohtajaa vastaan on jotain, mit\u00e4 Ash ei ikin\u00e4 tule unohtamaan!",
                 "is_country_whitelist": false,
@@ -7518,8 +7518,8 @@
                 "size": 2715441433
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "5",
                 "description": "Sankarimme etsiv\u00e4t laivaa, jolla Ash p\u00e4\u00e4sisi seuraavaan saliotteluunsa Chocovine Towniin, mutta Wailordien lauma tukkii koko sataman. Ash l\u00f6yt\u00e4\u00e4 Wailmerin, jolla on iso ongelma!",
                 "is_country_whitelist": false,
@@ -7568,8 +7568,8 @@
                 "size": 2660547587
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "6",
                 "description": "Kiirehditty\u00e4\u00e4n Iron-saarelle auttamaan yst\u00e4v\u00e4\u00e4ns\u00e4 Barry\u00e4 ja h\u00e4nen sairasta Empoleoniaan sankarimme huomaavatkin, ett\u00e4 sama sairaus vaivaa kaikkia saaren Ter\u00e4styypin Pok\u00e9moneja!",
                 "is_country_whitelist": false,
@@ -7818,8 +7818,8 @@
                 "size": 2702957358
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "11",
                 "description": "Matkalla Snowpoint Cityyn Ashin seuraavaan saliotteluun sankarimme tapaavat hyvin erikoisen konstaapeli Jennyn ja h\u00e4nen kaverinsa Chatotin!",
                 "is_country_whitelist": false,
@@ -7868,8 +7868,8 @@
                 "size": 2643799863
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "12",
                 "description": "Eksytty\u00e4\u00e4n sankassa lumimyrskyss\u00e4 matkalla Snowpoint Cityyn sankarimme t\u00f6rm\u00e4\u00e4v\u00e4t Froslassiin, joka yritt\u00e4\u00e4 ep\u00e4toivoisesti l\u00f6yt\u00e4\u00e4 kadonneen Snorunt-yst\u00e4v\u00e4ns\u00e4.",
                 "is_country_whitelist": false,
