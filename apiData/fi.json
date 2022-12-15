@@ -8218,8 +8218,8 @@
                 "size": 2813889044
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "19",
                 "description": "Sankarimme osallistuvat Pok\u00e9mon-pingiskilpailuun ja Ambipomin verrattomat taidot saattavat Dawnin hankalaan tilanteeseen!",
                 "is_country_whitelist": false,
@@ -8268,8 +8268,8 @@
                 "size": 2829354701
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "20",
                 "description": "Matkalla Snowpoint Cityyn sankarimme pys\u00e4htyv\u00e4t Shelter Townissa ja tapaavat nuoren tyt\u00f6n, jolla on pakkomielle Pok\u00e9monien s\u00f6p\u00f6ydest\u00e4!",
                 "is_country_whitelist": false,
@@ -8768,8 +8768,8 @@
                 "size": 2824589937
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "30",
                 "description": "Matkalla Lilypad Towniin Dawnin seuraavaan Pok\u00e9mon-kilpailuun vastaan tulee kiehtova tapahtuma nimelt\u00e4 \u201cSinnohin Pok\u00e9monhaaste\u201d ja sankarimme osallistuvat innoissaan! Mutta heid\u00e4n kannattaisi pit\u00e4\u00e4 varansa\u2026",
                 "is_country_whitelist": false,
@@ -8818,8 +8818,8 @@
                 "size": 2723049806
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "31",
                 "description": "Kun sankarimme l\u00f6yt\u00e4v\u00e4t vaaleanpunaisen Shellosin Coronet-vuorelta, he vannovat palauttavansa sen laumansa pariin, mutta t\u00f6rm\u00e4\u00e4v\u00e4tkin pahaan Galactic-tiimiin keskell\u00e4 heid\u00e4n uusinta pirullista operaatiotaan!",
                 "is_country_whitelist": false,
