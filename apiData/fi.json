@@ -8168,8 +8168,8 @@
                 "size": 2777245963
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "18",
                 "description": "On Sandalstraw\u2019n Pok\u00e9mon-kilpailun aika ja Dawn ja h\u00e4nen vanha yst\u00e4v\u00e4ns\u00e4 Kenny kohtaavat toisensa areenalla!",
                 "is_country_whitelist": false,
@@ -8718,8 +8718,8 @@
                 "size": 2800910918
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "29",
                 "description": "Matkalla Lilypad Towniin Dawnin seuraavaan Pok\u00e9mon-kilpailuun sankarimme kohtaavat ihmeellisen, mutta salaper\u00e4isen Tangrowthin, joka tekee kummia asioita suojellakseen kotimets\u00e4\u00e4ns\u00e4!",
                 "is_country_whitelist": false,
