@@ -7968,8 +7968,8 @@
                 "size": 2797570538
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "14",
                 "description": "Matkalla kohti Snowpoint City\u00e4 ja Ashin seuraavaa saliottelua sankarimme pys\u00e4htyv\u00e4t Squallvillen kaupungissa tutustumassa Pok\u00e9ringer-kilpailuun!",
                 "is_country_whitelist": false,
@@ -8568,8 +8568,8 @@
                 "size": 2885712578
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "26",
                 "description": "T\u00e4ysimittaisen ottelun aika Ashin ja Paulin v\u00e4lill\u00e4 on koittanut ja Paulin hyvin suunniteltu strategia tiet\u00e4\u00e4 vaikeuksia Ashille!",
                 "is_country_whitelist": false,
