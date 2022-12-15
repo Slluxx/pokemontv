@@ -8518,8 +8518,8 @@
                 "size": 2826777886
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "25",
                 "description": "Kun sankarimme ovat junassa, matkalla Acuity-j\u00e4rvelle Ashin sovittuun Pok\u00e9mon-otteluun Paulin kanssa, juna pys\u00e4htyy tuntemattomasta syyst\u00e4 ja Rakettiryhm\u00e4lle koittaa tilaisuus varastaa sankareidemme Pok\u00e9monit. Sill\u00e4 v\u00e4lin kanssamatkustaja k\u00e4ynnist\u00e4\u00e4 salaa omat tutkimuksensa!",
                 "is_country_whitelist": false,
@@ -9118,8 +9118,8 @@
                 "size": 2784491886
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "37",
                 "description": "Rakettiryhm\u00e4 rakentaa huippumodernin salaisen tukikohdan, jonka sis\u00e4ll\u00e4 he ja sankarimme saavat k\u00e4rsi\u00e4 ilkikurisen Togepin temppuiluista!",
                 "is_country_whitelist": false,
