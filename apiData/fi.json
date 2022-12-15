@@ -8068,8 +8068,8 @@
                 "size": 3034856548
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "16",
                 "description": "Matkalla Ashin seuraavaan saliotteluun Snowpoint Cityyn sankarimme l\u00f6yt\u00e4v\u00e4t yksin\u00e4isen Snoverin, joka antaa Grotlelle odottamattoman lahjan!",
                 "is_country_whitelist": false,
@@ -8118,8 +8118,8 @@
                 "size": 2750779066
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "17",
                 "description": "Dawnin valmistautuessa osallistumaan Sandalstraw\u2019n kilpailuun Piplupin huomataan k\u00e4ytt\u00e4ytyv\u00e4n oudosti. Lopulta Dawnin ja Piplupin v\u00e4linen suhde kokee aikamoista myllerryst\u00e4!",
                 "is_country_whitelist": false,
@@ -8618,8 +8618,8 @@
                 "size": 2775839575
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "27",
                 "description": "Ashin ja Paulin kuusi vastaan kuusi -t\u00e4ysi ottelu k\u00e4y kuumana, kun yll\u00e4tt\u00e4v\u00e4 sattuma k\u00e4\u00e4nt\u00e4\u00e4 tilanteen p\u00e4\u00e4laelleen!",
                 "is_country_whitelist": false,
@@ -8668,8 +8668,8 @@
                 "size": 2852054614
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "28",
                 "description": "Ash tuntee itsens\u00e4 murtuneeksi ja onnettomaksi h\u00e4vitty\u00e4\u00e4n t\u00e4ysimittaisen ottelun Paulille. Rakettiryhm\u00e4 k\u00e4ytt\u00e4\u00e4 tilaisuutta hyv\u00e4kseen yritt\u00e4m\u00e4ll\u00e4 varastaa Pikachun, mutta onnistuu vain lujittamaan Ashin ja h\u00e4nen Pok\u00e9moniensa v\u00e4lisi\u00e4 siteit\u00e4!",
                 "is_country_whitelist": false,
