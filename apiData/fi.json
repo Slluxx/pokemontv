@@ -8768,8 +8768,8 @@
                 "size": 2824589937
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "30",
                 "description": "Matkalla Lilypad Towniin Dawnin seuraavaan Pok\u00e9mon-kilpailuun vastaan tulee kiehtova tapahtuma nimelt\u00e4 \u201cSinnohin Pok\u00e9monhaaste\u201d ja sankarimme osallistuvat innoissaan! Mutta heid\u00e4n kannattaisi pit\u00e4\u00e4 varansa\u2026",
                 "is_country_whitelist": false,
@@ -8818,8 +8818,8 @@
                 "size": 2723049806
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "31",
                 "description": "Kun sankarimme l\u00f6yt\u00e4v\u00e4t vaaleanpunaisen Shellosin Coronet-vuorelta, he vannovat palauttavansa sen laumansa pariin, mutta t\u00f6rm\u00e4\u00e4v\u00e4tkin pahaan Galactic-tiimiin keskell\u00e4 heid\u00e4n uusinta pirullista operaatiotaan!",
                 "is_country_whitelist": false,
@@ -9318,8 +9318,8 @@
                 "size": 2815336322
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "41",
                 "description": "Lilypad Townin Pok\u00e9mon-kilpailu on vihdoin alkanut, mutta sairastunut Jessie pakottaa Jamesin ja Meowthin \u00e4\u00e4rimm\u00e4isiin h\u00e4t\u00e4toimiin!",
                 "is_country_whitelist": false,
@@ -9368,8 +9368,8 @@
                 "size": 2765841602
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "42",
                 "description": "Ash ja Dawn aikovat pit\u00e4\u00e4 Tag-ottelun yst\u00e4viens\u00e4 Lyran ja Khouryn kanssa, mutta Rakettiryhm\u00e4ll\u00e4 on muita suunnitelmia!",
                 "is_country_whitelist": false,
