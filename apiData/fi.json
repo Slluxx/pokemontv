@@ -8718,8 +8718,8 @@
                 "size": 2800910918
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "29",
                 "description": "Matkalla Lilypad Towniin Dawnin seuraavaan Pok\u00e9mon-kilpailuun sankarimme kohtaavat ihmeellisen, mutta salaper\u00e4isen Tangrowthin, joka tekee kummia asioita suojellakseen kotimets\u00e4\u00e4ns\u00e4!",
                 "is_country_whitelist": false,
@@ -9268,8 +9268,8 @@
                 "size": 2780013772
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "40",
                 "description": "Dawnin seuraavan Pok\u00e9mon-kilpailun hetki l\u00e4hestyy ja sankarimme, mukanaan Lyra ja Khoury, saavat kuulla pahansisuisesta, vahvasta ja houkuttelevasta Giblest\u00e4!",
                 "is_country_whitelist": false,
