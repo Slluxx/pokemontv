@@ -8618,8 +8618,8 @@
                 "size": 2775839575
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "27",
                 "description": "Ashin ja Paulin kuusi vastaan kuusi -t\u00e4ysi ottelu k\u00e4y kuumana, kun yll\u00e4tt\u00e4v\u00e4 sattuma k\u00e4\u00e4nt\u00e4\u00e4 tilanteen p\u00e4\u00e4laelleen!",
                 "is_country_whitelist": false,
@@ -8668,8 +8668,8 @@
                 "size": 2852054614
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "28",
                 "description": "Ash tuntee itsens\u00e4 murtuneeksi ja onnettomaksi h\u00e4vitty\u00e4\u00e4n t\u00e4ysimittaisen ottelun Paulille. Rakettiryhm\u00e4 k\u00e4ytt\u00e4\u00e4 tilaisuutta hyv\u00e4kseen yritt\u00e4m\u00e4ll\u00e4 varastaa Pikachun, mutta onnistuu vain lujittamaan Ashin ja h\u00e4nen Pok\u00e9moniensa v\u00e4lisi\u00e4 siteit\u00e4!",
                 "is_country_whitelist": false,
@@ -9218,8 +9218,8 @@
                 "size": 2860666386
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "39",
                 "description": "Lyra ja Khoury mukanaan sankarimme jatkavat matkaa kohti Lilypad Townia ja Dawnin seuraavaa Pok\u00e9mon-kilpailua, kun Lyran Marill katoaa j\u00e4lleen varoittamatta omille teilleen. Se p\u00e4\u00e4tyy Laakson tuulivoimalaan ja on pian avun tarpeessa!",
                 "is_country_whitelist": false,
