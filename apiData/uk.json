@@ -479,8 +479,8 @@
         "channel_name": "Pok\u00e9mon the Movie: Hoopa and the Clash of Ages",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Ash and his friends learn that a threat that\u2019s been bottled up for years is now in danger of breaking loose again. How does this dark power connect to the Mythical Pok\u00e9mon Hoopa?",
                 "is_country_whitelist": false,
@@ -5676,8 +5676,8 @@
                 "size": 2658281764
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "19",
                 "description": "An unexpected appearance by a cunning visitor is turning Team Rocket\u2019s world on its head!",
                 "is_country_whitelist": false,
