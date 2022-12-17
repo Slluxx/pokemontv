@@ -201,8 +201,8 @@
                 "size": 2770850898
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "60",
                 "description": "Our hero is in the middle of the first match of the championship tournament at the Johto League Silver Conference. His opponent is his long time rival\u2014Gary Oak.",
                 "is_country_whitelist": false,
@@ -26275,8 +26275,8 @@
         "channel_name": "Sing-a-long Songs",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Inside a mysterious castle, Pikachu, Meditite, and Medicham gather and start dancing. Let\u2019s join them\u2014see if you can keep up with the dance!",
                 "is_country_whitelist": false,
