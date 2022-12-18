@@ -9768,8 +9768,8 @@
                 "size": 2663218582
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "50",
                 "description": "Dawnin valmistautuessa tuplaottelukilpailuun Daybreak Townissa pieni apu yst\u00e4vilt\u00e4 antaa h\u00e4nelle uutta ja yll\u00e4tt\u00e4v\u00e4\u00e4 inspiraatiota!",
                 "is_country_whitelist": false,
@@ -10039,8 +10039,8 @@
                 "size": 2632348835
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "3",
                 "description": "Sankareittemme l\u00e4hestyess\u00e4 Ashin seuraavaa saliottelua ja Dawnin Pok\u00e9mon-kilpailua, he harkitsevat Pok\u00e9mon-vaihdon hyvi\u00e4 ja huonoja puolia!",
                 "is_country_whitelist": false,
