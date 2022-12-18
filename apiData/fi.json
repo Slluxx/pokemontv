@@ -9718,8 +9718,8 @@
                 "size": 2699841866
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "49",
                 "description": "Matkalla Dawnin seuraavaan Pok\u00e9mon-kilpailuun Daybreak Townissa sankarimme tapaavat ilmaottelumestarin, joka tarjoaa Ashin Gliscorille sek\u00e4 haasteen ett\u00e4 mahdollisuuden!",
                 "is_country_whitelist": false,
@@ -9939,8 +9939,8 @@
         "channel_name": "Pok\u00e9mon: DP Battle Dimension",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "Matkalla Veilstone Cityyn ja Ashin seuraavaan saliotteluun, Chimchar joutuu kohtaamaan pelottavan menneisyytens\u00e4 kolmen vihaisen Zangoosen pakottamana.",
                 "is_country_whitelist": false,
