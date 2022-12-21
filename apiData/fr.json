@@ -20028,8 +20028,8 @@
                 "size": 2701217604
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "59",
                 "description": "Sacha revient chez lui, o\u00f9 un vieil ami lui r\u00e9serve une agr\u00e9able surprise.",
                 "is_country_whitelist": false,
@@ -25925,8 +25925,8 @@
                 "size": 240445868
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "De nouvelles fa\u00e7ons amusantes de rencontrer des Pok\u00e9mon\u00a0! Pose ton doigt sur l\u2019\u00e9cran, et imagine-toi en train de jouer avec tes amis Pok\u00e9mon\u00a0! Essaie sur t\u00e9l\u00e9phone et sur tablette\u00a0!",
                 "is_country_whitelist": false,
