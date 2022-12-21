@@ -10839,8 +10839,8 @@
                 "size": 2646876316
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "19",
                 "description": "Rakettiryhm\u00e4 on sankareittemme j\u00e4ljill\u00e4, kun Jessien Dustox joutuu kohtaamiseen, jonka j\u00e4ljilt\u00e4 h\u00e4nen on teht\u00e4v\u00e4 raskas p\u00e4\u00e4t\u00f6s!",
                 "is_country_whitelist": false,
@@ -11239,8 +11239,8 @@
                 "size": 2651149706
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "27",
                 "description": "Sankareittemme kohdatessa Ashin kilpakumppanin, Paulin Pastoria Cityn ulkopuolella, Chimchar, joka liittyi Ashin joukkueeseen Paulin hyl\u00e4tty\u00e4 sen, k\u00e4rtt\u00e4\u00e4 ottelua!",
                 "is_country_whitelist": false,
@@ -11289,8 +11289,8 @@
                 "size": 2650387243
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "28",
                 "description": "Sankarimme saapuvat Pastoria Cityyn ja tapaavat salijohtaja Crasher Waken, joka esittelee heille vuosittaisen Croagunk-festivaalin!",
                 "is_country_whitelist": false,
