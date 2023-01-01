@@ -1048,7 +1048,7 @@
                 "size": 902170256
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "Jigglypuff is sad because its song isn\u2019t like the songs of other Jigglypuff. Will it be able to find the right melody with a friend\u2019s help?",
@@ -7796,8 +7796,8 @@
                 "size": 3301605800
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "34",
                 "description": "The Ultra Guardians are being called upon again, but this time, they\u2019re on double duty!",
                 "is_country_whitelist": false,
