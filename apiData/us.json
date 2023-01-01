@@ -7696,8 +7696,8 @@
                 "size": 3457752189
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "32",
                 "description": "Ash and Pikachu are all set for their rematch against the island kahuna, but Nanu has a different idea!",
                 "is_country_whitelist": false,
@@ -8446,8 +8446,8 @@
                 "size": 3540427157
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "47",
                 "description": "The rumors are true, and our heroes can\u2019t pika-believe what they find!",
                 "is_country_whitelist": false,
