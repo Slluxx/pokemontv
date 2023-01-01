@@ -406,8 +406,8 @@
                 "size": 2408408642
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "12",
                 "description": "Professors Kukui and Burnet are getting married, and our heroes know just what to do to help!",
                 "is_country_whitelist": false,
@@ -456,8 +456,8 @@
                 "size": 2608176722
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "24",
                 "description": "An emotional look into the past reveals astounding people and places, and nothing will ever be the same again!",
                 "is_country_whitelist": false,
@@ -3182,8 +3182,8 @@
                 "size": 3203761454
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "24",
                 "description": "An emotional look into the past reveals astounding people and places, and nothing will ever be the same again!",
                 "is_country_whitelist": false,
@@ -5303,8 +5303,8 @@
                 "size": 2698253933
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "12",
                 "description": "Professors Kukui and Burnet are getting married, and our heroes know just what to do to help!",
                 "is_country_whitelist": false,
@@ -24884,8 +24884,8 @@
         "channel_name": "Sing-a-long Songs",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Inside a mysterious castle, Pikachu, Meditite, and Medicham gather and start dancing. Let\u2019s join them\u2014see if you can keep up with the dance!",
                 "is_country_whitelist": false,
