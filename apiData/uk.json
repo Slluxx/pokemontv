@@ -356,8 +356,8 @@
                 "size": 2521679387
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "26",
                 "description": "Moving to a new place and a new life can be stressful for anyone, and the Pok\u00e9mon School gang is no exception!",
                 "is_country_whitelist": false,
@@ -877,7 +877,7 @@
                 "size": 902170256
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "Jigglypuff is sad because its song isn\u2019t like the songs of other Jigglypuff. Will it be able to find the right melody with a friend\u2019s help?",
@@ -6403,8 +6403,8 @@
                 "size": 3301605800
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "34",
                 "description": "The Ultra Guardians are being called upon again, but this time, they\u2019re on double duty!",
                 "is_country_whitelist": false,
@@ -6453,8 +6453,8 @@
                 "size": 3566190200
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "35",
                 "description": "Our heroes are stargazing, little suspecting the spectacle that awaits them in the night sky!",
                 "is_country_whitelist": false,
@@ -8424,8 +8424,8 @@
                 "size": 2362337071
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "26",
                 "description": "Moving to a new place and a new life can be stressful for anyone, and the Pok\u00e9mon School gang is no exception!",
                 "is_country_whitelist": false,
