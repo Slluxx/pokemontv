@@ -306,8 +306,8 @@
                 "size": 2720940107
             },
             {
-                "count": 2,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "What begins as a vacation for our hero on Melemele Island in the Alola region turns into the promise of many, many exciting adventures to come!",
                 "is_country_whitelist": false,
@@ -7174,8 +7174,8 @@
         "channel_name": "Pok\u00e9mon the Series: Sun & Moon",
         "media": [
             {
-                "count": 2,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "What begins as a vacation for our hero on Melemele Island in the Alola region turns into the promise of many, many exciting adventures to come!",
                 "is_country_whitelist": false,
