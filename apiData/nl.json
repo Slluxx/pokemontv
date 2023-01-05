@@ -726,8 +726,8 @@
                 "size": 2877493715
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "7",
                 "description": "Een Eevee die dol is op de zee, heeft vele mijlen afgelegd.. en waar onze reis eindigt, zal een nieuwe zo beginnen!",
                 "is_country_whitelist": false,
@@ -18723,8 +18723,8 @@
                 "size": 2800071491
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "5",
                 "description": "Ash daagt Brock, de Gym Leader van de Pewter City Gym uit, maar zelfs Pikachu maakt geen schijn van kans tegen de Steensoort Pok\u00e9mon van Brock. Met hulp van de mysterieuze Flint, traint Ash hard voor een herkansing.",
                 "is_country_whitelist": false,
@@ -21544,8 +21544,8 @@
                 "size": 791397332
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Terwijl de regio Hoenn region feest viert na het voorkomen van de verwoesting door een meteoor, onthullen verslaggever Gabby en haar cameraman Ty de primeur van hun leven.",
                 "is_country_whitelist": false,
@@ -21694,8 +21694,8 @@
                 "size": 659734203
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Diep in de nacht raken een jonge reiziger en haar Chansey de weg kwijt in Eterna Forest. Ze stuiten al gauw op een huis\u2014maar wat staat hen binnen te wachten?",
                 "is_country_whitelist": false,
@@ -21744,8 +21744,8 @@
                 "size": 659377036
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Met de opkomst van hun koning en de ondergang van de Pok\u00e9mon League overweegt Team Plasma de macht over te nemen\u2014tot de Gym Leaders arriveren!",
                 "is_country_whitelist": false,
