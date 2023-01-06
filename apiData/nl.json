@@ -18773,8 +18773,8 @@
                 "size": 2793420374
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "6",
                 "description": "Een wetenschapper leidt Ash en zijn vrienden diep Mount Moon in, om de veelbesproken Maansteen te vinden waarvan wordt gezegd dat hij de kracht van Pok\u00e9mon kan laten toenemen.",
                 "is_country_whitelist": false,
@@ -18873,8 +18873,8 @@
                 "size": 2788729040
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "8",
                 "description": "Met zijn tweede badge op zak vertrekt Ash naar Vermillion City. Onderweg hoort hij over AJ, een Trainer die op het punt staat om honderd overwinningen op rij te behalen. Vol vertrouwen daagt Ash deze geduchte Trainer uit.",
                 "is_country_whitelist": false,
@@ -21344,8 +21344,8 @@
                 "size": 745867949
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "",
                 "description": "In het kielzog van de overname van de Goldenrod Radio Tower door Team Rocket, leidt het onderzoek van Detective Looker hem naar een raadselachtige jonge Trainer.",
                 "is_country_whitelist": false,
@@ -21394,8 +21394,8 @@
                 "size": 699891545
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "De mysterieuze reiziger Eusine verkent de legendes van de Burned Tower van Ecruteak City en de Pok\u00e9mon die uit de as ervan zijn herrezen.",
                 "is_country_whitelist": false,
