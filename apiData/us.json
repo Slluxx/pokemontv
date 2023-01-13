@@ -226,8 +226,8 @@
         "channel_name": "Life\u2019s a Picnic",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "43",
                 "description": "Team Rocket doesn't take a day off from trying to steal Pikachu... will they catch our heroes off guard?",
                 "is_country_whitelist": false,
@@ -22398,8 +22398,8 @@
                 "size": 2873516986
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "43",
                 "description": "Team Rocket doesn't take a day off from trying to steal Pikachu... will they catch our heroes off guard?",
                 "is_country_whitelist": false,
