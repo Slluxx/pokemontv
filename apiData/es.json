@@ -9344,8 +9344,8 @@
                 "size": 2650409913
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Paseando por Pueblo Amanecer y con rumbo al pr\u00f3ximo Concurso Pok\u00e9mon de Maya, \u00a1nuestros h\u00e9roes conocen a un experto en artes marciales que le dar\u00e1 una valiosa lecci\u00f3n a Ash!",
                 "is_country_whitelist": false,
@@ -9794,8 +9794,8 @@
                 "size": 2631354248
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "11",
                 "description": "Mientras nuestros h\u00e9roes contin\u00faan hacia el Lago Valor y el Gran Festival, se cruzan con un Pok\u00e9mon Ranger resuelto y optimista que tiene la misi\u00f3n de capturar a un Heatran poco com\u00fan.",
                 "is_country_whitelist": false,
