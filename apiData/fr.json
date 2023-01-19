@@ -1068,8 +1068,8 @@
         "channel_name": "Pok\u00e9mon \u00c9volutions",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Qu\u2019est-ce qui traverse l\u2019esprit d\u2019un Ma\u00eetre Pok\u00e9mon alors qu\u2019il se pr\u00e9pare au plus grand des d\u00e9fis ? Les doutes ? Les regrets ? La d\u00e9termination ? Les trois ?",
                 "is_country_whitelist": false,
@@ -1268,8 +1268,8 @@
                 "size": 1230548763
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Vos rivaux. Peu importe \u00e0 quelle vitesse vous traversez Sinnoh, ils ont toujours de l\u2019avance, vous poussant \u00e0 \u00eatre meilleur. Mais \u00e0 un moment, peu importe qui ils sont, vous devez les affronter avec leurs Pok\u00e9mon.",
                 "is_country_whitelist": false,
@@ -1560,8 +1560,8 @@
         "channel_name": "Pok\u00e9mon : Ailes du cr\u00e9puscule",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Le premier chapitre de cette nouvelle s\u00e9rie anim\u00e9e de sept \u00e9pisodes qui se d\u00e9roule \u00e0 Galar est maintenant disponible.",
                 "is_country_whitelist": false,
