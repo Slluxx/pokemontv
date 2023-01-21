@@ -3947,8 +3947,8 @@
                 "size": 3374638138
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "9",
                 "description": "Our heroes are grappling with an Alola region in a parallel world\u2014and they\u2019ve appeared just in time to help save it!",
                 "is_country_whitelist": false,
@@ -4747,8 +4747,8 @@
                 "size": 3144257021
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "25",
                 "description": "Our heroes\u2019 visit to a popular tourist attraction ends up being anything but a breeze!",
                 "is_country_whitelist": false,
@@ -4797,8 +4797,8 @@
                 "size": 3274992073
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "26",
                 "description": "A second day in Malie City provides our heroes with a hard-earned chance for some unexpected excitement!",
                 "is_country_whitelist": false,
