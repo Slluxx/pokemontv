@@ -4547,8 +4547,8 @@
                 "size": 3317863907
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "21",
                 "description": "An appearance on a TV quiz show leads our heroes into a world they only dreamed of!",
                 "is_country_whitelist": false,
@@ -4597,8 +4597,8 @@
                 "size": 3222816430
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "22",
                 "description": "Alola is facing another crisis, and the Ultra Guardians are facing a double shift!",
                 "is_country_whitelist": false,
