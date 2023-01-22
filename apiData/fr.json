@@ -5,8 +5,8 @@
         "channel_name": "Pok\u00e9mon, le film : Volcanion et la merveille m\u00e9canique",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Apr\u00e8s \u00eatre tomb\u00e9 du ciel, le Pok\u00e9mon fabuleux Volcanion se retrouve myst\u00e9rieusement li\u00e9 \u00e0 Sacha. Accompagn\u00e9s de Serena, Lem, Clem et leurs Pok\u00e9mon, ils partent \u00e0 la rescousse de Magearna, qui a \u00e9t\u00e9 entra\u00een\u00e9 dans un plan diabolique.",
                 "is_country_whitelist": false,
