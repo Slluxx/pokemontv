@@ -573,8 +573,8 @@
                 "size": 2694096058
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "42",
                 "description": "On a sunny day in Sinnoh, Ash is literally hit by a bolt out of the blue\u2014an Electrike is practicing its Electric-type moves nearby, but it accidentally zapped Ash instead of its target!",
                 "is_country_whitelist": false,
@@ -19872,8 +19872,8 @@
                 "size": 2646786142
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "42",
                 "description": "On a sunny day in Sinnoh, Ash is literally hit by a bolt out of the blue\u2014an Electrike is practicing its Electric-type moves nearby, but it accidentally zapped Ash instead of its target!",
                 "is_country_whitelist": false,
@@ -32788,7 +32788,7 @@
         "media": [
             {
                 "count": 1,
-                "rating": 5,
+                "rating": 3,
                 "episode": "",
                 "description": "Your introduction to the Pok\u00e9mon Championship Series, featuring top gameplay by competitors from all over the globe!",
                 "is_country_whitelist": false,
@@ -33209,7 +33209,7 @@
         "media": [
             {
                 "count": 1,
-                "rating": 5,
+                "rating": 3,
                 "episode": "",
                 "description": "Your introduction to the Pok\u00e9mon Championship Series, featuring top gameplay by competitors from all over the globe!",
                 "is_country_whitelist": false,
@@ -33580,7 +33580,7 @@
         "media": [
             {
                 "count": 1,
-                "rating": 5,
+                "rating": 3,
                 "episode": "",
                 "description": "Your introduction to the Pok\u00e9mon Championship Series, featuring top gameplay by competitors from all over the globe!",
                 "is_country_whitelist": false,
@@ -33951,7 +33951,7 @@
         "media": [
             {
                 "count": 1,
-                "rating": 5,
+                "rating": 3,
                 "episode": "",
                 "description": "Your introduction to the Pok\u00e9mon Championship Series, featuring top gameplay by competitors from all over the globe!",
                 "is_country_whitelist": false,
@@ -34522,7 +34522,7 @@
         "media": [
             {
                 "count": 1,
-                "rating": 5,
+                "rating": 3,
                 "episode": "",
                 "description": "Your introduction to the Pok\u00e9mon Championship Series, featuring top gameplay by competitors from all over the globe!",
                 "is_country_whitelist": false,
