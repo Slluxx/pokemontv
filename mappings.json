@@ -11,7 +11,7 @@
         "playerUrl": "https://watch.pokemon.com/da-dk/#/player?id=",
         "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/dk/",
         "proxyApiUrl": "https://www.proxyscan.io/api/proxy?country=DK&limit=10",
-        "lastProxyFetchSuccess": true
+        "lastProxyFetchSuccess": false
     },
     "es": {
         "langText": "Espa\u00f1a",
