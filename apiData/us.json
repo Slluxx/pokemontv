@@ -276,8 +276,8 @@
         "channel_name": "Hoppy New Year",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "37",
                 "description": "Ash's Totodile falls head over tail for a passing Azumarill, but is still unsuccessful in having its feelings requited when Team Rocket kidnap the Pok\u00e9mon before Totodile's eyes.",
                 "is_country_whitelist": false,
@@ -326,8 +326,8 @@
                 "size": 2876042130
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "9",
                 "description": "When Dawn wakes up to a bad hair day, there's only one solution: have Piplup use Bubblebeam to fix her hair!",
                 "is_country_whitelist": false,
@@ -376,8 +376,8 @@
                 "size": 2635226066
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "34",
                 "description": "Ash and his friends have returned to Hearthome City for Ash's Gym Battle, but Gym Leader Fantina is still out of town.",
                 "is_country_whitelist": false,
@@ -16800,8 +16800,8 @@
                 "size": 2689276511
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "34",
                 "description": "Ash and his friends have returned to Hearthome City for Ash's Gym Battle, but Gym Leader Fantina is still out of town.",
                 "is_country_whitelist": false,
@@ -18171,8 +18171,8 @@
                 "size": 2647658340
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "9",
                 "description": "When Dawn wakes up to a bad hair day, there's only one solution: have Piplup use Bubblebeam to fix her hair!",
                 "is_country_whitelist": false,
