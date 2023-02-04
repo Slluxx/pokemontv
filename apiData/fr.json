@@ -4702,8 +4702,8 @@
                 "size": 2832559570
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "5",
                 "description": "Une soir\u00e9e pyjama chez le Professeur Euphorbe se d\u00e9roule dans l'amiti\u00e9 et les rires... et am\u00e8ne une aventure inattendue !",
                 "is_country_whitelist": false,
@@ -7123,8 +7123,8 @@
                 "size": 2665713139
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "5",
                 "description": "La classe de Sacha part \u00e0 la p\u00eache, mais la Team Rocket a en t\u00eate une toute autre mani\u00e8re de p\u00eacher !",
                 "is_country_whitelist": false,
