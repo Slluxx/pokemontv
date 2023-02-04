@@ -5052,8 +5052,8 @@
                 "size": 2949008161
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "12",
                 "description": "Les Professeurs Euphorbe et Pimprenelle se marient, et nos h\u00e9ros ont une bonne id\u00e9e de cadeau !",
                 "is_country_whitelist": false,
@@ -5502,8 +5502,8 @@
                 "size": 2826084568
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "21",
                 "description": "La visite d'un ancien \u00e9l\u00e8ve de l'\u00e9cole, devenu une l\u00e9gende vivante, va faire vivre \u00e0 nos h\u00e9ros des moments \u00e9tonnants !",
                 "is_country_whitelist": false,
@@ -9023,8 +9023,8 @@
                 "size": 2622886777
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "43",
                 "description": "L\u2019Ar\u00e8ne d\u2019Azuria est pr\u00eate \u00e0 accueillir les combats d\u2019anciens et de nouveaux amis, qui d\u00e9ploient d\u2019anciens et de nouveaux talents !",
                 "is_country_whitelist": false,
