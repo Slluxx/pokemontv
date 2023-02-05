@@ -2726,8 +2726,8 @@
         "channel_name": "Pok\u00e9mon Serien: Sol & M\u00e5ne - Ultra\u00e4ventyren",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "En livlig dr\u00f6m har f\u00f6rt v\u00e5r hj\u00e4lte p\u00e5 ett uppdrag f\u00f6r att ta reda p\u00e5 dess sanna mening.",
                 "is_country_whitelist": false,
