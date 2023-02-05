@@ -4702,8 +4702,8 @@
                 "size": 2832559570
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "5",
                 "description": "Une soir\u00e9e pyjama chez le Professeur Euphorbe se d\u00e9roule dans l'amiti\u00e9 et les rires... et am\u00e8ne une aventure inattendue !",
                 "is_country_whitelist": false,
@@ -17757,8 +17757,8 @@
                 "size": 659467195
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Gr\u00e2ce \u00e0 l\u2019av\u00e8nement de leur roi et la chute de la Ligue Pok\u00e9mon, la Team Plasma est \u00e0 deux doigts de prendre le contr\u00f4le total d\u2019Unys. Mais les Champions d\u2019Ar\u00e8ne ont encore leur mot \u00e0 dire !",
                 "is_country_whitelist": false,
@@ -19270,8 +19270,8 @@
                 "size": 399155329
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Quand vous ne pouvez pas cacher votre joie, chantez et dansez avec des amis Pok\u00e9mon. Frappez des mains\u00a0! Frappez du pied\u00a0! Sautez\u00a0!",
                 "is_country_whitelist": false,
@@ -21462,8 +21462,8 @@
                 "size": 934185598
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Garde le rythme et suis les Pok\u00e9\u00a0Balls qui roulent pour voir si ton Pok\u00e9mon pr\u00e9f\u00e9r\u00e9 se trouve \u00e0 l\u2019int\u00e9rieur\u00a0!",
                 "is_country_whitelist": false,
