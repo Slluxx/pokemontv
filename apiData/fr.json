@@ -5952,8 +5952,8 @@
                 "size": 2847051423
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "30",
                 "description": "Une s\u00e9rie de petites \u00e9preuves jalonnent le chemin que poursuit Sacha pour atteindre son but : passer la Grande \u00c9preuve !",
                 "is_country_whitelist": false,
@@ -6102,8 +6102,8 @@
                 "size": 2837746842
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "33",
                 "description": "Sacha va enfin passer la Grande \u00c9preuve d'Ula-Ula et le Doyen lui r\u00e9serve bien des surprises !",
                 "is_country_whitelist": false,
@@ -8623,8 +8623,8 @@
                 "size": 2635190721
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "35",
                 "description": "Nos h\u00e9ros s\u2019embarquent dans une mission pleine de saveurs... et au final surprenant !",
                 "is_country_whitelist": false,
