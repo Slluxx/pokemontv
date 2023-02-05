@@ -2081,8 +2081,8 @@
                 "size": 2884329775
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "7",
                 "description": "Un \u00c9voli amoureux de la mer a voyag\u00e9 bien loin... mais quand un voyage s'ach\u00e8ve, un autre commence !",
                 "is_country_whitelist": false,
@@ -5552,8 +5552,8 @@
                 "size": 2824324116
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "22",
                 "description": "Alth\u00e9o, l'ancien \u00e9l\u00e8ve de l'\u00c9cole Pok\u00e9mon, apprend \u00e0 ses nouveaux amis un sport qui lui tient beaucoup \u00e0 c\u0153ur.",
                 "is_country_whitelist": false,
@@ -5602,8 +5602,8 @@
                 "size": 2845337326
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "23",
                 "description": "Nos h\u00e9ros vont accueillir un nouveau membre de la famille, qui leur r\u00e9serve bien des surprises agr\u00e9ables !",
                 "is_country_whitelist": false,
