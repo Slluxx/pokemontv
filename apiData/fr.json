@@ -5252,8 +5252,8 @@
                 "size": 2868296849
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "16",
                 "description": "Un lointain souvenir partag\u00e9 par Barbara et N\u00e9phie leur revient en m\u00e9moire de fa\u00e7on douce-am\u00e8re\u2026",
                 "is_country_whitelist": false,
@@ -5452,8 +5452,8 @@
                 "size": 2856137666
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "20",
                 "description": "L'apparition d'un duo de combattants c\u00e9l\u00e8bres va \u00e9veiller des rivalit\u00e9s inattendues.",
                 "is_country_whitelist": false,
@@ -5652,8 +5652,8 @@
                 "size": 2856404573
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "24",
                 "description": "L'infirmi\u00e8re Jo\u00eblle ne se sent pas tr\u00e8s bien aujourd'hui, mais nous connaissons des h\u00e9ros qui ne demandent qu'\u00e0 l'aider !",
                 "is_country_whitelist": false,
@@ -7323,8 +7323,8 @@
                 "size": 2607583984
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "9",
                 "description": "Sacha veut un nouveau Cristal Z, mais d\u2019abord il doit accomplir des t\u00e2ches formidables !",
                 "is_country_whitelist": false,
@@ -9244,8 +9244,8 @@
                 "size": 3278811441
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "4",
                 "description": "En chemin vers Ogoesse et le premier Combat d\u2019Ar\u00e8ne de Sacha dans la r\u00e9gion d\u2019Unys, nos H\u00e9ros d\u00e9couvrent le Club de Combat Pok\u00e9mon, et se font un nouvel ami!",
                 "is_country_whitelist": false,
