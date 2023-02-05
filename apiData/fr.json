@@ -6302,8 +6302,8 @@
                 "size": 2874952340
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "37",
                 "description": "Le public du D\u00f4me Royal est plus enthousiaste que jamais... Mais cette fois, le Royal Mask va recevoir une aide inattendue !",
                 "is_country_whitelist": false,
@@ -8673,8 +8673,8 @@
                 "size": 2633484056
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "36",
                 "description": "Le moment est venu pour Sacha de passer la Grande \u00c9preuve d\u2019Alyxia et il ne s\u2019agira pas d\u2019un combat ordinaire !",
                 "is_country_whitelist": false,
