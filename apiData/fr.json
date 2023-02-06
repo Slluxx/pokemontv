@@ -5552,8 +5552,8 @@
                 "size": 2824324116
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "22",
                 "description": "Alth\u00e9o, l'ancien \u00e9l\u00e8ve de l'\u00c9cole Pok\u00e9mon, apprend \u00e0 ses nouveaux amis un sport qui lui tient beaucoup \u00e0 c\u0153ur.",
                 "is_country_whitelist": false,
@@ -5602,8 +5602,8 @@
                 "size": 2845337326
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "23",
                 "description": "Nos h\u00e9ros vont accueillir un nouveau membre de la famille, qui leur r\u00e9serve bien des surprises agr\u00e9ables !",
                 "is_country_whitelist": false,
@@ -14836,8 +14836,8 @@
                 "size": 2804605531
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "7",
                 "description": "Sacha souhaite obtenir le Badge Cascade \u00e0 Azuria, mais visiblement, Ondine refuse de se joindre au groupe. Lorsque Sacha et Pierre arrivent, la ville est en effervescence en raison d'un cambriolage qui vient de se produire... et nos h\u00e9ros sont d'abord accus\u00e9s du crime\u00a0!",
                 "is_country_whitelist": false,
