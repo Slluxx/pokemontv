@@ -1339,8 +1339,8 @@
         "channel_name": "Bidoof\u2019s Big Stand",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 2,
                 "episode": "",
                 "description": "A bumbling Bidoof with a tendency to bite off more than it can chew finds itself between a rock and a hard place as it embarks on a journey to find its place in the world.",
                 "is_country_whitelist": false,
@@ -3681,8 +3681,8 @@
                 "size": 3519091438
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "38",
                 "description": "As the Alola Pok\u00e9mon League marches on, friends and rivals alike give it their all!",
                 "is_country_whitelist": false,
@@ -3731,8 +3731,8 @@
                 "size": 3271599385
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "39",
                 "description": "The Alola Pok\u00e9mon League is in full swing, and there\u2019s no shortage of surprises in store!",
                 "is_country_whitelist": false,
