@@ -7223,8 +7223,8 @@
                 "size": 2668611406
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "7",
                 "description": "Un Flamiaou coquin est bien d\u00e9cid\u00e9 \u00e0 voler la nourriture des autres, et Sacha et Pikachu veulent savoir pourquoi !",
                 "is_country_whitelist": false,
@@ -7573,8 +7573,8 @@
                 "size": 2596218071
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "14",
                 "description": "Le moment est venu pour Lilie d\u2019affronter ses peurs. Et un nouvel ami va l\u2019y aider !",
                 "is_country_whitelist": false,
