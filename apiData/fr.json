@@ -11515,8 +11515,8 @@
         "channel_name": "Pok\u00e9mon : Les \u00celes Orange",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Ondine et Jessie s'affrontent lors de la f\u00eate des Princesses, un jour sp\u00e9cial o\u00f9 les hommes doivent ob\u00e9ir aux moindres ordres des femmes.",
                 "is_country_whitelist": false,
