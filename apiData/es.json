@@ -11444,8 +11444,8 @@
                 "size": 2700013896
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 2,
                 "episode": "43",
                 "description": "La aparici\u00f3n por sorpresa del mism\u00edsimo Meowth ayuda a nuestros h\u00e9roes a resolver una serie de problemas.",
                 "is_country_whitelist": false,
@@ -11494,8 +11494,8 @@
                 "size": 2708557939
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "44",
                 "description": "Tras reemprender su viaje, acompa\u00f1ados a\u00fan de Meowth, nuestros h\u00e9roes se topan con un Purrloin con problemas. Aunque no todos se creen sus ruegos de ayuda.",
                 "is_country_whitelist": false,
@@ -11544,8 +11544,8 @@
                 "size": 2710586841
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "45",
                 "description": "En su camino hacia Ciudad May\u00f3lica nuestros h\u00e9roes, junto a Meowth, se ven atrapados en un sue\u00f1o del que no logran salir.",
                 "is_country_whitelist": false,
@@ -11594,8 +11594,8 @@
                 "size": 2708545994
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "46",
                 "description": "Durante el viaje de nuestros h\u00e9roes junto a Meowth, y cerca de Ciudad May\u00f3lica, descubren un Cubchoo perdido que los va a llevar a un enfrentamiento peligroso.",
                 "is_country_whitelist": false,
@@ -11644,8 +11644,8 @@
                 "size": 2720793677
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "47",
                 "description": "Nuestros h\u00e9roes han llegado a Ciudad May\u00f3lica, ignorantes de que una crisis de grandes proporciones est\u00e1 a punto de desatarse.",
                 "is_country_whitelist": false,
@@ -11694,8 +11694,8 @@
                 "size": 2676680604
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "48",
                 "description": "El Team Rocket contin\u00faa con su pretensi\u00f3n de robar los Pok\u00e9mon del Centro Pok\u00e9mon de Ciudad May\u00f3lica. Por eso, nuestros h\u00e9roes deben impedir como sea que el Tren Fantasma del Team Rocket escape.",
                 "is_country_whitelist": false,
