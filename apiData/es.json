@@ -10344,8 +10344,8 @@
                 "size": 2713051052
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "21",
                 "description": "Al irse acercando nuestros h\u00e9roes a Ciudad Porcelana, cruzar el Puente Saeta resulta mucho m\u00e1s complicado de lo que hab\u00edan pensado.",
                 "is_country_whitelist": false,
@@ -11194,8 +11194,8 @@
                 "size": 2686829319
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "38",
                 "description": "En su camino hacia Ciudad May\u00f3lica, una conversaci\u00f3n sobre cine y actores favoritos lleva a nuestros h\u00e9roes a tener un encuentro memorable con un futuro director de cine y su maravillosa compa\u00f1era, Zorua.",
                 "is_country_whitelist": false,
