@@ -476,8 +476,8 @@
                 "size": 2880537419
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "Our heroes have finally reached the next stop on the road to Johto: Goldenrod City!",
                 "is_country_whitelist": false,
@@ -526,7 +526,7 @@
                 "size": 2645889338
             },
             {
-                "count": 1,
+                "count": 2,
                 "rating": 5,
                 "episode": "18",
                 "description": "As our heroes take a brief rest near a river, Ash sees a Snubbull rush by on the opposite bank.",
@@ -576,8 +576,8 @@
                 "size": 2687539461
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "7",
                 "description": "May is practicing for her next Pok\u00e9mon Contest, when Torchic finds a Skitty in the bushes. May wants to catch it, but it's too sick to battle.",
                 "is_country_whitelist": false,
