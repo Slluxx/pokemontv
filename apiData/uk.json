@@ -105,8 +105,8 @@
                 "size": 2875079233
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "26",
                 "description": "Ash carelessly makes enemies of the Slowpoke-worshipping residents of a town.",
                 "is_country_whitelist": false,
@@ -155,8 +155,8 @@
                 "size": 2880537419
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "Our heroes have finally reached the next stop on the road to Johto: Goldenrod City!",
                 "is_country_whitelist": false,
@@ -205,7 +205,7 @@
                 "size": 2645889338
             },
             {
-                "count": 1,
+                "count": 2,
                 "rating": 5,
                 "episode": "18",
                 "description": "As our heroes take a brief rest near a river, Ash sees a Snubbull rush by on the opposite bank.",
