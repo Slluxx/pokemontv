@@ -376,8 +376,8 @@
                 "size": 2809708330
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "34",
                 "description": "Ash and friends are caught in a whirlpool and swept to an unexplored island where all the Pok\u00e9mon are pink.",
                 "is_country_whitelist": false,
@@ -426,8 +426,8 @@
                 "size": 2875079233
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "26",
                 "description": "Ash carelessly makes enemies of the Slowpoke-worshipping residents of a town.",
                 "is_country_whitelist": false,
@@ -476,8 +476,8 @@
                 "size": 2880537419
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Our heroes have finally reached the next stop on the road to Johto: Goldenrod City!",
                 "is_country_whitelist": false,
@@ -14958,8 +14958,8 @@
                 "size": 2866483790
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "34",
                 "description": "Ash and friends are caught in a whirlpool and swept to an unexplored island where all the Pok\u00e9mon are pink.",
                 "is_country_whitelist": false,
@@ -23455,8 +23455,8 @@
                 "size": 932585849
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Watch how Pikachu and Pelipper search for and find their fellow Pok\u00e9mon!",
                 "is_country_whitelist": false,
