@@ -19591,8 +19591,8 @@
         "channel_name": "Chansons avec paroles",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Une chanson entrainante sur M\u00e9lof\u00e9e. Une seule de ses notes vous fera danser en rythme avec cet adorable Pok\u00e9mon\u00a0!",
                 "is_country_whitelist": false,
