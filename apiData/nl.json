@@ -3147,8 +3147,8 @@
         "channel_name": "Pok\u00e9mon de serie: Zon & Maan - Ultra-avonturen",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Een levendige droom heeft onze held aangezet op een missie te gaan om de ware betekenis uit te zoeken.",
                 "is_country_whitelist": false,
@@ -15802,8 +15802,8 @@
         "channel_name": "Pok\u00e9mon Generations",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Beleef de Pok\u00e9mon-wereld van Viridian Forest tot Terminus Cave als nooit tevoren!",
                 "is_country_whitelist": false,
