@@ -1,5 +1,76 @@
 [
     {
+        "channel_description": "La aventura de Ash y Pikachu arranca justo cuando buscan al legendario Ho-Oh.",
+        "stunt_channel": true,
+        "channel_name": "La pel\u00edcula Pok\u00e9mon: \u00a1Yo te elijo!",
+        "media": [
+            {
+                "count": 0,
+                "rating": 1,
+                "episode": "",
+                "description": "Atraparlos a todos comienza con uno\u2026",
+                "is_country_whitelist": false,
+                "title": "\u00a1Yo te elijo!",
+                "season": "",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01_360_206.jpg"
+                },
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/OA9wuuSlRw8h3TLj8j3rA8/skim/",
+                "is_new": false,
+                "country_codes": [
+                    "JP",
+                    "HK",
+                    "VN",
+                    "TH",
+                    "NP",
+                    "BD",
+                    "ID",
+                    "BN",
+                    "KH",
+                    "KP",
+                    "KR",
+                    "WS",
+                    "SG",
+                    "MY",
+                    "IN",
+                    "MN",
+                    "MM",
+                    "MO",
+                    "LA",
+                    "PH",
+                    "PK",
+                    "AF",
+                    "LK",
+                    "PG",
+                    "CN",
+                    "TW"
+                ],
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GR/httPaC0dG2qRU44zeMT_A-5G6U8WK2cRXeAWuFsW0/pokemon_movie20_las.mp4",
+                "last_modified": 1676652477,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S6/ZV-C07WzPgA-q7KAnvrdrEPYmrtf3MIK5CT90CdwI/pokemon_movie20_las-6468a07745b275c51a6e0976a1c2a67da0234f14.m3u8",
+                "captions": "",
+                "id": "380f70bae4a5470f8774cb8fc8f7ac0f",
+                "size": 13449590587
+            }
+        ],
+        "channel_creation_date": 1560369948,
+        "whats_new_order": null,
+        "watch_now_order": 2,
+        "channel_id": "la-pelicula-pokemon-yo-te-elijo",
+        "channel_images": {
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1125x1500-latam.png",
+            "spotlight_image_960_1277": "",
+            "spotlight_image_2048_1152": "",
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1660x940-latam.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1660x940-latam.png"
+        },
+        "channel_update_date": 1676652477,
+        "media_type": "movie",
+        "channel_status": "DISPONIBLES HASTA EL 3 DE MARZO"
+    },
+    {
         "channel_description": "Ash y Pikachu conocen a bonitos (y poderosos) Pok\u00e9mon de color rosa en una selecci\u00f3n de inolvidables episodios.",
         "stunt_channel": true,
         "channel_name": "Ve todo de color de rosa",
@@ -507,7 +578,7 @@
         ],
         "channel_creation_date": 1676049578,
         "whats_new_order": null,
-        "watch_now_order": 2,
+        "watch_now_order": 3,
         "channel_id": "ve-todo-de-color-de-rosa",
         "channel_images": {
             "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/think-pink/think-pink-1125x1500-es.png",
@@ -516,7 +587,7 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/think-pink/think-pink-1660x940.png",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/think-pink/think-pink-1660x940.png"
         },
-        "channel_update_date": 1676049577,
+        "channel_update_date": 1676652477,
         "media_type": "episode",
         "channel_status": "DISPONIBLES HASTA EL 24 DE FEBRERO"
     },
