@@ -105,8 +105,8 @@
                 "size": 2718413365
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "26",
                 "description": "Sacha se met \u00e0 dos les habitants d'une ville qui vouent un culte aux Ramoloss.",
                 "is_country_whitelist": false,
@@ -19591,8 +19591,8 @@
         "channel_name": "Chansons avec paroles",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Une chanson entrainante sur M\u00e9lof\u00e9e. Une seule de ses notes vous fera danser en rythme avec cet adorable Pok\u00e9mon\u00a0!",
                 "is_country_whitelist": false,
