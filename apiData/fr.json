@@ -5,8 +5,8 @@
         "channel_name": "Pok\u00e9mon, le film : Je te choisis !",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Pour tous les attraper, il faut en attraper un...",
                 "is_country_whitelist": false,
