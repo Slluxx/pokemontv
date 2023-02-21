@@ -5,8 +5,8 @@
         "channel_name": "la pel\u00edcula Pok\u00e9mon \u00a1Te elijo a ti!",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Para hacerse con todos, hay que empezar con uno...",
                 "is_country_whitelist": false,
