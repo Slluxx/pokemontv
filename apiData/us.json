@@ -6320,8 +6320,8 @@
                 "size": 3324307220
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "54",
                 "description": "With their big vacation on the horizon, our heroes are setting some life-changing plans into motion!",
                 "is_country_whitelist": false,
@@ -16425,8 +16425,8 @@
         "channel_name": "Pok\u00e9mon: Indigo League",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Meet Ash Ketchum, a 10-year-old boy full of imagination, confidence, and dreams that are almost too big for his village of Pallet Town\u2014plus the desire to become a Pok\u00e9mon Master!",
                 "is_country_whitelist": false,
