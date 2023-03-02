@@ -5,7 +5,7 @@
         "channel_name": "Celebrate Pok\u00e9mon",
         "media": [
             {
-                "count": 1,
+                "count": 0,
                 "rating": 5,
                 "episode": "6",
                 "description": "One of Misty's water Pok\u00e9mon is in desperate need of exercise, so the gang decides to take her Horsea to a gym that's run by her sisters in Cerulean City.",
@@ -56,7 +56,7 @@
             },
             {
                 "count": 0,
-                "rating": 1,
+                "rating": 5,
                 "episode": "44",
                 "description": "At the Fennel Valley Pok\u00e9mon Center, Ash gets a special delivery from Oak's Lab\u2014his Bulbasaur. Officer Jenny soon arrives with his Squirtle, and his Charizard flies in too.",
                 "is_country_whitelist": false,
@@ -12087,7 +12087,7 @@
                 "size": 3003091035
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 5,
                 "episode": "6",
                 "description": "One of Misty's water Pok\u00e9mon is in desperate need of exercise, so the gang decides to take her Horsea to a gym that's run by her sisters in Cerulean City.",
