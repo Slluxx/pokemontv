@@ -9744,8 +9744,8 @@
                 "size": 3280505173
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "8",
                 "description": "En su camino hacia Ciudad Fayenza, y el siguiente Combate de Gimnasio de Ash, nuestros h\u00e9roes se encuentran a un Pok\u00e9mon muy especial en un lugar muy especial.",
                 "is_country_whitelist": false,
@@ -9794,7 +9794,7 @@
                 "size": 3303182937
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "9",
                 "description": "Al llegar a Ciudad Fayenza, nuestros h\u00e9roes conocen a un fascinante residente de la ciudad con un secreto.",
