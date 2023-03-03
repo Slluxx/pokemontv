@@ -9394,8 +9394,8 @@
         "channel_name": "Pok\u00e9mon Negro y Blanco: Destinos rivales",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "Tras conocer a la L\u00edder del Gimnasio May\u00f3lica, nuestros h\u00e9roes se encuentran con una vieja amiga y con un invitado sorpresa.",
                 "is_country_whitelist": false,
@@ -9444,8 +9444,8 @@
                 "size": 3254787908
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "2",
                 "description": "Los riesgos para Ash son grandes, puesto que est\u00e1 en juego ganar su cuarta Medalla de Gimnasio en Teselia en el Gimnasio May\u00f3lica y nuestro h\u00e9roe no quiere dejar nada al azar.",
                 "is_country_whitelist": false,
