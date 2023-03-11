@@ -5,8 +5,8 @@
         "channel_name": "Magnificent Mustaches",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "18",
                 "description": "While Ash and Brock are busy training for the Pok\u00e9mon League, they inadvertently uncover a hidden temple containing Pok\u00e9mon fossils.",
                 "is_country_whitelist": false,
@@ -55,8 +55,8 @@
                 "size": 2871699123
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "18",
                 "description": "Ash gets ready for his final Gym battle in the Hoenn region: a Double Battle against Gym Leader Juan, who used to be a Pok\u00e9mon Coordinator!",
                 "is_country_whitelist": false,
@@ -15036,8 +15036,8 @@
                 "size": 2870001954
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "18",
                 "description": "While Ash and Brock are busy training for the Pok\u00e9mon League, they inadvertently uncover a hidden temple containing Pok\u00e9mon fossils.",
                 "is_country_whitelist": false,
