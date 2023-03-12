@@ -5,8 +5,8 @@
         "channel_name": "Magnificent Mustaches",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "18",
                 "description": "While Ash and Brock are busy training for the Pok\u00e9mon League, they inadvertently uncover a hidden temple containing Pok\u00e9mon fossils.",
                 "is_country_whitelist": false,
@@ -15036,8 +15036,8 @@
                 "size": 2870001954
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "18",
                 "description": "While Ash and Brock are busy training for the Pok\u00e9mon League, they inadvertently uncover a hidden temple containing Pok\u00e9mon fossils.",
                 "is_country_whitelist": false,
