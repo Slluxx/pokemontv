@@ -3147,8 +3147,8 @@
         "channel_name": "Pok\u00e9mon de serie: Zon & Maan - Ultra-avonturen",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Een levendige droom heeft onze held aangezet op een missie te gaan om de ware betekenis uit te zoeken.",
                 "is_country_whitelist": false,
@@ -3397,8 +3397,8 @@
                 "size": 2858559555
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "6",
                 "description": "Lillie heeft een missie en dat is haar verleden voor eens en altijd achter zich laten!",
                 "is_country_whitelist": false,
