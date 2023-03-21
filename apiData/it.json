@@ -5,8 +5,8 @@
         "channel_name": "In ognuno di noi",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Ash e Pikachu incontrano una serie di personaggi pittoreschi quando arrivano a Eolipoli per l\u2019annuale Festa del vento. Quando alcuni incidenti mettono a rischio la citt\u00e0, dovranno trovare il modo di collaborare per mettere tutti in salvo.",
                 "is_country_whitelist": false,
@@ -1610,8 +1610,8 @@
         "channel_name": "Forza, Bidoof!",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Un buffo Bidoof, i cui piani tendono ad andare sempre a rotoli, trover\u00e0 pane per i suoi dentoni quando partir\u00e0 per un viaggio alla ricerca del suo posto nel mondo.",
                 "is_country_whitelist": false,
