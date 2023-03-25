@@ -13529,8 +13529,8 @@
         "channel_name": "Pok\u00e9mon: Black & White",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "Arriving in the Unova region, Ash must suddenly deal with the loss of Pikachu\u2019s Electric-type powers!",
                 "is_country_whitelist": false,
@@ -13579,8 +13579,8 @@
                 "size": 2664266280
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "2",
                 "description": "Setting out on their journey in the Unova region, Ash and Pikachu meet up with new friends and old villains!",
                 "is_country_whitelist": false,
@@ -13629,8 +13629,8 @@
                 "size": 2634521111
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "3",
                 "description": "On their way to Striaton City and Ash\u2019s first Unova Gym battle, our heroes come across a family whose hotel is in dire need of help!",
                 "is_country_whitelist": false,
