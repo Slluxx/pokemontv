@@ -426,8 +426,8 @@
                 "size": 902200879
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Jigglypuff is verdrietig, want zijn lied lijkt niet op de liedjes van andere Jigglypuff. Kan hij met de hulp van een vriend de juiste melodie vinden?",
                 "is_country_whitelist": false,
@@ -5689,8 +5689,8 @@
                 "size": 2710456772
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Ash en Pikachu wennen aan het leven in de Alola regio en dat staat op het punt om hen een krachtige duw in een nieuwe richting te geven!",
                 "is_country_whitelist": false,
