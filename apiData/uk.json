@@ -10715,8 +10715,8 @@
                 "size": 2660322881
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "28",
                 "description": "As our heroes battle to save their new Pok\u00e9mon friends, an entire ancient world is at stake!",
                 "is_country_whitelist": false,
@@ -12786,8 +12786,8 @@
                 "size": 2653406068
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "20",
                 "description": "Our heroes come across their old Pok\u00e9mon friend Sandile, and three mischievous Pok\u00e9mon!",
                 "is_country_whitelist": false,
