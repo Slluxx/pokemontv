@@ -2081,7 +2081,7 @@
         "channel_name": "Bidoof\u2019s Big Stand",
         "media": [
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "A bumbling Bidoof with a tendency to bite off more than it can chew finds itself between a rock and a hard place as it embarks on a journey to find its place in the world.",
@@ -12858,8 +12858,8 @@
                 "size": 2682531402
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "36",
                 "description": "The battle between Ash and Roxie at Virbank Gym continues to rock! Who will take a bow as victor in front of the rowdy crowd?",
                 "is_country_whitelist": false,
