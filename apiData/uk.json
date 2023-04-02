@@ -11867,7 +11867,7 @@
                 "size": 2666620006
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "41",
                 "description": "While our heroes continue preparations for the Pok\u00e9mon World Tournament Junior Cup, a sudden emergency and a Pok\u00e9mon in need change their lives forever!",
@@ -13988,8 +13988,8 @@
                 "size": 2668042955
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "34",
                 "description": "Our heroes\u2019 lunch is interrupted by a feisty Roggenrola, which leads them to thwart another sinister Team Rocket plan!",
                 "is_country_whitelist": false,
@@ -14038,8 +14038,8 @@
                 "size": 2673932825
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "35",
                 "description": "Our heroes investigate the case of the disappearing Audino and meet a couple of budding young sleuths in the process!",
                 "is_country_whitelist": false,
