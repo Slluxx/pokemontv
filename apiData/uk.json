@@ -13688,8 +13688,8 @@
                 "size": 2651912823
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "28",
                 "description": "Our heroes come across a Trainer and his Blitzle who put Oshawott to the battle test!",
                 "is_country_whitelist": false,
@@ -13738,7 +13738,7 @@
                 "size": 2633788548
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "29",
                 "description": "Our heroes encounter a lovesick Cottonee with confidence issues!",
@@ -13788,7 +13788,7 @@
                 "size": 2689372628
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "30",
                 "description": "Our heroes witness a mysterious UFO and a Pok\u00e9mon with even more mysterious origins!",
