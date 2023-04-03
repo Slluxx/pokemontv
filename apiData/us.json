@@ -501,8 +501,8 @@
         "channel_name": "Berry Exciting Adventures",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "33",
                 "description": "Ash and the gang have arrived at Slateport City and May is busy getting her Beautifly ready for the Pok\u00e9mon Contest.",
                 "is_country_whitelist": false,
@@ -552,8 +552,8 @@
                 "size": 2676753763
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "25",
                 "description": "When our heroes stumble upon a wonderful berry harvest, May takes the opportunity to make some Pok\u00e9blocks for the Grand Festival, drawing the attention of a hungry Munchlax!",
                 "is_country_whitelist": false,
@@ -602,8 +602,8 @@
                 "size": 2709953489
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "34",
                 "description": "On the way to the Grand Festival, our heroes are swarmed by a group of Aipom who swipe Ash's hat and May's ribbon case!",
                 "is_country_whitelist": false,
