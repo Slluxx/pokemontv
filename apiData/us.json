@@ -903,8 +903,8 @@
                 "size": 2689298303
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "16",
                 "description": "A distant memory shared by Mallow and Lana is rekindled in a bittersweet way!",
                 "is_country_whitelist": false,
@@ -953,8 +953,8 @@
                 "size": 2650722083
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "28",
                 "description": "There\u2019s a big baking competition coming up in Alola, and a surprising participant is joining in on the fun!",
                 "is_country_whitelist": false,
@@ -7743,8 +7743,8 @@
                 "size": 2611512769
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "16",
                 "description": "A distant memory shared by Mallow and Lana is rekindled in a bittersweet way!",
                 "is_country_whitelist": false,
@@ -8343,8 +8343,8 @@
                 "size": 3483927357
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "28",
                 "description": "There\u2019s a big baking competition coming up in Alola, and a surprising participant is joining in on the fun!",
                 "is_country_whitelist": false,
