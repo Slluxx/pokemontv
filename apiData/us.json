@@ -803,8 +803,8 @@
                 "size": 2702922959
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "34",
                 "description": "On their way to Shalour City, our heroes come across an amazing Pok\u00e9mon with a powerful and unique way of battling!",
                 "is_country_whitelist": false,
@@ -853,8 +853,8 @@
                 "size": 2716677252
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "23",
                 "description": "The daily fortune in Serena\u2019s guidebook predicts a bad day for our heroes\u2026and that prediction turns out to be accurate!",
                 "is_country_whitelist": false,
