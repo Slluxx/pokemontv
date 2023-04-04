@@ -1695,8 +1695,8 @@
                 "size": 1991329888
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "A loyal Magikarp wants nothing more than to make a friend.",
                 "is_country_whitelist": false,
@@ -24703,8 +24703,8 @@
                 "size": 512479952
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "A walking song with Pok\u00e9mon! Join Pikachu, Eevee, and the Eevee Evolutions for a walk, and sing along with them!",
                 "is_country_whitelist": false,
