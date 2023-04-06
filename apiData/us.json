@@ -501,8 +501,8 @@
         "channel_name": "Berry Exciting Adventures",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "33",
                 "description": "Ash and the gang have arrived at Slateport City and May is busy getting her Beautifly ready for the Pok\u00e9mon Contest.",
                 "is_country_whitelist": false,
