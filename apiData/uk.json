@@ -24385,8 +24385,8 @@
         "channel_name": "Sing-a-long Songs",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "A catchy Pok\u00e9mon song featuring Clefairy. Try listening to it and you might sway side to side together with this cute Pok\u00e9mon!",
                 "is_country_whitelist": false,
@@ -24535,8 +24535,8 @@
                 "size": 586917366
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "A Pok\u00e9mon Kids TV original song featuring Dedenne, Pikachu, Mime Jr., Smeargle, and Ludicolo! Try calling out their names and see what happens! Let\u2019s sing and have fun together with Pikachu and friends!",
                 "is_country_whitelist": false,
@@ -24785,8 +24785,8 @@
                 "size": 573454971
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Brush your teeth along with all your favorite Pok\u00e9mon!",
                 "is_country_whitelist": false,
