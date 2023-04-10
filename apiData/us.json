@@ -1470,8 +1470,8 @@
         "channel_name": "Pok\u00e9mon: Hisuian Snow",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Alec returns to the Hisui region to visit his father. There, he recalls events from his childhood when he encountered a wild Pok\u00e9mon in a snow-covered forest...",
                 "is_country_whitelist": false,
@@ -1520,8 +1520,8 @@
                 "size": 1386174579
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "",
                 "description": "After falling down a cliffside, young Alec befriends the Hisuian Zorua, and they work together to climb back up. But when Alec returns to his father, he's surprised at his father's reaction upon seeing the Zorua.",
                 "is_country_whitelist": false,
@@ -1570,8 +1570,8 @@
                 "size": 2304690122
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "After many years, Alec returns to the Hisui region to collect the medicinal plants he learned about as a child...and maybe see an old friend.",
                 "is_country_whitelist": false,
@@ -1641,8 +1641,8 @@
         "channel_name": "Pok\u00e9mon Evolutions",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "",
                 "description": "What goes through the mind of a Pok\u00e9mon Champion as they prepare to face the greatest challenge of all? Doubts? Regrets? Determination? All three?",
                 "is_country_whitelist": false,
@@ -1691,8 +1691,8 @@
                 "size": 977241361
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "As the sun sets on some painful memories, Lillie vows to rescue her mother and bring back her friend Nebby. But, in her moment of triumph, a sinister presence casts a shadow on their moonlit reunion\u2026",
                 "is_country_whitelist": false,
