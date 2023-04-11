@@ -5,8 +5,8 @@
         "channel_name": "Des aventures \u00e0 \u00ab tombaies \u00bb",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "33",
                 "description": "Sacha et ses compagnons sont arriv\u00e9s \u00e0 Poivressel et Flora est occup\u00e9e \u00e0 pr\u00e9parer son Charmillon pour le Concours Pok\u00e9mon.",
                 "is_country_whitelist": false,
