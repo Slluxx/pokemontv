@@ -255,8 +255,8 @@
                 "size": 828083698
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Naschoolse activiteiten worden leuker wanneer een mysterieuze Gengar leven in de brouwerij brengt.",
                 "is_country_whitelist": false,
@@ -3347,8 +3347,8 @@
                 "size": 2799472075
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "5",
                 "description": "Een slaapfeestje in Professor Kukui\u2019s huis loopt uit tot veel plezier, vriendschap en een onverwacht avontuur!",
                 "is_country_whitelist": false,
@@ -7889,8 +7889,8 @@
                 "size": 2491146139
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "4",
                 "description": "Iris gaat het gevecht aan met de Opelucid City Gym Leader Drayden, maar ze heeft er geen idee van wat haar te wachten staat!",
                 "is_country_whitelist": false,
