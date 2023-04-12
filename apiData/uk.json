@@ -8425,7 +8425,7 @@
                 "size": 2362337071
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "26",
                 "description": "Moving to a new place and a new life can be stressful for anyone, and the Pok\u00e9mon School gang is no exception!",
@@ -12017,8 +12017,8 @@
                 "size": 2693645232
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 2,
                 "episode": "9",
                 "description": "Ash arrives in Driftveil City only to be confronted with a series of perilous events! It may take a superhero (or two) to crack this case!",
                 "is_country_whitelist": false,
