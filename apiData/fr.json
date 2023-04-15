@@ -405,8 +405,8 @@
                 "size": 2664290265
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "27",
                 "description": "Toujours en route vers l'Ar\u00e8ne de Flocombe, nos h\u00e9ros traversent le Mont For\u00e9 et se retrouvent plong\u00e9s dans un nouveau complot diabolique de la Team Rocket !",
                 "is_country_whitelist": false,
@@ -12565,8 +12565,8 @@
                 "size": 2573848356
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "20",
                 "description": "Cette fois, l'enjeu du combat n'est pas seulement le Badge Jet de l'Ar\u00e8ne de Parsemille, c'est aussi le style m\u00eame de combat de la Championne d\u2019Ar\u00e8ne !",
                 "is_country_whitelist": false,
@@ -12915,8 +12915,8 @@
                 "size": 3314599642
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "27",
                 "description": "Toujours en route vers l'Ar\u00e8ne de Flocombe, nos h\u00e9ros traversent le Mont For\u00e9 et se retrouvent plong\u00e9s dans un nouveau complot diabolique de la Team Rocket !",
                 "is_country_whitelist": false,
