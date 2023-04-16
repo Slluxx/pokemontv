@@ -1498,8 +1498,8 @@
                 "size": 902170256
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Jigglypuff is sad because its song isn\u2019t like the songs of other Jigglypuff. Will it be able to find the right melody with a friend\u2019s help?",
                 "is_country_whitelist": false,
@@ -1569,8 +1569,8 @@
         "channel_name": "Pok\u00e9mon: Hisuian Snow",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Alec returns to the Hisui region to visit his father. There, he recalls events from his childhood when he encountered a wild Pok\u00e9mon in a snow-covered forest...",
                 "is_country_whitelist": false,
