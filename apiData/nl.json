@@ -14902,8 +14902,8 @@
         "channel_name": "Pok\u00e9mon: Adventures in the Orange Islands",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "Misty en Jessie doen mee aan de Koningin van het Prinsessen Festival. Ash en Brock lenen Misty hun Pok\u00e9mon voor het Gevecht en Jessie krijgt lik op stuk ondanks de inzet van een van haar eigen nieuwe Pok\u00e9mon.",
                 "is_country_whitelist": false,
@@ -14952,8 +14952,8 @@
                 "size": 2694560885
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Het is Kinderdag en Ash en de rest helpen een paar schoolkinderen. Team Rocket verpest alles door een kind te pakken in plaats van Pikachu. Er volgt een schokkende wending waarbij Meowth een goeierik wordt. Of toch niet?",
                 "is_country_whitelist": false,
@@ -20944,8 +20944,8 @@
                 "size": 791397332
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Terwijl de regio Hoenn region feest viert na het voorkomen van de verwoesting door een meteoor, onthullen verslaggever Gabby en haar cameraman Ty de primeur van hun leven.",
                 "is_country_whitelist": false,
@@ -21044,8 +21044,8 @@
                 "size": 882104807
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "De overgeblevenen van Team Galactic hebben Heatran gewekt, diep binnen Stark Mountain. Wie kan verhinderen dat hun vurige ambities uitmonden in een catastrofe?",
                 "is_country_whitelist": false,
