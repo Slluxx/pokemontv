@@ -506,8 +506,8 @@
                 "size": 2675433817
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "31",
                 "description": "Our heroes can\u2019t wait to start training for the upcoming Alola Pok\u00e9mon League, but not everyone is feeling confident!",
                 "is_country_whitelist": false,
@@ -3582,8 +3582,8 @@
                 "size": 3290230906
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "31",
                 "description": "Our heroes can\u2019t wait to start training for the upcoming Alola Pok\u00e9mon League, but not everyone is feeling confident!",
                 "is_country_whitelist": false,
@@ -10645,8 +10645,8 @@
                 "size": 2688891736
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "26",
                 "description": "As our heroes prepare to enjoy the next chapter of their exciting adventures, others have different plans!",
                 "is_country_whitelist": false,
@@ -13266,8 +13266,8 @@
                 "size": 2627983167
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "33",
                 "description": "On their way to Virbank City, our heroes run into a familiar face and an icy emergency!",
                 "is_country_whitelist": false,
@@ -13316,8 +13316,8 @@
                 "size": 2674118573
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "34",
                 "description": "In Virbank City, an old friend gives our heroes a taste of movie-making they will never forget!",
                 "is_country_whitelist": false,
