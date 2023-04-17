@@ -24312,8 +24312,8 @@
                 "size": 399155329
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Quand vous ne pouvez pas cacher votre joie, chantez et dansez avec des amis Pok\u00e9mon. Frappez des mains\u00a0! Frappez du pied\u00a0! Sautez\u00a0!",
                 "is_country_whitelist": false,
@@ -24383,7 +24383,7 @@
         "channel_name": "Chansons avec paroles",
         "media": [
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "Une chanson entrainante sur M\u00e9lof\u00e9e. Une seule de ses notes vous fera danser en rythme avec cet adorable Pok\u00e9mon\u00a0!",
@@ -24433,8 +24433,8 @@
                 "size": 356837990
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Dans un myst\u00e9rieux ch\u00e2teau, Pikachu, M\u00e9ditikka et Charmina se r\u00e9unissent et se mettent \u00e0 danser. Rejoignons-les et tentons de suivre la cadence\u00a0!",
                 "is_country_whitelist": false,
