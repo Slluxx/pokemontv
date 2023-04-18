@@ -1052,8 +1052,8 @@
                 "size": 2675433817
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "31",
                 "description": "Our heroes can\u2019t wait to start training for the upcoming Alola Pok\u00e9mon League, but not everyone is feeling confident!",
                 "is_country_whitelist": false,
@@ -5375,8 +5375,8 @@
                 "size": 3290230906
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "31",
                 "description": "Our heroes can\u2019t wait to start training for the upcoming Alola Pok\u00e9mon League, but not everyone is feeling confident!",
                 "is_country_whitelist": false,
@@ -12988,8 +12988,8 @@
                 "size": 2705119594
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "37",
                 "description": "As our heroes continue their tour of the Decolore Islands, they encounter a windfall of delicious berries and unexpected new friends!",
                 "is_country_whitelist": false,
