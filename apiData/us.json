@@ -546,6 +546,52 @@
         "channel_status": ""
     },
     {
+        "channel_description": "Ash and friends must stop Mewtwo from seeking revenge against its creators in Pok\u00e9mon: Mewtwo Strikes Back\u2014Evolution.",
+        "stunt_channel": true,
+        "channel_name": "Pok\u00e9mon: Mewtwo Strikes Back\u2014Evolution",
+        "media": [
+            {
+                "count": 0,
+                "rating": 1,
+                "episode": "",
+                "description": "In this CGI reimagining of the original Pok\u00e9mon animated movie, Ash, Pikachu, and their friends must confront Mewtwo, a Legendary Pok\u00e9mon seeking revenge against its human creators.",
+                "is_country_whitelist": true,
+                "title": "Pok\u00e9mon: Mewtwo Strikes Back\u2014Evolution",
+                "season": "",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie22/movie22_ss01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie22/movie22_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie22/movie22_ss01_360_206.jpg"
+                },
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/QQ6PQSGzR5AtEHwMlh1uds/skim/",
+                "is_new": false,
+                "country_codes": [
+                    "US"
+                ],
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Og/69JAMOshhafNy3R3tFB4fyd0DwBOEZP4ZZRErLhrk/pok_m_m22_2398-master-en.mp4",
+                "last_modified": 1682086956,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ko/E_ku4PvnSrQCYjoS-YC2s5dyOYbEpwh3ObefcqLnw/pok_m_m22_2398-master-en-26028150344801e398e04b7eeac93132a922d604.m3u8",
+                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ko/E_ku4PvnSrQCYjoS-YC2s5dyOYbEpwh3ObefcqLnw/vtt/6/en.vtt",
+                "id": "410e8f4121b34790b441f0325875b9db",
+                "size": 12282448863
+            }
+        ],
+        "channel_creation_date": 1682086958,
+        "whats_new_order": null,
+        "watch_now_order": 2,
+        "channel_id": "pokemon-mewtwo-strikes-back-evolution",
+        "channel_images": {
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/movie22/movie22-1125x1500-en.png",
+            "spotlight_image_960_1277": "",
+            "spotlight_image_2048_1152": "",
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/movie22/movie22-1660x940-en.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/movie22/movie22-1660x940-en.png"
+        },
+        "channel_update_date": 1682086956,
+        "media_type": "movie",
+        "channel_status": "AVAILABLE UNTIL MAY 5"
+    },
+    {
         "channel_description": "Squirtle, Turtwig, and Tirtouga are throwing a Pok\u00e9mon Shell-ebration on Pok\u00e9mon TV.",
         "stunt_channel": true,
         "channel_name": "Pok\u00e9mon Shell-ebration",
@@ -1129,7 +1175,7 @@
         ],
         "channel_creation_date": 1681482948,
         "whats_new_order": null,
-        "watch_now_order": 2,
+        "watch_now_order": 3,
         "channel_id": "pokemon-shell-ebration",
         "channel_images": {
             "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/shell-ebration/shell-ebration-1125x1500-en.png",
@@ -1138,7 +1184,7 @@
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/shell-ebration/shell-ebration-1660x940.png",
             "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/shell-ebration/shell-ebration-1660x940.png"
         },
-        "channel_update_date": 1681482946,
+        "channel_update_date": 1682086956,
         "media_type": "episode",
         "channel_status": "AVAILABLE UNTIL APRIL 28"
     },
