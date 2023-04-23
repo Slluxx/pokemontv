@@ -9395,8 +9395,8 @@
         "channel_name": "Pok\u00e9mon: BW Adventures in Unova and Beyond",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "On their way to the site of the upcoming Unova League, our heroes take on an unexpectedly messy battle challenge!",
                 "is_country_whitelist": false,
@@ -25134,8 +25134,8 @@
                 "size": 153980796
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Your partners Pikachu and Eevee have been making you sing, sing, sing, but don\u2019t forget to dance while you\u2019re still in the mood!",
                 "is_country_whitelist": false,
