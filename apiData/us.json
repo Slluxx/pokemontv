@@ -701,8 +701,8 @@
                 "size": 2876637576
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "21",
                 "description": "En route to Ekruteak, Ash and company are caught by the sight of a Skiploom racing by. Following after it, they encounter its trainer, Ephram.",
                 "is_country_whitelist": false,
@@ -802,8 +802,8 @@
                 "size": 2678189468
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "33",
                 "description": "Ash and friends are lost in a forest when they are attacked by a Skarmory that kidnaps May.",
                 "is_country_whitelist": false,
