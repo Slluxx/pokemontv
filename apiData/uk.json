@@ -5,8 +5,8 @@
         "channel_name": "Pok\u00e9mon Bouquet",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "48",
                 "description": "In the course of his journey, Ash battles a mountaineer Pok\u00e9mon trainer he encountered in a small wooded area.",
                 "is_country_whitelist": false,
@@ -21830,8 +21830,8 @@
                 "size": 2796078884
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "48",
                 "description": "In the course of his journey, Ash battles a mountaineer Pok\u00e9mon trainer he encountered in a small wooded area.",
                 "is_country_whitelist": false,
