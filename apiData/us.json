@@ -601,8 +601,8 @@
         "channel_name": "Pok\u00e9mon Bouquet",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "48",
                 "description": "In the course of his journey, Ash battles a mountaineer Pok\u00e9mon trainer he encountered in a small wooded area.",
                 "is_country_whitelist": false,
@@ -651,8 +651,8 @@
                 "size": 2808867263
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "19",
                 "description": "The annual Sunflora contest is only a day away and yet our hero's new friend and Sunflora Trainer is unable to convince her star Pok\u00e9mon to compete.",
                 "is_country_whitelist": false,
@@ -23719,8 +23719,8 @@
                 "size": 2796078884
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "48",
                 "description": "In the course of his journey, Ash battles a mountaineer Pok\u00e9mon trainer he encountered in a small wooded area.",
                 "is_country_whitelist": false,
