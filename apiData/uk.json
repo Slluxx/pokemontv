@@ -206,8 +206,8 @@
                 "size": 2678189468
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "33",
                 "description": "Ash and friends are lost in a forest when they are attacked by a Skarmory that kidnaps May.",
                 "is_country_whitelist": false,
@@ -256,8 +256,8 @@
                 "size": 2690086444
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "16",
                 "description": "The team is on Camomile Island, en route to May's next Pok\u00e9mon Contest on Chrysanthemum Island. Everyone lets their Pok\u00e9mon out to have some fun.",
                 "is_country_whitelist": false,
@@ -4233,8 +4233,8 @@
                 "size": 3487510880
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "46",
                 "description": "It\u2019s time for the Alola Pok\u00e9mon League finals, and the competitors are more determined than ever to become Champion!",
                 "is_country_whitelist": false,
