@@ -1491,8 +1491,8 @@
         "channel_name": "Bidoof\u2019s Big Stand",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "A bumbling Bidoof with a tendency to bite off more than it can chew finds itself between a rock and a hard place as it embarks on a journey to find its place in the world.",
                 "is_country_whitelist": false,
@@ -4233,8 +4233,8 @@
                 "size": 3487510880
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "46",
                 "description": "It\u2019s time for the Alola Pok\u00e9mon League finals, and the competitors are more determined than ever to become Champion!",
                 "is_country_whitelist": false,
@@ -7125,8 +7125,8 @@
         "channel_name": "Pok\u00e9mon the Series: Sun & Moon",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "What begins as a vacation for our hero on Melemele Island in the Alola region turns into the promise of many, many exciting adventures to come!",
                 "is_country_whitelist": false,
