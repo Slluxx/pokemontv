@@ -1099,8 +1099,8 @@
         "channel_name": "Pok\u00e9mon: Mewtwo Strikes Back\u2014Evolution",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "In this CGI reimagining of the original Pok\u00e9mon animated movie, Ash, Pikachu, and their friends must confront Mewtwo, a Legendary Pok\u00e9mon seeking revenge against its human creators.",
                 "is_country_whitelist": true,
@@ -2158,8 +2158,8 @@
         "channel_name": "Bidoof\u2019s Big Stand",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "A bumbling Bidoof with a tendency to bite off more than it can chew finds itself between a rock and a hard place as it embarks on a journey to find its place in the world.",
                 "is_country_whitelist": false,
