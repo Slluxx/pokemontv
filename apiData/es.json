@@ -405,7 +405,7 @@
                 "size": 3266897532
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "16",
                 "description": "Una visita a la granja de Hela envuelve a nuestros h\u00e9roes en una experiencia que jam\u00e1s olvidar\u00e1n.",
@@ -526,8 +526,8 @@
                 "size": 580837875
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Pancham sue\u00f1a con ser como su h\u00e9roe y por eso entrena cada d\u00eda. \u00bfEstar\u00e1 a la altura cuando tenga que ayudar a unos mineros y Pok\u00e9mon que est\u00e1n en peligro?",
                 "is_country_whitelist": false,
@@ -2731,7 +2731,7 @@
                 "size": 2914903332
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "16",
                 "description": "Una visita a la granja de Hela envuelve a nuestros h\u00e9roes en una experiencia que jam\u00e1s olvidar\u00e1n.",
