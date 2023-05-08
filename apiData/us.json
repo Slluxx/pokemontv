@@ -12315,7 +12315,7 @@
             },
             {
                 "count": 1,
-                "rating": 3,
+                "rating": 1,
                 "episode": "24",
                 "description": "The time for Ash\u2019s Gym battle with Grant at the Cyllage City Gym is finally here, and it\u2019s an uphill climb!",
                 "is_country_whitelist": false,
@@ -14735,8 +14735,8 @@
                 "size": 2876972227
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "24",
                 "description": "Ash's Mom and Professor Oak make a surprise visit to watch Ash battle in the Pok\u00e9mon League Tournament.",
                 "is_country_whitelist": false,
@@ -15785,7 +15785,7 @@
                 "size": 2872729652
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 5,
                 "episode": "45",
                 "description": "Ash, Misty and Tracey are bound for the next Orange League gym on Trovita when they find themselves trekking across rugged landscape, miles from anywhere.",
