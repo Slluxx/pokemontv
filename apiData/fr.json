@@ -9344,8 +9344,8 @@
                 "size": 3311716289
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "3",
                 "description": "Sacha est impatient de capturer des Pok\u00e9mon de la r\u00e9gion de Kalos, et il n\u2019est pas le seul !",
                 "is_country_whitelist": false,
@@ -21312,8 +21312,8 @@
                 "size": 451203073
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Les \u00e9quipes de Pikachu et d\u2019\u00c9voli se donnent \u00e0 fond dans une course de relais. Quelle \u00e9quipe remportera la course\u00a0? Encourageons-les tous\u00a0!",
                 "is_country_whitelist": false,
