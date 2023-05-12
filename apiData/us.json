@@ -3976,8 +3976,8 @@
                 "size": 3261752443
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "3",
                 "description": "Some unusual activity is occurring around Wela Volcano, but the Ultra Guardians are on the case!",
                 "is_country_whitelist": false,
@@ -7747,8 +7747,8 @@
                 "size": 2614326741
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "24",
                 "description": "Nurse Joy is feeling a bit under the weather today, but we know just the heroes to help her out!",
                 "is_country_whitelist": false,
@@ -7797,8 +7797,8 @@
                 "size": 3346407287
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "25",
                 "description": "A potential disaster threatens the future of the Alola region, but the Ultra Guardians are ready, willing, and able to deal with it!",
                 "is_country_whitelist": false,

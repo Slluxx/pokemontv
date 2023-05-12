@@ -2083,8 +2083,8 @@
                 "size": 3261752443
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "3",
                 "description": "Some unusual activity is occurring around Wela Volcano, but the Ultra Guardians are on the case!",
                 "is_country_whitelist": false,
@@ -2183,7 +2183,7 @@
                 "size": 3361968036
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "5",
                 "description": "A chance meeting with another Trainer gives Ash and Rowlet new battle experiences they never imagined!",
@@ -5904,8 +5904,8 @@
                 "size": 3346407287
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "25",
                 "description": "A potential disaster threatens the future of the Alola region, but the Ultra Guardians are ready, willing, and able to deal with it!",
                 "is_country_whitelist": false,
