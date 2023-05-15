@@ -701,8 +701,8 @@
                 "size": 2800283782
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "33",
                 "description": "While riding around the Orange Islands on his Lapras, Ash finds a mysterious message in a bottle, which leads the gang on a new adventure.",
                 "is_country_whitelist": false,
@@ -751,8 +751,8 @@
                 "size": 2866483790
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "10",
                 "description": "Arriving at a beautiful hot springs, Ash, Misty and Brock decide they and their Pok\u00e9mon need to take a much needed break from their journey.",
                 "is_country_whitelist": false,
@@ -15210,8 +15210,8 @@
                 "size": 2871019435
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "33",
                 "description": "While riding around the Orange Islands on his Lapras, Ash finds a mysterious message in a bottle, which leads the gang on a new adventure.",
                 "is_country_whitelist": false,
