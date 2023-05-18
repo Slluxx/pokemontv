@@ -20041,8 +20041,8 @@
                 "size": 384581454
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "\u00bfListos para un poco de Pika-encanto? \u00a1Cantemos y bailemos juntos!",
                 "is_country_whitelist": false,
@@ -20291,8 +20291,8 @@
                 "size": 149980119
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Tus compa\u00f1eros Pikachu e Eevee te han hecho cantar, \u00a1pero no te olvides de bailar mientras te queden fuerzas!",
                 "is_country_whitelist": false,
@@ -20512,8 +20512,8 @@
         "channel_name": "Diversi\u00f3n Pok\u00e9mon",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "\u00a1Radio Taiso n.\u00ba 1! Pikachu y Lucario est\u00e1n haciendo Radio Taiso, un ejercicio de calentamiento muy popular en Jap\u00f3n. Conforme avanza el calentamiento, todo lo que rodea a Lucario y sus amigos se vuelve... \u00a1supercolorido!",
                 "is_country_whitelist": false,
@@ -21762,8 +21762,8 @@
                 "size": 925381941
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "\u00a1Siente el ritmo y sigue las Pok\u00e9 Balls rodantes para descubrir si tu Pok\u00e9mon favorito est\u00e1 dentro de una de ellas!",
                 "is_country_whitelist": false,
