@@ -19591,8 +19591,8 @@
         "channel_name": "Canta con nosotros",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Una canci\u00f3n de lo m\u00e1s pegadiza dedicada a Clefairy. \u00a1Esc\u00fachala y ver\u00e1s c\u00f3mo el ritmo te hace dar un paso aqu\u00ed y un paso all\u00e1!",
                 "is_country_whitelist": false,
@@ -19791,8 +19791,8 @@
                 "size": 301770414
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "\u00bfDe qu\u00e9 color son las bayas que les gustan a estos Pok\u00e9mon? \u00bfRojas? \u00bfAmarillas? \u00bfAzules? \u00a1Aprendamos los colores con los Pok\u00e9mon!",
                 "is_country_whitelist": false,
