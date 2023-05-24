@@ -8652,8 +8652,8 @@
                 "size": 2637434934
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "6",
                 "description": "Nunca desistindo, Ash busca uma revanche contra a L\u00edder de Gin\u00e1sio, Viola para conseguir sua primeira Ins\u00edgnia de Gin\u00e1sio da Regi\u00e3o Kalos!",
                 "is_country_whitelist": false,
@@ -9402,8 +9402,8 @@
                 "size": 2539854322
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "21",
                 "description": "Nossos her\u00f3is est\u00e3o explorando o mundo da Pok\u00e9vis\u00e3o em uma produ\u00e7\u00e3o de propor\u00e7\u00f5es \u00e9picas e surpresas cinematogr\u00e1ficas!",
                 "is_country_whitelist": false,
@@ -9452,8 +9452,8 @@
                 "size": 2637224137
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "22",
                 "description": "A visita de nosso her\u00f3is a um aqu\u00e1rio incr\u00edvel acaba revelando coisas de lendas!",
                 "is_country_whitelist": false,
