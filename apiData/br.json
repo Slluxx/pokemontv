@@ -8402,8 +8402,8 @@
         "channel_name": "Pok\u00e9mon, a s\u00e9rie: XY",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "Ash e Pikachu chegam na Regi\u00e3o Kalos e n\u00e3o perdem tempo em elevar a empolga\u00e7\u00e3o e aventura ao ponto de ebuli\u00e7\u00e3o!",
                 "is_country_whitelist": false,
@@ -8652,7 +8652,7 @@
                 "size": 2637434934
             },
             {
-                "count": 1,
+                "count": 2,
                 "rating": 5,
                 "episode": "6",
                 "description": "Nunca desistindo, Ash busca uma revanche contra a L\u00edder de Gin\u00e1sio, Viola para conseguir sua primeira Ins\u00edgnia de Gin\u00e1sio da Regi\u00e3o Kalos!",
@@ -8702,8 +8702,8 @@
                 "size": 2704553244
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "7",
                 "description": "Surge uma oportunidade de fazer parte de uma eletrizante Corrida de Rhyhorn, e Ash mal pode esperar para participar!",
                 "is_country_whitelist": false,
@@ -8902,8 +8902,8 @@
                 "size": 2632162284
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "11",
                 "description": "Conforme nossos her\u00f3is atravessam uma floresta a caminho da Cidade de Cyllage, um novo Pok\u00e9mon imp\u00f5e um belo desafio, e uns inimigos tamb\u00e9m!",
                 "is_country_whitelist": false,
@@ -8952,8 +8952,8 @@
                 "size": 1681551308
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "12",
                 "description": "Durante a jornada de nossos her\u00f3is para a Cidade de Cyllage e a pr\u00f3xima Batalha de Gin\u00e1sio de Ash, eles precisam confrontar um sujeito bem mau car\u00e1ter envolvido em neg\u00f3cios ainda mais sujos!",
                 "is_country_whitelist": false,
@@ -9152,8 +9152,8 @@
                 "size": 2592017707
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "16",
                 "description": "Uma visita ao Centro Pok\u00e9mon local resulta em uma confus\u00e3o que nossos her\u00f3is t\u00eam muita dificuldade em resolver!",
                 "is_country_whitelist": false,
@@ -9202,8 +9202,8 @@
                 "size": 2567175635
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "17",
                 "description": "Continuando para a Cidade de Cyllage, nossos her\u00f3is encontram um poderoso jovem ninja acompanhado de seu igualmente poderoso Frogadier, e ambos t\u00eam muito o que compartilhar!",
                 "is_country_whitelist": false,
@@ -9502,8 +9502,8 @@
                 "size": 2566765311
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "23",
                 "description": "Depois de reencontrar uma velha amiga, nossos her\u00f3is est\u00e3o para testemunhar uma grande decoberta da qual eles nunca esquecer\u00e3o!",
                 "is_country_whitelist": false,
@@ -9652,8 +9652,8 @@
                 "size": 2665017041
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "26",
                 "description": "Um novo penteado de Bonnie leva nossos her\u00f3is a novos amigos necessitados!",
                 "is_country_whitelist": false,
