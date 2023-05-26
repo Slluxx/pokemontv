@@ -1,23 +1,23 @@
 [
     {
-        "channel_description": "Ad\u00e9ntrate en las oscuras cuevas con Ash y compa\u00f1\u00eda yendo de espeleolog\u00eda en esta colecci\u00f3n de episodios.",
+        "channel_description": "Los Entrenadores se lo pasan en grande aprendiendo sobre las Pok\u00e9 Balls en TV Pok\u00e9mon.",
         "stunt_channel": true,
-        "channel_name": "Aventuras cavernosas",
+        "channel_name": "Pok\u00e9 Balls a diestro y siniestro",
         "media": [
             {
                 "count": 0,
                 "rating": 1,
-                "episode": "6",
-                "description": "\u00bfRobar\u00e1 el Team Rocket la Piedra Lunar? \u00bfHay otros Clefairy acechando, y llev\u00e1ndose Piedras Lunares? \u00bfY, es cierta la leyenda de la Piedra Lunar?",
+                "episode": "11",
+                "description": "El recado del Profesor Oak de entregar la misteriosa GS Ball a un experto en Pok\u00e9 Balls, se ve interrumpido cuando un Quagsire con una inclinaci\u00f3n por los objetos esf\u00e9ricos roba la GS Ball para usarla en un ritual nocturno.",
                 "is_country_whitelist": false,
-                "title": "Clefairy y la Piedra Lunar",
-                "season": "1",
+                "title": "Una vez en luna llena",
+                "season": "3",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep06_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep06_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep06_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep22_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep22_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep22_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/4BD7cJuOT7whrSy44TzUJ0/skim/",
+                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/r9BxkjQYRDklA1VCyYh2r0/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -47,27 +47,27 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rm/J-iHHMnxAwMls4ndoB-H0rdUJYqwDLXc1i-iBpJBM/pok_tv_s0106_2398-master-cas.mp4",
-                "last_modified": 1568664553,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aA/cq4qSmu8Xxiho9VJsQzeDJbNGqA8XsZrlQaX6X5DQ/pok_tv_s0106_2398-master-cas-be5313102a35c568ad1b96d837b5cdd760aba5fd.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8S/-AhDwD_1B1pIq7TFjgB6fk9a6YnI8-Q8ttcFvHsTo/pokemon_season03_ep22_spa.mp4",
+                "last_modified": 1602540592,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/z5/a3-4gD-S4MWU2Ef-pVmrjtTZo75Rhmht5q3wGJluQ/pokemon_season03_ep22_spa-b076c2f598aa0e5853fe48586741f8a6043dce30.m3u8",
                 "captions": "",
-                "id": "e010fb709b8e4fbc86b4b2e384f3509d",
-                "size": 2810175713
+                "id": "afd0719234184439940d550b2621dabd",
+                "size": 2812198278
             },
             {
                 "count": 0,
                 "rating": 1,
-                "episode": "33",
-                "description": "Montado sobre su Lapras por las Islas Naranja, Ash encuentra un misterioso mensaje en una botella, que conduce al grupo a una nueva aventura.",
+                "episode": "27",
+                "description": "Ash entrega la misteriosa GS Ball a un famoso experto Pok\u00e9mon.",
                 "is_country_whitelist": false,
-                "title": "El Onix de cristal",
-                "season": "2",
+                "title": "Cultivando Bonguri",
+                "season": "3",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep33_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep33_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep33_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep38_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep38_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep38_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/RRPl7_mjTokvPc0caE9teQ/skim/",
+                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/0ZQbC3JuSU0kvquFPdbxOE/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -97,27 +97,77 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/48/U1f-TZj5WeqKOM-Z-vK7hwVTHTgCnxIV-J7dRIiJY/pokemon_season02_ep34_spa.mp4",
-                "last_modified": 1458746501,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tV/SyATa9P-q6Wad_VeGGD4Ta7y2tHmtwkoKeZnfeKhI/pokemon_season02_ep34_spa-7939a1e7fcaa1ababe2cdf8c18177a0f96c7d152.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/07/c6uWSQ0wBKP6yEZkttiXN4GjOL-2ajDfn_UhNHYK8/pokemon_season03_ep38_spa.mp4",
+                "last_modified": 1602540592,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ak/gitLvCvsQGEA7h_6GflH1xINnwyqAi5N_1xs04fMk/pokemon_season03_ep38_spa-9232f35034a697d0dfba38148fdea398209e832b.m3u8",
                 "captions": "",
-                "id": "4513e5eff9a34e89bcf73471a13db5e4",
-                "size": 2704575743
+                "id": "d1941b0b726e494d92faae14f75bc4e1",
+                "size": 2770256022
             },
             {
                 "count": 0,
                 "rating": 1,
-                "episode": "10",
-                "description": "Al llegar a un hermoso manantial de aguas termales, Ash, Misty y Brock deciden que ellos y sus Pok\u00e9mon necesitan tomarse un merecido descanso en su viaje.",
+                "episode": "35",
+                "description": "La rivalidad amistosa entre Ash y Misty se pone a prueba cuando ambos intentan capturar a la vez un Totodile.",
                 "is_country_whitelist": false,
-                "title": "Un combate en agua caliente",
+                "title": "Totodile, el bail\u00f3n",
+                "season": "3",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep46_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep46_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep46_360_206.jpg"
+                },
+                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/V2M4fK4fT8EtboCW3PUpu4/skim/",
+                "is_new": false,
+                "country_codes": [
+                    "JP",
+                    "HK",
+                    "VN",
+                    "TH",
+                    "NP",
+                    "BD",
+                    "ID",
+                    "BN",
+                    "KH",
+                    "KP",
+                    "KR",
+                    "WS",
+                    "SG",
+                    "MY",
+                    "IN",
+                    "MN",
+                    "MM",
+                    "MO",
+                    "LA",
+                    "PH",
+                    "PK",
+                    "AF",
+                    "LK",
+                    "PG",
+                    "CN",
+                    "TW"
+                ],
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qs/_yy7iX67kGlWP1r4d9rp5O9ArRzpUvm6AmnwKv53I/pokemon_season03_ep46_spa.mp4",
+                "last_modified": 1646412393,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ns/pDDQRqyfmV4QjgQn_mmKRMiRV6yYdNV0NnQ43vnFQ/pokemon_season03_ep46_spa-31d60816a6e1109314bb78077fc5e0b1642bf554.m3u8",
+                "captions": "",
+                "id": "5763387cae1f4fc1b5ba025b73d4a6ee",
+                "size": 2600430566
+            },
+            {
+                "count": 0,
+                "rating": 1,
+                "episode": "4",
+                "description": "De camino a Ciudad Iris, nuestros h\u00e9roes pasan por un hermoso parque nacional.",
+                "is_country_whitelist": false,
+                "title": "Concurso de Pok\u00e9mon bichos",
                 "season": "4",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep10_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep10_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep10_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep04_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep04_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep04_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/m2fDZCksRSoml79pew16Zk/skim/",
+                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/GGQeH5EgSY4isT-1FVVo4g/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -147,27 +197,27 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/us/jh_FQ0irDnctPCaUyy1B3jRY9D1hNZUsOJ54q3HGY/pokemon_season04_ep10_spa.mp4",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7M/v5hdhf4Q3vD8V_1-MRvSqlWuO1gch6dw2Ur206xhU/pokemon_season04_ep04_spa.mp4",
                 "last_modified": 1458746501,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M8/W6M0un-2qt49MZHBmSdQLA9eQDQevI_T35wvVZEZM/pokemon_season04_ep10_spa-0f6386bc00a06742de7a0c5ffcbd1d25a4886cbf.m3u8",
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RF/VxUsQ560YI3NiVxxoR-PLo7e1r86bc-jPsrvoo-i4/pokemon_season04_ep04_spa-7ffb1259332fcd09eb2fc1bfb0c82db0387bbaa5.m3u8",
                 "captions": "",
-                "id": "9b67c364292c452a9a5efda5ec35e999",
-                "size": 2583665970
+                "id": "18641e1f9120498e8ac4fed45555a388",
+                "size": 2603983151
             },
             {
                 "count": 0,
                 "rating": 1,
-                "episode": "22",
-                "description": "Ash y la pandilla por fin llegan a Cueva Granito. El Team Rocket ya est\u00e1 en la cueva, perfeccionando su siguiente ataque para capturar a Pikachu.",
+                "episode": "11",
+                "description": "Mientras nuestros h\u00e9roes se toman un descanso en un arroyo donde hay sombra, \u00a1el Poliwhirl de Misty es atacado por un Poliwrath!",
                 "is_country_whitelist": false,
-                "title": "Un problema con muchos agujeros",
-                "season": "6",
+                "title": "Anzuelo, sedal y chilito",
+                "season": "4",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep34_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep34_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep34_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep11_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep11_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep11_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/6v5JiPvFQagqJSD0BBrvBM/skim/",
+                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/rIz9rptlTlImxEHE5uNMsI/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -197,27 +247,27 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m6/HjCNeAxg8xUoO2rCbrYakGx8lKh78gknN7NAMWEfs/pokemon_season6_ep34_spa.mp4",
-                "last_modified": 1602887987,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kf/sBI9XEAQhQIo3ehoMp80W1oOtifuUTSFZ7TTnuU-8/pokemon_season6_ep34_spa-eef87673ecb4f938ae6f219f432f692c5ef7df11.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c2/iXSZsxFt87VlkKJnY-9l6RnpGRFmc_cTxTgRO5ikA/pokemon_season04_ep11_spa.mp4",
+                "last_modified": 1458746501,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lN/gQq9WXiysA0F2v-in4fp6ZFQ7WRTagucEGqf8BDjU/pokemon_season04_ep11_spa-1fae7ee71b82d44e78d7f7950b4b967a9978569a.m3u8",
                 "captions": "",
-                "id": "eafe4988fbc541a8a89483d0106bbc13",
-                "size": 2547106538
+                "id": "ac8cfdae9b654e529b1107139b8d32c2",
+                "size": 2459229464
             },
             {
                 "count": 0,
                 "rating": 1,
-                "episode": "26",
-                "description": "Nuestros h\u00e9roes ven a un grupo de Pok\u00e9mon confundidos y se dan cuenta de que algo no va bien, \u00a1sobre todo una vez que aparece una aurora poco corriente en el cielo y sus Pok\u00e9 Balls y Pok\u00e9nav dejan de funcionar!",
+                "episode": "25",
+                "description": "Ash y sus amigos est\u00e1n ahora en una ciudad cercana a Ciudad Petalia, cuando su picnic es engullido por un Gulpin que pasa por ah\u00ed. Luego oyen un anuncio pidiendo a todo el mundo que evac\u00faen la ciudad.",
                 "is_country_whitelist": false,
-                "title": "\u00a1Pok\u00e9mon Ranger! \u00a1El sufrimiento de Deoxys! (1.\u00aa parte)",
-                "season": "9",
+                "title": "\u00a1Gulpin el trag\u00f3n!",
+                "season": "7",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep26_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep26_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep26_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep25_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep25_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep25_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/6v3g_l1ET28mKO787bWWUk/skim/",
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/VzVlJjqmRYIjrKqOLlCwZQ/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -247,27 +297,27 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tX/xoeegbS3d6-6fMkY2sekHCjdBhJyyFRjvUsDr0wRM/pokemon_season09_ep26_spa.mp4",
-                "last_modified": 1460162170,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m4/MaU7u53GJ8VSik4u6vGkI53m8CO1KpQbpAVqCkSME/pokemon_season09_ep26_spa-97ddaece0cd9f6eb083a73b10f414148e43441fe.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lF/AxmGcajOU3htB3DCD348-7lpQv8bN-y52zOD60_HM/pok_tv_s0725_2398-master-cas.mp4",
+                "last_modified": 1619543348,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fI/ST_oa8hsqNNjrP_RY7agQClQsRlx8Myzr5V5rH1qo/pok_tv_s0725_2398-master-cas-d160359106445cdbb1f31cd86223dad115f2bf82.m3u8",
                 "captions": "",
-                "id": "eafde0fe5d444f6f98a3bbf3b6d65949",
-                "size": 2496432498
+                "id": "573565263aa645828eb2aa38b942c194",
+                "size": 2696641846
             },
             {
                 "count": 0,
                 "rating": 1,
-                "episode": "34",
-                "description": "Durante su camino hacia Ciudad May\u00f3lica, el almuerzo de nuestros h\u00e9roes se ve interrumpido por un Roggenrola pele\u00f3n, que los llevar\u00e1 a truncar otro siniestro plan del Team Rocket.",
+                "episode": "35",
+                "description": "Los chicos han parado en un camping a la orilla de un lago de camino a Ciudad Arborada. Ash tropieza y tira su cofre de Medallas al lago, donde se lo come un Whiscash gigante.",
                 "is_country_whitelist": false,
-                "title": "\u00a1Atrapando un Roggenrola!",
-                "season": "14",
+                "title": "Whiscash y Ash",
+                "season": "7",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep34_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep34_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep34_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep35_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep35_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep35_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/jLlMNdNlSJ4rzGBx1ScUAI/skim/",
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/STk8mFYfQUonHUl9_AMRog/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -297,27 +347,27 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uk/OmmQbcBsKFLpxPsGr0leMWIUHKoAs2B3qspk-VxdE/pok_tv_s1437_2997-master-cas--atrapando-un-roggenrola-.mp4",
-                "last_modified": 1603743320,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iD/tJqY88-WJdSqkx3yEP7KZr0o7rUJcIwH1xffCQtJY/pok_tv_s1437_2997-master-cas--atrapando-un-roggenrola--d9e1c54b06b05f82d35961dcbab76e820b9e6c96.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ap/uXpIavnS46n6E84tOPeNnkWiPlaAmDQCcFE471PqY/pok_tv_s0735_2398-master-cas.mp4",
+                "last_modified": 1619625027,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NE/Q4Oqq9Oda4-VMXbNf4PbAitZYOPimAjljQn1p5i3w/pok_tv_s0735_2398-master-cas-fe72b075f810fdb99eb7c3988d7550a658d5d567.m3u8",
                 "captions": "",
-                "id": "8cb94c35d365489eaf3181c7549c5002",
-                "size": 2713588609
+                "id": "49393c98561f414a9c7525f7f00c4688",
+                "size": 2693249136
             },
             {
                 "count": 0,
                 "rating": 1,
-                "episode": "14",
-                "description": "Continuando su viaje hacia Ciudad Loza, nuestros h\u00e9roes se encuentran con la Cueva Electrorroca y un dilema para sus ocupantes.",
+                "episode": "12",
+                "description": "Ash y sus amigos contin\u00faan su viaje a trav\u00e9s de Isla Izabe, donde ven una Pok\u00e9 Ball de piedra gigante en un acantilado. Conocen a un sabio llamado Sigourney, que les cuenta la historia de la bola gigante.",
                 "is_country_whitelist": false,
-                "title": "\u00a1Problemas en la Cueva Electrorroca!",
-                "season": "15",
+                "title": "El Claydol gigante",
+                "season": "8",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep14_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep14_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep14_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep12_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep12_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep12_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/l5EWdk3QRsMkLFAI4G1Rm0/skim/",
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fLqhfiAfSTAjPktuVGuNP8/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -347,27 +397,27 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pB/GCHI96PKyPxcCKTwh5Eqa_cSnTvbdM8XJ5tAqGoWg/pok_tv_s1514_2997-master-cas.mp4",
-                "last_modified": 1604363921,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JZ/_q8ETYIfljnHfPEmk9Xu80Xu6KYpdF7xf1z00npmI/pok_tv_s1514_2997-master-cas-ef4c400e6f6a5a9e518b546caafa43fbee828860.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zm/MGPjDqaBAVHQT9sSCfDtTA9gHMvZgn2oSTPGATnjI/pok_tv_s0812_2398-master-cas.mp4",
+                "last_modified": 1653023855,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-u/A0G52Dkd4ZbE61z5lTf5Df0gKIOaTMPpMOVmWWRVc/pok_tv_s0812_2398-master-cas-1f72d1b2f42065431699db5c6dea1ac268549970.m3u8",
                 "captions": "",
-                "id": "979116764dd046c390b1402381b5466d",
-                "size": 2726557915
+                "id": "7cbaa17e201f49308cf92db951ae34ff",
+                "size": 2731516866
             },
             {
                 "count": 0,
                 "rating": 1,
                 "episode": "30",
-                "description": "La b\u00fasqueda de la Lucarita est\u00e1 en marcha, y Corelia se enfrenta a desaf\u00edos que jam\u00e1s habr\u00eda imaginado.",
+                "description": "Una visita a la F\u00e1brica de Pok\u00e9 Balls les proporciona a nuestros h\u00e9roes muchas m\u00e1s cosas que una simple Pok\u00e9 Ball.",
                 "is_country_whitelist": false,
-                "title": "\u00a1La cueva de las pruebas!",
-                "season": "17",
+                "title": "\u00a1Un Fiasco fren\u00e9tico en la f\u00e1brica!",
+                "season": "18",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep30_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep30_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep30_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep30_ss01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep30_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep30_ss01_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/auLnRm3HSaYpRMThP4xRGc/skim/",
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TdgvInqZSvotq2Rkv3g4vg/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -397,27 +447,27 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SJ/QeiCbQ8f7yRnaUiVxVV8dES2aWU_7AFXiNIpTAVMk/pok_tv_s1730_2997-master-cas-sdt-h264.mp4",
-                "last_modified": 1603743320,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sr/Pw2yNkV4vh9n9ZF-ore6z8Nyp3kxSn-FHnBOjCHWM/pok_tv_s1730_2997-master-cas-sdt-h264-a57e3b1bdb50d8fedb2318fb07b646fd395cad93.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qx/t6pqck2U5G5NCd7g8wX74PWTT0LDbmp9w380oEm18/pok_tv_s1830_2997-master-cas-sdt-v2-h264.mp4",
+                "last_modified": 1597255752,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tC/vAftnFmdS2obusQI8gLvE2OMwfVY8KUcOOUYsWIp8/pok_tv_s1830_2997-master-cas-sdt-v2-h264-be95f2eae4ee49ea6cff3ef30b9b9af661c7099b.m3u8",
                 "captions": "",
-                "id": "6ae2e7466dc749a6a5131384fe314467",
-                "size": 3308527934
+                "id": "4dd82f227a994afab6ad9192fde0e2f8",
+                "size": 3307913287
             },
             {
                 "count": 0,
                 "rating": 1,
-                "episode": "36",
-                "description": "Un sorprendente espect\u00e1culo de voluntad lleva a un resultado feliz para muchos... de muchas maneras diferentes.",
+                "episode": "18",
+                "description": "La aparici\u00f3n de otro Ultraente obliga a nuestros h\u00e9roes a asumir nuevas funciones... y a llevar a cabo una misi\u00f3n.",
                 "is_country_whitelist": false,
-                "title": "\u00a1Protegiendo la cueva!",
+                "title": "\u00a1Una misi\u00f3n ultraurgente!",
                 "season": "21",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep36_ss01_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep36_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep36_ss01_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep18_ss01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep18_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep18_ss01_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Hqbr9ICSSnYqE69j8xJZeM/skim/",
+                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/8UQpFRE2S2sr0RsTTwGeBQ/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -447,28 +497,28 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I4/KxMU8lxZ7IrPQ09aF7bmlLb-G64vknexxWEIYuBLM/pokemon_season21_ep36_spa.mp4",
-                "last_modified": 1545408814,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GM/_jjYglBPgOWYRbNoHNZjSaIGrehN1rhPZRLlb7Ii0/pokemon_season21_ep36_spa-21fc70cf82610788dde08420249c466af9b87dc1.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xw/qfHxn6fx4PNvexnSoc5f2I209ua8Mf3pHxEQsXmoY/pokemon_season21_ep18_spa.mp4",
+                "last_modified": 1539356838,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m2/He_693i6F0rvC2_fljb-RaobTpmGf6bqsNNRIS8dE/pokemon_season21_ep18_spa-b37304436b95fa1fcf9242d8093919bcce91aa84.m3u8",
                 "captions": "",
-                "id": "1ea6ebf480924a76a84ebd8fcc4965e3",
-                "size": 2884897119
+                "id": "f144291511364b6baf446c4d3c067814",
+                "size": 2882867724
             }
         ],
-        "channel_creation_date": 1683906564,
+        "channel_creation_date": 1685060138,
         "whats_new_order": null,
-        "watch_now_order": 3,
-        "channel_id": "aventuras-cavernosas",
+        "watch_now_order": 2,
+        "channel_id": "poke-balls-a-diestro-y-siniestro",
         "channel_images": {
-            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/cave-escapades/cave-escapades-1125x1500-es.png",
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/poke-ball/poke-ball-1125x1500-es.png",
             "spotlight_image_960_1277": "",
             "spotlight_image_2048_1152": "",
-            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/cave-escapades/cave-escapades-1660x940.png",
-            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/cave-escapades/cave-escapades-1660x940.png"
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/poke-ball/poke-ball-1660x940.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/poke-ball/poke-ball-1660x940.png"
         },
-        "channel_update_date": 1684515185,
+        "channel_update_date": 1685060930,
         "media_type": "episode",
-        "channel_status": "DISPONIBLE HASTA EL 26 DE MAYO"
+        "channel_status": "DISPONIBLES HASTA EL 9 DE JUNIO"
     },
     {
         "channel_description": "En los cortos de animaci\u00f3n de POK\u00c9TOON, podr\u00e1s encontrar aventuras Pok\u00e9mon de lo m\u00e1s divertidas, conmovedoras y mucho m\u00e1s.",

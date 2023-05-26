@@ -1,23 +1,23 @@
 [
     {
-        "channel_description": "Plongez dans l\u2019obscurit\u00e9 des cavernes tandis que Sacha et ses amis jouent les sp\u00e9l\u00e9ologues dans cette collection d\u2019\u00e9pisodes.",
+        "channel_description": "Les Dresseurs et Dresseuses s\u2019\u00e9clatent en d\u00e9couvrant les Pok\u00e9 Balls sur TV Pok\u00e9mon.",
         "stunt_channel": true,
-        "channel_name": "Aventures sp\u00e9l\u00e9os",
+        "channel_name": "C\u2019est de la Pok\u00e9 Ball !",
         "media": [
             {
                 "count": 0,
                 "rating": 1,
-                "episode": "6",
-                "description": "La Team Rocket parviendra-t-elle \u00e0 voler la Pierre Lune\u00a0? D'autres M\u00e9lof\u00e9e sont-ils tapis dans les environs et portent-ils eux aussi des Pierres Lune\u00a0? Et surtout, la l\u00e9gende de la Pierre Lune est-elle r\u00e9elle\u00a0?",
+                "episode": "11",
+                "description": "La mission du Professeur Chen, qui consistait \u00e0 remettre la myst\u00e9rieuse GS Ball \u00e0 un expert en Pok\u00e9 Balls, est compromise lorsqu'un Maraistre ayant un penchant pour les objets sph\u00e9riques vole la GS Ball pour l'utiliser pendant un rituel nocturne.",
                 "is_country_whitelist": false,
-                "title": "La Pierre Lune",
-                "season": "1",
+                "title": "Rituel annuel",
+                "season": "3",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep06_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep06_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep06_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep22_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep22_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep22_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fu_JREtMQZAhJ-7sHrsNI4/skim/",
+                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/19SNpLyTS6Mt77nGwchLqU/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -47,27 +47,27 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rU/ZmwUxim3sgB9VzlmVVLSjiJHwUDWXt_jWzPQmtojo/pok_tv_s0106_2398-master-fr.mp4",
-                "last_modified": 1568225854,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OJ/5QMqC7tvqoQjRXww0aoUB-7ptYLug-63k39-tCBYc/pok_tv_s0106_2398-master-fr-c9d9f3aa53875ad3ee38ddd4b218797c11eba88a.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GQ/sD7ckHDoM3sm-k2k6sNwAkfBsdNHfwh56vrfmJE2U/pokemon_season03_ep22_fre.mp4",
+                "last_modified": 1602536040,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-J/DcCpAstMmnTmEYR2PUdDqEhzjd9aeD8aFepWBB7qM/pokemon_season03_ep22_fre-c73465840421da137cc595ba21526a99776933a6.m3u8",
                 "captions": "",
-                "id": "7eefc9444b4c4190849fbbb07aec348e",
-                "size": 2804605531
+                "id": "d7d48da4bc934ba3b7bee71b07212ea5",
+                "size": 2798503053
             },
             {
                 "count": 0,
                 "rating": 1,
-                "episode": "33",
-                "description": "Alors qu'il chevauche son Lokhlass en direction des \u00celes Orange, Sacha d\u00e9couvre un myst\u00e9rieux message dans une bouteille. Une nouvelle aventure commence alors pour le groupe.",
+                "episode": "27",
+                "description": "Sacha remet la myst\u00e9rieuse GS Ball \u00e0 un c\u00e9l\u00e8bre expert Pok\u00e9mon.",
                 "is_country_whitelist": false,
-                "title": "L'Onix de cristal",
-                "season": "2",
+                "title": "Suspense en suspens",
+                "season": "3",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep33_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep33_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep33_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep38_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep38_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep38_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/1vpKis4VRVUrRFbNP40G4c/skim/",
+                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/jVWl77f0QFUimbccs4DzoI/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -97,27 +97,77 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5y/yySEmPQhxPouZZpnmPgRujLtcPok8Zyo7fz7ZKLd4/pokemon_season02_ep34_fre.mp4",
-                "last_modified": 1458662414,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/25/A0wkiTF_x4Z2JM_7U4bXabctIRM1pWkgNcfhTmHUU/pokemon_season02_ep34_fre-0a28b95d17966b318599049a3c74c29f48f6a0b8.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VH/SKBFHq1rQCnDRNxOIjNH_1XkyfVbyaVs8T3Y2E3l8/pokemon_season03_ep38_fre.mp4",
+                "last_modified": 1602536040,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t2/uDNQEVHztaZcgyxIBzVgOCGp-Lw8PpXGwm1RX9az4/pokemon_season03_ep38_fre-6b905b140d2947920edbbcf1bb17a5e4e931ee8c.m3u8",
                 "captions": "",
-                "id": "d6fa4a8ace154555ad115b34fe341b87",
-                "size": 2707390385
+                "id": "8d55a5efb7f440558a66dc72ce03ce82",
+                "size": 2762102235
             },
             {
                 "count": 0,
                 "rating": 1,
-                "episode": "10",
-                "description": "Sacha, Ondine et Pierre d\u00e9couvrent de magnifiques sources d'eau chaude et d\u00e9cident de faire une pause bien m\u00e9rit\u00e9e avec leurs Pok\u00e9mon avant de poursuivre leur p\u00e9riple.",
+                "episode": "35",
+                "description": "La rivalit\u00e9 amicale entre Sacha et Ondine est mise \u00e0 l'\u00e9preuve lorsqu'ils essayent de capturer tous les deux le m\u00eame Kaiminus.",
                 "is_country_whitelist": false,
-                "title": "La r\u00e9conciliation",
+                "title": "Duel pour un Pok\u00e9mon",
+                "season": "3",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep46_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep46_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep46_360_206.jpg"
+                },
+                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/GxZAckFMTsEm_EGur7HFNI/skim/",
+                "is_new": false,
+                "country_codes": [
+                    "JP",
+                    "HK",
+                    "VN",
+                    "TH",
+                    "NP",
+                    "BD",
+                    "ID",
+                    "BN",
+                    "KH",
+                    "KP",
+                    "KR",
+                    "WS",
+                    "SG",
+                    "MY",
+                    "IN",
+                    "MN",
+                    "MM",
+                    "MO",
+                    "LA",
+                    "PH",
+                    "PK",
+                    "AF",
+                    "LK",
+                    "PG",
+                    "CN",
+                    "TW"
+                ],
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zj/-TUcsK8nfURalvd_pnPhvMKYqxQFPxEK0q09uphMI/pokemon_season03_ep46_fre.mp4",
+                "last_modified": 1602536040,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ac/mhNpT6JhXGK0RdFqFyZ9QBan4B0KBLN5WRVfZVYGc/pokemon_season03_ep46_fre-3cd13731ebc243d0c9f35db55bedaff09da75791.m3u8",
+                "captions": "",
+                "id": "1b164072414c4ec19bf106babec714d2",
+                "size": 2809297217
+            },
+            {
+                "count": 0,
+                "rating": 1,
+                "episode": "4",
+                "description": "Alors qu'ils se dirigent vers Rosalia, nos h\u00e9ros traversent un magnifique parc national.",
+                "is_country_whitelist": false,
+                "title": "Le concours",
                 "season": "4",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep10_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep10_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep10_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep04_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep04_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep04_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/KtcGQnLHQ2ErQO54GG07bY/skim/",
+                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Db9pBrK5R5op11cajdQheQ/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -147,27 +197,27 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BJ/T1y-WOAiIIDh8BHxQKkSGAl4gwoLzX9J_KjHmCJ9s/pokemon_season04_ep10_fre.mp4",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yL/6VWoDeco54-neVc-9tY31jmq_MnUvxxrJy6Fnqr3I/pokemon_season04_ep04_fre.mp4",
                 "last_modified": 1458831780,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bI/Pfuhl4I_PgZzMrkayt-o3hUHOy5SM-Ubanyl0WPQY/pokemon_season04_ep10_fre-2dbc1fc4ebc22d3daff84f7b155ce07cc66132e2.m3u8",
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F8/4Ili780hSlANGxTzdzMFAaxCJx4RtHGDPBd8VVias/pokemon_season04_ep04_fre-fd150b3c8920e2c56495dc1ecce1d839cfa201d6.m3u8",
                 "captions": "",
-                "id": "2ad7064272c74361ad03b9e061b4edb6",
-                "size": 2580675333
+                "id": "0dbf6906b2b9479aa75d5c6a375085e4",
+                "size": 2600688889
             },
             {
                 "count": 0,
                 "rating": 1,
-                "episode": "22",
-                "description": "Sacha et ses compagnons arrivent \u00e0 la Grotte Granite. La Team Rocket se trouve d\u00e9j\u00e0 sur place et peaufine son nouveau plan pour essayer de capturer Pikachu.",
+                "episode": "11",
+                "description": "Tandis que nos h\u00e9ros font une pause au bord d'un cours d'eau ombrag\u00e9, le T\u00eatarte d'Ondine est attaqu\u00e9 par un Tartard\u00a0!",
                 "is_country_whitelist": false,
-                "title": "Un trou peut en cacher un autre",
-                "season": "6",
+                "title": "App\u00e2ts et hame\u00e7ons",
+                "season": "4",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep34_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep34_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep34_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep11_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep11_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep11_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/3YnGFYgYSu8pH_WXpafbhc/skim/",
+                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/uG8haYXLRiIhNtNwAffaug/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -197,27 +247,27 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3v/JHtn0ebZRyYkxdKfpvMUJUOK7aZYtET2MzLY0HHPM/pokemon_season06_ep34_fre.mp4",
-                "last_modified": 1602882042,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tJ/Q-GgOLTcL5nX1HtT0WuaRt6HcY3GBFEUHWluIC_EQ/pokemon_season06_ep34_fre-3e27966e3c90dace1590f71e2959fc55de9e8162.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tI/jsCxel3kqrVRwSAwLKgSo0V9mWL5hj71jdedOQlMI/pokemon_season04_ep11_fre.mp4",
+                "last_modified": 1458831780,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cg/RcYUB4PHySI_7gYiG2Ejy5V7ItKMgF7D4iebJgAQ4/pokemon_season04_ep11_fre-624b37a83864050bfdac48b33047652257a69d54.m3u8",
                 "captions": "",
-                "id": "dd89c61588184aefa47fd65e969f6e17",
-                "size": 2545123462
+                "id": "b86f216985cb462284db4dc007df6ae8",
+                "size": 2455204449
             },
             {
                 "count": 0,
                 "rating": 1,
-                "episode": "26",
-                "description": "Nos h\u00e9ros aper\u00e7oivent une vol\u00e9e de Pok\u00e9mon qui semblent perturb\u00e9s et se rendent compte qu'il y a un probl\u00e8me. Leurs doutes se confirment lorsqu'une aurore bor\u00e9ale inhabituelle appara\u00eet dans le ciel et emp\u00eache leurs Pok\u00e9 Balls et leur Pok\u00e9Nav de fonctionner\u00a0!",
+                "episode": "25",
+                "description": "Sacha et ses amis se trouvent dans une ville proche de Cl\u00e9menti-Ville, lorsque leur pique-nique est englouti par un Gloupti qui passe dans les parages. Ils entendent alors un message d'alerte qui demande \u00e0 tout le monde d'\u00e9vacuer la cit\u00e9.",
                 "is_country_whitelist": false,
-                "title": "Le visiteur de l'espace (1\u00e8re partie)",
-                "season": "9",
+                "title": "L'invasion des Gloupti",
+                "season": "7",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep26_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep26_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep26_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep25_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep25_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep25_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/xdMSmYgDQmsoomPTqwswnc/skim/",
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/X-Td4vUCRSIovWI81qqg7Q/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -247,27 +297,27 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZQ/W9rVJ-kW5y9YWOZ_I_JwPLOUzms1EYhClZ-L16XUk/pokemon_season09_ep26_fre.mp4",
-                "last_modified": 1460159967,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LP/v0MZDLEnf-79nTk4wQ52WctuulW9CbhW-qKsX_3l8/pokemon_season09_ep26_fre-057718f0df6e18fd789e60cdc2c80bc5e933cf24.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5_/rPuy0UO2LbQL3zozmwFCuj9scog_lFpN_xAqmt4t8/pok_tv_s0725_2398-master-fr.mp4",
+                "last_modified": 1617196145,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fq/pfC8J3mYLzQh_seo7rLfYCaD_Cjb_bCgg7MbujsUs/pok_tv_s0725_2398-master-fr-ace874b347e7da9dbc549ced3b523ecee562d71e.m3u8",
                 "captions": "",
-                "id": "c5d312998803426ba2898f4eac2cc277",
-                "size": 2511679403
+                "id": "5fe4dde2f5024522a2f588f35aaa83b4",
+                "size": 2693601401
             },
             {
                 "count": 0,
                 "rating": 1,
-                "episode": "34",
-                "description": "En chemin vers M\u00e9anville, le d\u00e9jeuner de nos h\u00e9ros est interrompu par un Nodulithe tr\u00e8s \u00e9nerv\u00e9, qui va leur permettre de d\u00e9jouerle nouveau plan diabolique de la Team Rocket !",
+                "episode": "35",
+                "description": "Sur la route de Cimetronelle, nos h\u00e9ros se sont arr\u00eat\u00e9s pour camper au bord d'un lac. Sacha tr\u00e9buche et fait tomber son \u00e9tui \u00e0 Badges dans le lac, o\u00f9 il est aval\u00e9 par un Barbicha g\u00e9ant.",
                 "is_country_whitelist": false,
-                "title": "Il faut attraper un Nodulithe !",
-                "season": "14",
+                "title": "Comme un Barbicha dans l'eau",
+                "season": "7",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep34_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep34_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep34_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep35_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep35_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep35_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/S8_UCkRiTqwrRMKoaoIB5o/skim/",
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TvDfNFD7ScMnVRZzyJC5mc/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -297,27 +347,27 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-V/I0YvlyVTpfZKCq_u9KepBMKCk6B9q8HR5BE-he92c/pok_tv_s1437_2997-master-fr-il-faut-attraper-un-nodulithe---.mp4",
-                "last_modified": 1589232525,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DA/4ufx2Ue83mKuqMlV9TYO9T-M7-L35RXZ_byMAFfLQ/pok_tv_s1437_2997-master-fr-il-faut-attraper-un-nodulithe----6a848b191f38b53bd7b957fd1d554d05cb51e501.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cO/dfx5I33F3-w1Qhdb2WGSgOtO6J2xLa6J7mxxJtXkE/pok_tv_s0735_2398-master-fr.mp4",
+                "last_modified": 1617196145,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/24/Zeqh8kNpghEKs6KMPwKvqoL4XVL2W_K_Of8bqjU40/pok_tv_s0735_2398-master-fr-81a4c700ebf0182164d2993d5dd9ba700d6aba0b.m3u8",
                 "captions": "",
-                "id": "4bcfd40a44624eacad130aa1aa08079a",
-                "size": 2713470752
+                "id": "4ef0df3450fb49c39d5459cf2242e667",
+                "size": 2689248150
             },
             {
                 "count": 0,
                 "rating": 1,
-                "episode": "14",
-                "description": "En chemin vers Parsemille, nos h\u00e9ros devinent que les habitants de la Grotte \u00c9lectrolithe font face \u00e0 un grave probl\u00e8me!",
+                "episode": "12",
+                "description": "Sacha et ses amis poursuivent leur p\u00e9riple \u00e0 travers l'\u00cele d'Izabe, o\u00f9 ils remarquent une \u00e9norme Pok\u00e9 Ball de pierre en haut d'une falaise. Ils rencontrent un vieux sage nomm\u00e9 Sigourney, qui leur raconte l'histoire de la boule g\u00e9ante.",
                 "is_country_whitelist": false,
-                "title": "Les intrus de la Grotte \u00c9lectrolithe !",
-                "season": "15",
+                "title": "Un Pok\u00e9mon de taille",
+                "season": "8",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep14_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep14_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep14_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep12_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep12_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep12_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5_GujZzQTuggaoqywWKGro/skim/",
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/2zoOkkrGRcIhecHJq4u6oQ/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -347,27 +397,27 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tp/zHAXCs0kGvVRttGvo7VgjtEFZH7tzOCQktgI4Vx3g/pok_tv_s1514_2997-master-fr.mp4",
-                "last_modified": 1602880057,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zt/2K155cWCTcxC8ryxpBzBwnHK_WIN9BBvNXN54Jo_Q/pok_tv_s1514_2997-master-fr-2f14c831ed01eb29596dcf57b472a7fae18d9902.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yb/M0jWn2-hvOfAmpUbpejCPsQdmUqJjrH7fY1-3D8G4/pok_tv_s0812_2398-master-fr.mp4",
+                "last_modified": 1653024009,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lp/lPRGG08_xbel_3r-qo8Giq3unwUO3eIu6FlJqHHvA/pok_tv_s0812_2398-master-fr-258074e640849104332b636e6d86605f67f5df06.m3u8",
                 "captions": "",
-                "id": "e7f1ae8d9cd04ee881aa2acb058a1aba",
-                "size": 3310051112
+                "id": "db3a0e924ac645c285e70726ae2eea84",
+                "size": 2727429117
             },
             {
                 "count": 0,
                 "rating": 1,
                 "episode": "30",
-                "description": "La qu\u00eate de la Lucarite est lanc\u00e9e, et Corn\u00e9lia doit faire face \u00e0 des d\u00e9fis qu\u2019elle n\u2019aurait jamais pu imaginer !",
+                "description": "En visitant l'usine de Pok\u00e9 Balls, nos h\u00e9ros rencontrent tout autre chose que de simples Pok\u00e9 Balls !",
                 "is_country_whitelist": false,
-                "title": "La grotte des \u00e9preuves !",
-                "season": "17",
+                "title": "Du rififi \u00e0 l'usine de Pok\u00e9ball !",
+                "season": "18",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep30_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep30_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep30_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep30_ss01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep30_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep30_ss01_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pYcwDOAxR14raj-q7XRMTU/skim/",
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/IGT25k8lR5UgLN5Fa4xuF8/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -397,27 +447,27 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yb/pFPZpzqedJOTrhkhxUHDib4kw4qWnItf5byXRAjak/pok_tv_s1730_2997-master-fr-sdt-h264.mp4",
-                "last_modified": 1593753380,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M1/JdsAYV4_lReF6BBav4kH1S_6HFyIgxaneRXGgfwSc/pok_tv_s1730_2997-master-fr-sdt-h264-7faacc336a76fb95d29fe5c1aeb2e2e73ba56060.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sk/n-qTKwPUe6Vfw7oFkuJxWy-l71XASFls6cDqcVbdc/pok_tv_s1830_2997-master-fr.mp4",
+                "last_modified": 1597254908,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cr/c8KLWqQ7faJDShXpxFIG-dW7QISe13FaDEb49jVDg/pok_tv_s1830_2997-master-fr-378042789aca2d5e27b450176abd6f6502978980.m3u8",
                 "captions": "",
-                "id": "a587300ce031475eada8feabb5d13135",
-                "size": 3309704334
+                "id": "2064f6e64f25479580b37915ae31b85f",
+                "size": 2689078217
             },
             {
                 "count": 0,
                 "rating": 1,
-                "episode": "36",
-                "description": "Une d\u00e9termination surprenante a des cons\u00e9quences multiples et particuli\u00e8rement heureuses !",
+                "episode": "18",
+                "description": "L'arriv\u00e9e d'une nouvelle Ultra-Chim\u00e8re donne l'occasion \u00e0 nos h\u00e9ros d'endosser leurs nouveaux r\u00f4les !",
                 "is_country_whitelist": false,
-                "title": "Un d\u00e9fi en sous-sol!",
+                "title": "Une mission ultra-urgente !",
                 "season": "21",
                 "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep36_ss01_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep36_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep36_ss01_360_206.jpg"
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep18_ss01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep18_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep18_ss01_360_206.jpg"
                 },
-                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/yw8prOg6R6MnQ6rhpots3Y/skim/",
+                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/RVSyIxObSJchQdKbE5aUGU/skim/",
                 "is_new": false,
                 "country_codes": [
                     "JP",
@@ -447,28 +497,28 @@
                     "CN",
                     "TW"
                 ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wH/UjK7u-GkqxDU8vY787m61yWhRvW7AIf1br-chmh4Y/pokemon_season21_ep36_fre.mp4",
-                "last_modified": 1558124929,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XH/QbkTXnHy1ftrK3O3mrzwErY7vjp17ceRcVK0tvixw/pokemon_season21_ep36_fre-14f4820a5196dbc723c200e1a09f91fe7c2f9e7e.m3u8",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IJ/qw8pTNSz_L3ukA-4nrGKAyFTrx1r1nCsaJiDL-p-0/pokemon_season21_ep18_fre.mp4",
+                "last_modified": 1547230032,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D1/KGfbBEsdoTHg5CMs80RZMxDwP5HdfR8Iz2bncMJdE/pokemon_season21_ep18_fre-a68989b1a10dc52798744d67a12043fc042394c9.m3u8",
                 "captions": "",
-                "id": "cb0f29ace83a47a39d0eab869a2db376",
-                "size": 2874952340
+                "id": "4554b223139b489785074a6c4e5a5065",
+                "size": 2885648646
             }
         ],
-        "channel_creation_date": 1683907061,
+        "channel_creation_date": 1685059867,
         "whats_new_order": null,
-        "watch_now_order": 3,
-        "channel_id": "aventures-speleos",
+        "watch_now_order": 2,
+        "channel_id": "cest-de-la-poke-ball",
         "channel_images": {
-            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/cave-escapades/cave-escapades-1125x1500-fr.png",
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/poke-ball/poke-ball-1125x1500-fr.png",
             "spotlight_image_960_1277": "",
             "spotlight_image_2048_1152": "",
-            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/cave-escapades/cave-escapades-1660x940.png",
-            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/cave-escapades/cave-escapades-1660x940.png"
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/poke-ball/poke-ball-1660x940.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/poke-ball/poke-ball-1660x940.png"
         },
-        "channel_update_date": 1684514819,
+        "channel_update_date": 1685059866,
         "media_type": "episode",
-        "channel_status": "DISPONIBLE JUSQU\u2019AU 26 MAI"
+        "channel_status": "DISPONIBLES JUSQU\u2019AU 9 JUIN"
     },
     {
         "channel_description": "Entre moments de tendresse et instants cocasses, les courts-m\u00e9trages POK\u00c9TOON ne manqueront pas de vous divertir en compagnie des Pok\u00e9mon !",
