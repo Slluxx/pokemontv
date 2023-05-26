@@ -851,8 +851,8 @@
                 "size": 2881771154
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "4",
                 "description": "En route to Ecruteak City, our heroes make their way through a beautiful national park.",
                 "is_country_whitelist": false,
@@ -901,8 +901,8 @@
                 "size": 2662065883
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "11",
                 "description": "As our heroes take a break at a shady stream, Misty's Poliwhirl is attacked by a Poliwrath!",
                 "is_country_whitelist": false,
@@ -6345,8 +6345,8 @@
                 "size": 3522267758
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "48",
                 "description": "Although the Alola Pok\u00e9mon League is over, a new type of excitement is just beginning!",
                 "is_country_whitelist": false,
