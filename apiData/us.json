@@ -901,8 +901,8 @@
                 "size": 2662065883
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "11",
                 "description": "As our heroes take a break at a shady stream, Misty's Poliwhirl is attacked by a Poliwrath!",
                 "is_country_whitelist": false,
@@ -951,8 +951,8 @@
                 "size": 2674464817
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "25",
                 "description": "Ash and friends are in a town close to Petalburg City, when their picnic is gobbled up by a passing Gulpin. They overhear an emergency announcement instructing everyone to evacuate.",
                 "is_country_whitelist": false,
@@ -6345,8 +6345,8 @@
                 "size": 3522267758
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "48",
                 "description": "Although the Alola Pok\u00e9mon League is over, a new type of excitement is just beginning!",
                 "is_country_whitelist": false,
