@@ -55,8 +55,8 @@
                 "size": 2798503053
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "27",
                 "description": "Sacha remet la myst\u00e9rieuse GS Ball \u00e0 un c\u00e9l\u00e8bre expert Pok\u00e9mon.",
                 "is_country_whitelist": false,
@@ -305,8 +305,8 @@
                 "size": 2693601401
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "35",
                 "description": "Sur la route de Cimetronelle, nos h\u00e9ros se sont arr\u00eat\u00e9s pour camper au bord d'un lac. Sacha tr\u00e9buche et fait tomber son \u00e9tui \u00e0 Badges dans le lac, o\u00f9 il est aval\u00e9 par un Barbicha g\u00e9ant.",
                 "is_country_whitelist": false,
