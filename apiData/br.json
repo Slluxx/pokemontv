@@ -8752,8 +8752,8 @@
                 "size": 2684875733
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "8",
                 "description": "Ap\u00f3s verem um Tosador Pok\u00e9mon superstar em seu guia tur\u00edstico, nossos her\u00f3is ficam admirados ao encontrar ele e sua assistente em pessoa!",
                 "is_country_whitelist": false,
@@ -9002,8 +9002,8 @@
                 "size": 2613872950
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "13",
                 "description": "O que come\u00e7a como um desafio de batalha t\u00edpico entre dois Treinadores no meio da floresta leva a uma experi\u00eancia que muda a vida de um jovem menino!",
                 "is_country_whitelist": false,
@@ -9252,7 +9252,7 @@
                 "size": 2730430147
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 5,
                 "episode": "18",
                 "description": "Chegando na Cidade de Camphrier, nossos her\u00f3is se encontram em um dilema de propor\u00e7\u00f5es \u00e9picas!",
@@ -9752,8 +9752,8 @@
                 "size": 2604016641
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "28",
                 "description": "Um caso de identidade trocada \u00e9 parte de um plano sinistro para pegar o Pikachu de uma vez por todas!",
                 "is_country_whitelist": false,
@@ -9952,8 +9952,8 @@
                 "size": 2550439251
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "32",
                 "description": "A caminho do Monte Pomace, Korrina, Lucario e nossos her\u00f3is testemunham o pr\u00f3ximo passo na saga da Mega Evolu\u00e7\u00e3o!",
                 "is_country_whitelist": false,
@@ -10003,7 +10003,7 @@
             },
             {
                 "count": 0,
-                "rating": 5,
+                "rating": 1,
                 "episode": "33",
                 "description": "Korrina e Lucario est\u00e3o no Monte Pomace com nossos her\u00f3is, onde eles aprendem mais sobre a Mega Evolu\u00e7\u00e3o de uma forma muito inesperada!",
                 "is_country_whitelist": false,
