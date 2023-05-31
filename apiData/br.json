@@ -10152,8 +10152,8 @@
                 "size": 2649615396
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "36",
                 "description": "Enquanto exploravam uma conhecida caverna a caminho da Cidade de Shalour, nossos her\u00f3is se enxergam de maneiras surpreendentemente diferentes!",
                 "is_country_whitelist": false,
@@ -10402,8 +10402,8 @@
                 "size": 2648612069
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "41",
                 "description": "\u00c9 o \u00faltimo dia da Col\u00f4nia de F\u00e9rias Pok\u00e9mon do Professor Sic\u00f4moro e a entrada para o Hall da Fama est\u00e1 logo adiante para a equipe vencedora!",
                 "is_country_whitelist": false,
