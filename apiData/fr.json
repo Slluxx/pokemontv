@@ -10494,8 +10494,8 @@
                 "size": 2716907702
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "25",
                 "description": "Nos h\u00e9ros sont arriv\u00e9s \u00e0 Romant-sous-Bois, o\u00f9 la Championne d'Ar\u00e8ne leur r\u00e9serve tout un d\u00e9fil\u00e9 de surprises !",
                 "is_country_whitelist": false,
@@ -10594,8 +10594,8 @@
                 "size": 2711813683
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "27",
                 "description": "Apr\u00e8s le rude combat de Sacha contre Val\u00e9riane \u00e0 l'Ar\u00e8ne de Romant-sous-bois, le jeune Liam se pose beaucoup de questions !",
                 "is_country_whitelist": false,
@@ -10844,7 +10844,7 @@
                 "size": 2714543575
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 5,
                 "episode": "32",
                 "description": "Une visite dans un h\u00f4tel tr\u00e8s particulier va permettre \u00e0 nos h\u00e9ros de r\u00e9parer une injustice qui a eu lieu dans le pass\u00e9.",
