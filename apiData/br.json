@@ -8402,8 +8402,8 @@
         "channel_name": "Pok\u00e9mon, a s\u00e9rie: XY \u2014 Desafio em Kalos",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Depois de uma briga entre amigos, um encontro ao acaso d\u00e1 a nossos her\u00f3is a chance de presenciar um trabalho em equipe inesperado!",
                 "is_country_whitelist": false,
@@ -8452,8 +8452,8 @@
                 "size": 2728760416
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Ap\u00f3s Ash cometer um engano, seu Hawlucha se encontra na apresenta\u00e7\u00e3o de sua vida!",
                 "is_country_whitelist": false,
