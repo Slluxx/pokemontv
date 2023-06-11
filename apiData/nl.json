@@ -5,7 +5,7 @@
         "channel_name": "POK\u00c9TOON",
         "media": [
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "Wanneer hij op zoek is naar smakelijke Pok\u00e9 Beans, stuit Scraggy op een bijzondere Pok\u00e9mon: Mimikyu! Mimikyu wil graag vrienden worden, maar het enige wat Scraggy wil zijn lekkere hapjes. Kijk hoe ze achter elkaar aan zitten en ontdek hoe hun vriendschap vorm krijgt.",
@@ -5568,8 +5568,8 @@
         "channel_name": "Pok\u00e9mon de Serie: Zon & Maan",
         "media": [
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Wat begint als een vakantie voor onze held op Melemele Island in de Alola regio, verandert in de belofte dat er vele spannende avonturen gaan komen!",
                 "is_country_whitelist": false,
@@ -5618,7 +5618,7 @@
                 "size": 2710456772
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "2",
                 "description": "Ash en Pikachu wennen aan het leven in de Alola regio en dat staat op het punt om hen een krachtige duw in een nieuwe richting te geven!",

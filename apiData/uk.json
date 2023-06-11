@@ -155,8 +155,8 @@
                 "size": 2874914683
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "50",
                 "description": "Our heroes are in Saffron City for May's first Pok\u00e9mon Contest in the Kanto region\u2014and her shady rival Harley is competing, too!",
                 "is_country_whitelist": false,
@@ -205,8 +205,8 @@
                 "size": 2718844451
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "8",
                 "description": "There's a new Gym in Sinnoh, and Team Rocket is in charge!",
                 "is_country_whitelist": false,
@@ -255,8 +255,8 @@
                 "size": 2647658340
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "21",
                 "description": "Ash and friends are exploring the world of Pok\u00e9vision, and it\u2019s chock-full of epic productions and cinematic surprises!",
                 "is_country_whitelist": false,
@@ -12615,8 +12615,8 @@
                 "size": 2717411952
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "21",
                 "description": "Ash and friends are exploring the world of Pok\u00e9vision, and it\u2019s chock-full of epic productions and cinematic surprises!",
                 "is_country_whitelist": false,
