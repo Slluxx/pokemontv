@@ -455,8 +455,8 @@
                 "size": 3007973143
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "21",
                 "description": "An appearance on a TV quiz show leads our heroes into a world they only dreamed of!",
                 "is_country_whitelist": false,
@@ -3031,8 +3031,8 @@
                 "size": 3317863907
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "21",
                 "description": "An appearance on a TV quiz show leads our heroes into a world they only dreamed of!",
                 "is_country_whitelist": false,
