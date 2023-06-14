@@ -55,8 +55,8 @@
                 "size": 2802150716
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "6",
                 "description": "One of Misty's water Pok\u00e9mon is in desperate need of exercise, so the gang decides to take her Horsea to a gym that's run by her sisters in Cerulean City.",
                 "is_country_whitelist": false,
@@ -1118,8 +1118,8 @@
         "channel_name": "Pok\u00e9mon Evolutions",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "",
                 "description": "What goes through the mind of a Pok\u00e9mon Champion as they prepare to face the greatest challenge of all? Doubts? Regrets? Determination? All three?",
                 "is_country_whitelist": false,
@@ -1539,8 +1539,8 @@
         "channel_name": "Bidoof\u2019s Big Stand",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "A bumbling Bidoof with a tendency to bite off more than it can chew finds itself between a rock and a hard place as it embarks on a journey to find its place in the world.",
                 "is_country_whitelist": false,
@@ -14286,8 +14286,8 @@
                 "size": 3003091035
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "6",
                 "description": "One of Misty's water Pok\u00e9mon is in desperate need of exercise, so the gang decides to take her Horsea to a gym that's run by her sisters in Cerulean City.",
                 "is_country_whitelist": false,
