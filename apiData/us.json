@@ -851,8 +851,8 @@
                 "size": 2873012575
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "41",
                 "description": "A Pok\u00e9mon Fortune Telling boom turns out to be a Team Rocket plot to steal Pok\u00e9mon from local trainers.",
                 "is_country_whitelist": false,
@@ -951,8 +951,8 @@
                 "size": 2718844451
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "8",
                 "description": "There's a new Gym in Sinnoh, and Team Rocket is in charge!",
                 "is_country_whitelist": false,
@@ -2606,8 +2606,8 @@
                 "size": 1040987674
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "After getting into an argument with his friend John, Tommy wants to make amends. He enlists Allister, Galar\u2019s Ghost-type Gym Leader, to help in a most unusual way.",
                 "is_country_whitelist": false,
