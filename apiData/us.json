@@ -851,8 +851,8 @@
                 "size": 2873012575
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "41",
                 "description": "A Pok\u00e9mon Fortune Telling boom turns out to be a Team Rocket plot to steal Pok\u00e9mon from local trainers.",
                 "is_country_whitelist": false,
@@ -951,8 +951,8 @@
                 "size": 2718844451
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "8",
                 "description": "There's a new Gym in Sinnoh, and Team Rocket is in charge!",
                 "is_country_whitelist": false,
