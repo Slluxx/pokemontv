@@ -5,8 +5,8 @@
         "channel_name": "Pok\u00e9mon : Le film",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Giovanni, le Boss de la Team Rocket recrute un scientifique exp\u00e9riment\u00e9 dans le clonage pour qu\u2019il fabrique une arme vivante. Le Pok\u00e9mon Mewtwo est furieux d\u2019\u00eatre utilis\u00e9 en tant qu\u2019arme par l\u2019humanit\u00e9. Sacha, Pikachu et leurs amis tentent d\u2019arr\u00eater Mewtwo dans sa course destructrice et de lui prouver que les humains et les Pok\u00e9mon se d\u00e9finissent par leurs choix et non leurs origines.",
                 "is_country_whitelist": false,
