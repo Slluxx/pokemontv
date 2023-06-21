@@ -176,7 +176,7 @@
                 "size": 1262939360
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "Blossom wil graag Pok\u00e9mon League Champion worden! Tijdens een tocht in het bos heeft ze een toevallige ontmoeting met een Pok\u00e9mon die haar dromen op de proef stelt.",
@@ -226,8 +226,8 @@
                 "size": 1990847518
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Een trouwe Magikarp wil niets liever dan vriendschap sluiten.",
                 "is_country_whitelist": false,
@@ -276,7 +276,7 @@
                 "size": 1347326092
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "Breng een gezellige en sneeuwachtige dag door in een huis vol vriendelijke Pok\u00e9mon.",
