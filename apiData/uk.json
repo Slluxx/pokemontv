@@ -6576,8 +6576,8 @@
                 "size": 3482528495
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "37",
                 "description": "The Battle Royal Dome is ablaze with battling excitement, but this time the Masked Royal has a little help!",
                 "is_country_whitelist": false,
@@ -10468,8 +10468,8 @@
                 "size": 2684962933
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "23",
                 "description": "The daily fortune in Serena\u2019s guidebook predicts a bad day for our heroes\u2026and that prediction turns out to be accurate!",
                 "is_country_whitelist": false,
@@ -10518,8 +10518,8 @@
                 "size": 2689298303
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "24",
                 "description": "A rainy night and an old mansion combine to give our heroes an evening to remember\u2014or not!",
                 "is_country_whitelist": false,
@@ -17581,8 +17581,8 @@
                 "size": 2803995833
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "11",
                 "description": "Our friends, lost, discover an injured Charmander. Pikachu talks to it and learns that it's been waiting a long time for its trainer to return.",
                 "is_country_whitelist": false,
