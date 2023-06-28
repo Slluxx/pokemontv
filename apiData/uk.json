@@ -5926,8 +5926,8 @@
                 "size": 2614326741
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "24",
                 "description": "Nurse Joy is feeling a bit under the weather today, but we know just the heroes to help her out!",
                 "is_country_whitelist": false,
@@ -6176,8 +6176,8 @@
                 "size": 3197051188
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "29",
                 "description": "Team Rocket appears to be stuck in a rut, but solutions can come from high places!",
                 "is_country_whitelist": false,
