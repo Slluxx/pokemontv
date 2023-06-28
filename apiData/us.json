@@ -1379,7 +1379,7 @@
                 "size": 2729346434
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 5,
                 "episode": "29",
                 "description": "Ash is back at the Snowbelle City Gym for a rematch, but will Gym Leader Wulfric feel the heat?",
@@ -1796,8 +1796,8 @@
                 "size": 1991329888
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "",
                 "description": "A loyal Magikarp wants nothing more than to make a friend.",
                 "is_country_whitelist": false,
@@ -2288,7 +2288,7 @@
                 "size": 977241361
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 5,
                 "episode": "",
                 "description": "As the sun sets on some painful memories, Lillie vows to rescue her mother and bring back her friend Nebby. But, in her moment of triumph, a sinister presence casts a shadow on their moonlit reunion\u2026",
@@ -10116,7 +10116,7 @@
             },
             {
                 "count": 1,
-                "rating": 5,
+                "rating": 1,
                 "episode": "13",
                 "description": "An Alolan tradition whets everyone\u2019s appetite for fun, and Ash decides to join in!",
                 "is_country_whitelist": false,
@@ -13586,8 +13586,8 @@
                 "size": 2723970079
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "39",
                 "description": "An emergency situation offers the perfect opportunity to recall a heartwarming story of times past!",
                 "is_country_whitelist": false,
