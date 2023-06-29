@@ -7794,8 +7794,8 @@
                 "size": 2600390870
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "15",
                 "description": "An accidental encounter with the past puts the present and future in jeopardy!",
                 "is_country_whitelist": false,
@@ -8894,8 +8894,8 @@
                 "size": 3482528495
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "37",
                 "description": "The Battle Royal Dome is ablaze with battling excitement, but this time the Masked Royal has a little help!",
                 "is_country_whitelist": false,
@@ -19899,8 +19899,8 @@
                 "size": 2803995833
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "11",
                 "description": "Our friends, lost, discover an injured Charmander. Pikachu talks to it and learns that it's been waiting a long time for its trainer to return.",
                 "is_country_whitelist": false,
