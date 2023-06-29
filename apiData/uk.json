@@ -700,8 +700,8 @@
                 "size": 1991329888
             },
             {
-                "count": 2,
-                "rating": 5,
+                "count": 3,
+                "rating": 4,
                 "episode": "",
                 "description": "A loyal Magikarp wants nothing more than to make a friend.",
                 "is_country_whitelist": false,
@@ -5176,8 +5176,8 @@
                 "size": 2659737035
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "9",
                 "description": "Our heroes are determined to rescue Lusamine, and help is coming from unexpected and astounding sources!",
                 "is_country_whitelist": false,
@@ -5226,8 +5226,8 @@
                 "size": 2661429700
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "10",
                 "description": "Our heroes are determined to rescue Lusamine from inside the Ultra Wormhole, but Lusamine has other ideas!",
                 "is_country_whitelist": false,
