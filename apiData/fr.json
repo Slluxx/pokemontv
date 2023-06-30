@@ -405,8 +405,8 @@
                 "size": 3321490694
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "47",
                 "description": "Le dernier combat de la finale de la Ligue Pok\u00e9mon d'Alola se poursuit... qui remportera la victoire ?",
                 "is_country_whitelist": false,
@@ -3902,7 +3902,7 @@
                 "size": 2896174530
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "39",
                 "description": "La Ligue Pok\u00e9mon d'Alola bat son plein et les surprises sont nombreuses !",
@@ -4302,8 +4302,8 @@
                 "size": 2879621985
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "47",
                 "description": "Le dernier combat de la finale de la Ligue Pok\u00e9mon d'Alola se poursuit... qui remportera la victoire ?",
                 "is_country_whitelist": false,
@@ -4352,8 +4352,8 @@
                 "size": 2913057282
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 2,
                 "episode": "48",
                 "description": "La Ligue d'Alola est termin\u00e9e, mais de nouveaux combats doivent \u00eatre livr\u00e9s !",
                 "is_country_whitelist": false,
@@ -19649,7 +19649,7 @@
         "channel_name": "Pok\u00e9mon G\u00e9n\u00e9rations",
         "media": [
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "De la For\u00eat de Jade \u00e0 la Grotte Coda, red\u00e9couvrez le monde de Pok\u00e9mon comme vous ne l\u2019avez jamais vu !",
@@ -19699,8 +19699,8 @@
                 "size": 467624651
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 2,
                 "episode": "",
                 "description": "L\u2019inspecteur Beladonis de la Police Internationale suit de tr\u00e8s pr\u00e8s la piste de Giovanni, le boss de la Team Rocket.",
                 "is_country_whitelist": false,
@@ -20049,8 +20049,8 @@
                 "size": 790933480
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Tandis que les habitants de Hoenn se r\u00e9jouissent d\u2019avoir \u00e9vit\u00e9 une catastrophe m\u00e9t\u00e9orique, Pat la journaliste et son cam\u00e9raman Joe l\u00e8vent le voile sur une histoire incroyable, mais vraie.",
                 "is_country_whitelist": false,
