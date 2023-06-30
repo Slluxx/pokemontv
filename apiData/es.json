@@ -1,5 +1,49 @@
 [
     {
+        "channel_description": "Ash, Goh y Chloe persiguen sus sue\u00f1os y contin\u00faan con sus aventuras Pok\u00e9mon.",
+        "stunt_channel": false,
+        "channel_name": "Serie Viajes Definitivos Pok\u00e9mon",
+        "media": [
+            {
+                "count": 0,
+                "rating": 1,
+                "episode": "12",
+                "description": "Goh aborda su nueva misi\u00f3n de prueba del Proyecto Mew, en la que sus compa\u00f1eros aspirantes le ofrecer\u00e1n una nueva perspectiva.",
+                "is_country_whitelist": true,
+                "title": "\u00a1Combatiendo en una incursi\u00f3n congeladora!",
+                "season": "25",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep12_ss02_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep12_ss02.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep12_ss02_360_206.jpg"
+                },
+                "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1oR2SyO_SsMh04DV0nuvhw/skim/",
+                "is_new": false,
+                "country_codes": [],
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mw/XYTKMthhNqDeDEoVoywFqDGu5zrpHNYM1aLE4qYXA/es-es-24-12.mp4",
+                "last_modified": 1688144914,
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wP/CY1vGFy8HtwwXO3r6KJEV2ZjscrBizA6z9WzqumcE/es-es-24-12-f10090dd7c3f51edc422d734929a6f03008e6711.m3u8",
+                "captions": "",
+                "id": "d684764b23bf4ac3874e035749eebe1c",
+                "size": 2670326916
+            }
+        ],
+        "channel_creation_date": 1688144917,
+        "whats_new_order": null,
+        "watch_now_order": 1,
+        "channel_id": "serie-viajes-definitivos-pokemon",
+        "channel_images": {
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/season25/season25-1125x1500-es.png",
+            "spotlight_image_960_1277": "",
+            "spotlight_image_2048_1152": "",
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/season25/season25-1660x940-es.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/season25/season25-1660x940-es.png"
+        },
+        "channel_update_date": 1688144914,
+        "media_type": "episode",
+        "channel_status": ""
+    },
+    {
         "channel_description": "Revive algunos de los grandes triunfos de Ash con esta colecci\u00f3n de episodios de la serie Pok\u00e9mon.",
         "stunt_channel": true,
         "channel_name": "Los grandes triunfos de Ash",
@@ -469,77 +513,6 @@
         "channel_update_date": 1687535089,
         "media_type": "episode",
         "channel_status": "DISPONIBLE HASTA EL 7 DE JULIO"
-    },
-    {
-        "channel_description": "Ve a Ash y a sus amigos enfrentarse al poderoso Pok\u00e9mon legendario Mewtwo en la pel\u00edcula Mewtwo vs. Mew, \u00a1ahora en TV Pok\u00e9mon!",
-        "stunt_channel": true,
-        "channel_name": "Mewtwo vs. Mew",
-        "media": [
-            {
-                "count": 0,
-                "rating": 1,
-                "episode": "",
-                "description": "Giovanni, el l\u00edder del Team Rocket, contrata a un cient\u00edfico para usar sus conocimientos en materia de clonaci\u00f3n y crear as\u00ed un arma viviente. Esa arma, un Pok\u00e9mon llamado Mewtwo, est\u00e1 furioso por haber sido usado por los humanos. Ash, Pikachu y sus amigos tratan de frenar las ansias destructoras de Mewtwo y demostrar que las personas y los Pok\u00e9mon se definen por sus acciones y no por sus or\u00edgenes.",
-                "is_country_whitelist": false,
-                "title": "Mewtwo vs. Mew",
-                "season": "",
-                "images": {
-                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie01/movie1_ss01_180_103.jpg",
-                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie01/movie1_ss01.jpg",
-                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie01/movie1_ss01_360_206.jpg"
-                },
-                "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/rO9nA_hOSUkoGqjwn2-kIc/skim/",
-                "is_new": false,
-                "country_codes": [
-                    "JP",
-                    "HK",
-                    "VN",
-                    "TH",
-                    "NP",
-                    "BD",
-                    "ID",
-                    "BN",
-                    "KH",
-                    "KP",
-                    "KR",
-                    "WS",
-                    "SG",
-                    "MY",
-                    "IN",
-                    "MN",
-                    "MM",
-                    "MO",
-                    "LA",
-                    "PH",
-                    "PK",
-                    "AF",
-                    "LK",
-                    "PG",
-                    "CN",
-                    "TW"
-                ],
-                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i6/yckhx-FI2C9N2G1xGqw3oOiGRbhut5gHE_jNpwsb8/m1_esp_pokemonmewtostrikesback.mp4",
-                "last_modified": 1686937133,
-                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lm/aX-2J5b1VtU9AzEgr775ohfyTrMx8NrlclhMO882w/m1_esp_pokemonmewtostrikesback-80804ca78fefe029f97c51d1705116aae6d4cc1f.m3u8",
-                "captions": "",
-                "id": "acef6703f84e4949a06aa3c27dbe9087",
-                "size": 10347062386
-            }
-        ],
-        "channel_creation_date": 1434747531,
-        "whats_new_order": null,
-        "watch_now_order": 3,
-        "channel_id": "mewtwo-vs-mew",
-        "channel_images": {
-            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie01/movie01-1125x1500-es.png",
-            "spotlight_image_960_1277": "",
-            "spotlight_image_2048_1152": "",
-            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie01/movie01-1660x940-es.png",
-            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie01/movie01-1660x940-es.png"
-        },
-        "channel_update_date": 1687535089,
-        "media_type": "movie",
-        "channel_status": "DISPONIBLE HASTA EL 30 DE JUNIO"
     },
     {
         "channel_description": "En los cortos de animaci\u00f3n de POK\u00c9TOON, podr\u00e1s encontrar aventuras Pok\u00e9mon de lo m\u00e1s divertidas, conmovedoras y mucho m\u00e1s.",
