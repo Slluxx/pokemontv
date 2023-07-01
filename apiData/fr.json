@@ -19578,7 +19578,7 @@
         "channel_name": "Pok\u00e9mon G\u00e9n\u00e9rations",
         "media": [
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "De la For\u00eat de Jade \u00e0 la Grotte Coda, red\u00e9couvrez le monde de Pok\u00e9mon comme vous ne l\u2019avez jamais vu !",
@@ -19628,8 +19628,8 @@
                 "size": 467624651
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 2,
                 "episode": "",
                 "description": "L\u2019inspecteur Beladonis de la Police Internationale suit de tr\u00e8s pr\u00e8s la piste de Giovanni, le boss de la Team Rocket.",
                 "is_country_whitelist": false,
