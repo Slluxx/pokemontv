@@ -405,8 +405,8 @@
                 "size": 3321490694
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "47",
                 "description": "Le dernier combat de la finale de la Ligue Pok\u00e9mon d'Alola se poursuit... qui remportera la victoire ?",
                 "is_country_whitelist": false,
@@ -3831,7 +3831,7 @@
                 "size": 2896174530
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "39",
                 "description": "La Ligue Pok\u00e9mon d'Alola bat son plein et les surprises sont nombreuses !",
@@ -4231,8 +4231,8 @@
                 "size": 2879621985
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "47",
                 "description": "Le dernier combat de la finale de la Ligue Pok\u00e9mon d'Alola se poursuit... qui remportera la victoire ?",
                 "is_country_whitelist": false,
@@ -4281,8 +4281,8 @@
                 "size": 2913057282
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "48",
                 "description": "La Ligue d'Alola est termin\u00e9e, mais de nouveaux combats doivent \u00eatre livr\u00e9s !",
                 "is_country_whitelist": false,
