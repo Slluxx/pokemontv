@@ -25,7 +25,7 @@
         "playerUrl": "https://watch.pokemon.com/fi-fi/#/player?id=",
         "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/fi/",
         "proxyApiUrl": "https://www.proxyscan.io/api/proxy?country=FI&limit=10",
-        "lastProxyFetchSuccess": true
+        "lastProxyFetchSuccess": false
     },
     "fr": {
         "langText": "France",
@@ -53,7 +53,7 @@
         "playerUrl": "https://watch.pokemon.com/nl-nl/#/player?id=",
         "apiUrl": "https://www.pokemon.com/api/pokemontv/v2/channels/nl/",
         "proxyApiUrl": "https://www.proxyscan.io/api/proxy?country=NL&limit=10",
-        "lastProxyFetchSuccess": false
+        "lastProxyFetchSuccess": true
     },
     "no": {
         "langText": "Norge",
