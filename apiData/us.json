@@ -5223,8 +5223,8 @@
                 "size": 3226645095
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "13",
                 "description": "Ash\u2019s research project is all about battling, but who will that battling involve?",
                 "is_country_whitelist": false,
@@ -5473,8 +5473,8 @@
                 "size": 3265782842
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "18",
                 "description": "When the Pok\u00e9mon School class meets an accomplished Pok\u00e9mon Golfer, they learn some valuable lessons and have fun at the same time!",
                 "is_country_whitelist": false,
@@ -5723,8 +5723,8 @@
                 "size": 3351385017
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "23",
                 "description": "Professor Kukui\u2019s big announcement is making unexpected waves with unexpected people!",
                 "is_country_whitelist": false,
@@ -5823,8 +5823,8 @@
                 "size": 3144257021
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "25",
                 "description": "Our heroes\u2019 visit to a popular tourist attraction ends up being anything but a breeze!",
                 "is_country_whitelist": false,
