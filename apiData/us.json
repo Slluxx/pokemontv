@@ -5173,8 +5173,8 @@
                 "size": 3042233279
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "12",
                 "description": "Our heroes are visiting Poni Island for their school research projects, but they\u2019re not the only ones with big plans!",
                 "is_country_whitelist": false,
@@ -7273,8 +7273,8 @@
                 "size": 3324307220
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "54",
                 "description": "With their big vacation on the horizon, our heroes are setting some life-changing plans into motion!",
                 "is_country_whitelist": false,
