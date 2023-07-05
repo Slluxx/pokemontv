@@ -729,8 +729,8 @@
                 "size": 2740636524
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "47",
                 "description": "The Alola Pok\u00e9mon League is down to the final moments of the final battle! Who will emerge victorious?",
                 "is_country_whitelist": false,
@@ -825,8 +825,8 @@
         "channel_name": "POK\u00c9TOON",
         "media": [
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "On the hunt for some tasty Pok\u00e9 Beans, Scraggy runs into a peculiar Pok\u00e9mon\u2014Mimikyu! Mimikyu wants to be friends, but Scraggy only wants snacks. Watch as they chase each other toward a potential friendship.",
                 "is_country_whitelist": false,
@@ -6923,8 +6923,8 @@
                 "size": 3288138898
             },
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "47",
                 "description": "The Alola Pok\u00e9mon League is down to the final moments of the final battle! Who will emerge victorious?",
                 "is_country_whitelist": false,
