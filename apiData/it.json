@@ -626,8 +626,8 @@
                 "size": 1990808701
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Un fedele Magikarp vuole solamente trovare un amico.",
                 "is_country_whitelist": false,
