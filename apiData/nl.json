@@ -7739,8 +7739,8 @@
         "channel_name": "Pok\u00e9mon de Serie: XYZ",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 2,
                 "episode": "1",
                 "description": "Bonnie vindt een nieuwe vriend, Ash komt een oude vriend tegen en een afschuwelijke voorspelling begint uit te komen!",
                 "is_country_whitelist": false,
