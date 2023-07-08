@@ -8823,8 +8823,8 @@
         "channel_name": "Serie Pok\u00e9mon XYZ",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Clem se echa un nuevo amigo, Ash se encuentra con un antiguo amigo y comienza a revelarse una aterradora premonici\u00f3n.",
                 "is_country_whitelist": false,
@@ -8873,8 +8873,8 @@
                 "size": 3304753062
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Mientras Eevee se enfrenta a un pretendiente no deseado, el  eam Rocket dirige su atenci\u00f3n hacia Bland\u00edn.",
                 "is_country_whitelist": false,
