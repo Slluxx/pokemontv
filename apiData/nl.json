@@ -10160,8 +10160,8 @@
         "channel_name": "Pok\u00e9mon de serie: XY - Ontdekkingsreis door Kalos",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "1",
                 "description": "Na gekibbel tussen vrienden, geeft een toevallige ontmoeting onze helden een kans op onverwacht teamwerk.",
                 "is_country_whitelist": false,
