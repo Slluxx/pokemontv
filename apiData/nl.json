@@ -426,8 +426,8 @@
         "channel_name": "Pok\u00e9mon de serie: Zon & Maan - Ultra Legendes",
         "media": [
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "De leerlingen van de Pok\u00e9mon school geven een voorstelling met meer wendingen dan ze ooit hadden gedacht!",
                 "is_country_whitelist": false,
@@ -10160,8 +10160,8 @@
         "channel_name": "Pok\u00e9mon de serie: XY - Ontdekkingsreis door Kalos",
         "media": [
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Na gekibbel tussen vrienden, geeft een toevallige ontmoeting onze helden een kans op onverwacht teamwerk.",
                 "is_country_whitelist": false,
