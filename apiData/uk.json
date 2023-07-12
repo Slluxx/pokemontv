@@ -4631,8 +4631,8 @@
                 "size": 2659737035
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "9",
                 "description": "Our heroes are determined to rescue Lusamine, and help is coming from unexpected and astounding sources!",
                 "is_country_whitelist": false,
@@ -9823,8 +9823,8 @@
                 "size": 2708742321
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "22",
                 "description": "While Ash battles a fever, another Trainer comes along to challenge him to a Pok\u00e9mon battle!",
                 "is_country_whitelist": false,
