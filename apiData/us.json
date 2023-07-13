@@ -13137,8 +13137,8 @@
                 "size": 2740636524
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "36",
                 "description": "The final round of the Kalos League is about to get under way, and there\u2019s a lot going on behind the scenes!",
                 "is_country_whitelist": false,
@@ -13187,8 +13187,8 @@
                 "size": 2720304121
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "37",
                 "description": "It\u2019s time for the Kalos League finals, and it\u2019s Ash versus Alain in their much-anticipated battle!",
                 "is_country_whitelist": false,
@@ -13237,8 +13237,8 @@
                 "size": 2736995901
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "38",
                 "description": "The final round of the Kalos League is in high gear, and surprises are in abundance: from the first second to the very last!",
                 "is_country_whitelist": false,
@@ -25755,8 +25755,8 @@
                 "size": 448235638
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "A Togepi got separated from its friends! Can Pikachu help it reunite with them?",
                 "is_country_whitelist": false,
@@ -25855,8 +25855,8 @@
                 "size": 585040869
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "It seems like a Pok\u00e9mon is hiding inside a fan! Can you guess its name? Let\u2019s learn the alphabet together with Pok\u00e9mon!",
                 "is_country_whitelist": false,
