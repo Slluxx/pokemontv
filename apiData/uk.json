@@ -307,8 +307,8 @@
                 "size": 2365242466
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "42",
                 "description": "Everybody\u2019s looking forward to a relaxing day at a health spa, although a few secretly have different plans!",
                 "is_country_whitelist": false,
@@ -6704,8 +6704,8 @@
                 "size": 3408059959
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "42",
                 "description": "Everybody\u2019s looking forward to a relaxing day at a health spa, although a few secretly have different plans!",
                 "is_country_whitelist": false,
