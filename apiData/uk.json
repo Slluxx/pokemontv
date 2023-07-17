@@ -5,8 +5,8 @@
         "channel_name": "Dive In with Pok\u00e9mon",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "13",
                 "description": "In an effort to train hard and maintain top shape for the Pok\u00e9mon League, Ash decides to try some surfing.",
                 "is_country_whitelist": false,
@@ -106,8 +106,8 @@
                 "size": 2679616662
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "19",
                 "description": "Ash and company are sailing toward Dewford Town, thanks to their new friends Mr. Briney and his Wingull, Peeko.",
                 "is_country_whitelist": false,
@@ -16959,8 +16959,8 @@
                 "size": 2870251594
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "13",
                 "description": "In an effort to train hard and maintain top shape for the Pok\u00e9mon League, Ash decides to try some surfing.",
                 "is_country_whitelist": false,
