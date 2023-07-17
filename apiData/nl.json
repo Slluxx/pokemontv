@@ -5,8 +5,8 @@
         "channel_name": "POK\u00c9TOON",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Wanneer hij op zoek is naar smakelijke Pok\u00e9 Beans, stuit Scraggy op een bijzondere Pok\u00e9mon: Mimikyu! Mimikyu wil graag vrienden worden, maar het enige wat Scraggy wil zijn lekkere hapjes. Kijk hoe ze achter elkaar aan zitten en ontdek hoe hun vriendschap vorm krijgt.",
                 "is_country_whitelist": false,
@@ -155,8 +155,8 @@
                 "size": 1990847518
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Een trouwe Magikarp wil niets liever dan vriendschap sluiten.",
                 "is_country_whitelist": false,
