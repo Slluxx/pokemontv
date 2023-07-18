@@ -23314,8 +23314,8 @@
         "channel_name": "Nursery Rhymes",
         "media": [
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Pikachu is walking on the street with a basket of muffin in its hands. The sweet smell of the muffin attracts many Pok\u00e9mon along the way! Look forward to who Pikachu will meet and let's sing along together!",
                 "is_country_whitelist": false,
@@ -24335,8 +24335,8 @@
                 "size": 641542893
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "It\u2019s Halloween, and Pikachu and Eevee are heading into the forest to gather candy. On their way, they manage to gather not only candy, but also new friends!",
                 "is_country_whitelist": false,
