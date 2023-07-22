@@ -8473,8 +8473,8 @@
         "channel_name": "Pok\u00e9mon, a s\u00e9rie: XYZ",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Bonnie faz um novo amigo. Ash encontra um antigo amigo, e uma terr\u00edvel premoni\u00e7\u00e3o come\u00e7a a acontecer.",
                 "is_country_whitelist": false,
@@ -8523,8 +8523,8 @@
                 "size": 2675108525
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Enquanto Eevee lida com aten\u00e7\u00e3o indesejada, a Equipe Rocket fica de olho em Geleca.",
                 "is_country_whitelist": false,
@@ -8773,8 +8773,8 @@
                 "size": 2610108726
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "7",
                 "description": "Na v\u00e9spera do festival da aldeia, o destino da Aldeia Ninja est\u00e1 na balan\u00e7a!",
                 "is_country_whitelist": false,
@@ -9023,8 +9023,8 @@
                 "size": 2797241442
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "12",
                 "description": "Serena \u00e9 convidada para uma festa para Performer Pok\u00e9mon, e h\u00e1 muitas surpresas!",
                 "is_country_whitelist": false,
@@ -9273,8 +9273,8 @@
                 "size": 2631642342
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "17",
                 "description": "Nossos her\u00f3is est\u00e3o prestes a ir para uma celebra\u00e7\u00e3o emocionante, mas o convidado de honra n\u00e3o est\u00e1 feliz!",
                 "is_country_whitelist": false,
@@ -9523,8 +9523,8 @@
                 "size": 2662447903
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "22",
                 "description": "Enquanto o Ash batalha contra uma febre, outro treinador aparece para desafi\u00e1-lo a uma batalha Pok\u00e9mon!",
                 "is_country_whitelist": false,
@@ -9723,8 +9723,8 @@
                 "size": 2753205359
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "26",
                 "description": "Durante o final da jornada dos nossos her\u00f3is \u00e0 Cidade de Snowbelle, um encontro casual com um velho amigo e rival d\u00e1 a Ash uma oportunidade de batalha surpreendente!",
                 "is_country_whitelist": false,
@@ -9823,8 +9823,8 @@
                 "size": 2772486942
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "28",
                 "description": "Ap\u00f3s a derrota do Ash no Gin\u00e1sio de Snowbelle, uma introspec\u00e7\u00e3o n\u00e3o t\u00e3o tranquila se transforma em uma inspira\u00e7\u00e3o real!",
                 "is_country_whitelist": false,
@@ -9873,8 +9873,8 @@
                 "size": 2734212666
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "29",
                 "description": "O Ash est\u00e1 de volta ao Gin\u00e1sio da Cidade de Snowbelle para uma revanche, mas ir\u00e1 Wulfric, o L\u00edder do Gin\u00e1sio, sentir o calor?",
                 "is_country_whitelist": false,
@@ -9923,8 +9923,8 @@
                 "size": 2800256415
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "30",
                 "description": "Uma visita \u00e0 casa de amigos confronta nossos her\u00f3is com desafios muito incomuns!",
                 "is_country_whitelist": false,
