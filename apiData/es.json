@@ -5,7 +5,7 @@
         "channel_name": "El poder de uno",
         "media": [
             {
-                "count": 1,
+                "count": 2,
                 "rating": 1,
                 "episode": "",
                 "description": "El medio ambiente se desequilibra cuando un\ncoleccionista de Pok\u00e9mon captura a Articuno, Zapdos y Moltres con la intenci\u00f3n\nde despertar a Lugia. Ash y Pikachu deben combatir para detener este mal\u00e9fico\nplan y rescatar a los Pok\u00e9mon legendarios.",
@@ -1510,8 +1510,8 @@
         "channel_name": "El gran viaje de Bidoof",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Un Bidoof algo torpe y con tendencia a meter la pata est\u00e1 entre la espada y la pared y decide emprender un viaje para encontrar su lugar en el mundo.",
                 "is_country_whitelist": false,
