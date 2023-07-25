@@ -10223,8 +10223,8 @@
                 "size": 2730703634
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "36",
                 "description": "A rodada final da Liga Kalos est\u00e1 prestes a come\u00e7ar e h\u00e1 muitas coisas acontecendo nos bastidores!",
                 "is_country_whitelist": false,
@@ -10273,8 +10273,8 @@
                 "size": 2507011932
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "37",
                 "description": "Est\u00e1 na hora da final da Liga Kalos, e \u00e9 Ash contra Alain na t\u00e3o esperada batalha!",
                 "is_country_whitelist": false,
@@ -10573,8 +10573,8 @@
                 "size": 2558963766
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "43",
                 "description": "A hora da verdade chegou, e nossos her\u00f3is e seus amigos t\u00eam que encarar o desafio final que vai decidir o destino do mundo!",
                 "is_country_whitelist": false,
