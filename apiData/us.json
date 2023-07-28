@@ -326,7 +326,7 @@
         "channel_name": "Pok\u00e9mon the Movie 2000",
         "media": [
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "The balance of the environment is disrupted when a Pok\u00e9mon collector captures Articuno, Zapdos, and Moltres in an attempt to awaken Lugia. Ash and Pikachu must battle to stop this wicked scheme and rescue the Legendary Pok\u00e9mon.",
@@ -18423,7 +18423,7 @@
                 "size": 2729549418
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "36",
                 "description": "While exploring a well-known cave on their way to Shalour City, our heroes see themselves in unexpectedly different ways!",
