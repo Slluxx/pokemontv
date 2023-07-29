@@ -376,8 +376,8 @@
                 "size": 2801613007
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "7",
                 "description": "Ash, Brock and Misty get sidetracked on their way to Viridian City when all of their belongings mysteriously disappear.",
                 "is_country_whitelist": false,
@@ -426,8 +426,8 @@
                 "size": 2872763811
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "34",
                 "description": "Investigating a string of mysterious thefts, our heroes discover a pack of Houndour, struggling to survive in the wild.",
                 "is_country_whitelist": false,
@@ -19442,8 +19442,8 @@
                 "size": 2873012575
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "7",
                 "description": "Ash, Brock and Misty get sidetracked on their way to Viridian City when all of their belongings mysteriously disappear.",
                 "is_country_whitelist": false,
