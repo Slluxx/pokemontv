@@ -476,8 +476,8 @@
                 "size": 2642507061
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "11",
                 "description": "Misty and Brock continue to enjoy their Alola region vacation, but there are some who would like that to stop!",
                 "is_country_whitelist": false,
@@ -2552,8 +2552,8 @@
                 "size": 3301758810
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "11",
                 "description": "Misty and Brock continue to enjoy their Alola region vacation, but there are some who would like that to stop!",
                 "is_country_whitelist": false,
