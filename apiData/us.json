@@ -676,8 +676,8 @@
                 "size": 2727878370
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "19",
                 "description": "An unexpected appearance by a cunning visitor is turning Team Rocket\u2019s world on its head!",
                 "is_country_whitelist": false,
@@ -726,8 +726,8 @@
                 "size": 2642507061
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "11",
                 "description": "Misty and Brock continue to enjoy their Alola region vacation, but there are some who would like that to stop!",
                 "is_country_whitelist": false,
@@ -5216,8 +5216,8 @@
                 "size": 3301758810
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "11",
                 "description": "Misty and Brock continue to enjoy their Alola region vacation, but there are some who would like that to stop!",
                 "is_country_whitelist": false,
@@ -8337,8 +8337,8 @@
                 "size": 2658281764
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "19",
                 "description": "An unexpected appearance by a cunning visitor is turning Team Rocket\u2019s world on its head!",
                 "is_country_whitelist": false,
