@@ -6302,8 +6302,8 @@
         "channel_name": "Pok\u00e9mon, a s\u00e9rie: Sol e Lua",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "O que come\u00e7a como f\u00e9rias para nosso her\u00f3i na Ilha de Melemele, na regi\u00e3o de Alola, se transforma em uma promessa de muitas aventuras emocionantes!",
                 "is_country_whitelist": false,
