@@ -6652,8 +6652,8 @@
                 "size": 2654860713
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "8",
                 "description": "A L\u00edlian tem que cuidar de um Ovo de Pok\u00e9mon at\u00e9 que ele choque, mas ser\u00e1 que seu medo ir\u00e1 atrapalh\u00e1-la?",
                 "is_country_whitelist": false,
@@ -6702,8 +6702,8 @@
                 "size": 2628790241
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "9",
                 "description": "Ash quer um novo Cristal Z, mas dever\u00e1 encarar uma primeira tarefa formid\u00e1vel antes.",
                 "is_country_whitelist": false,
