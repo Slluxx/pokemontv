@@ -6552,8 +6552,8 @@
                 "size": 2644326685
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "6",
                 "description": "O primeiro dia sem aula de Ash na Escola Pok\u00e9mon deveria ser relaxante, mas as coisas n\u00e3o saem como esperado.",
                 "is_country_whitelist": false,
@@ -7052,8 +7052,8 @@
                 "size": 2626636371
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "16",
                 "description": "A Equipe Rocket est\u00e1 de olho nos Pok\u00e9mon dos nossos her\u00f3is, mas um terceiro Pok\u00e9mon misterioso tem uma ideia diferente!",
                 "is_country_whitelist": false,
