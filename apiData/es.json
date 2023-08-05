@@ -9294,8 +9294,8 @@
         "channel_name": "Los Viajes Johto",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Ash empieza su viaje en Johto, una gran regi\u00f3n inexplorada conocida por estar densamente poblada por Pok\u00e9mon totalmente nuevos para \u00e9l y sus amigos.",
                 "is_country_whitelist": false,
@@ -9344,8 +9344,8 @@
                 "size": 2818517885
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Ash derrota en un combate Pok\u00e9mon a un joven Entrenador ambicioso, que huye desalentado.",
                 "is_country_whitelist": false,
@@ -9394,8 +9394,8 @@
                 "size": 2800927793
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "3",
                 "description": "Ash y sus amigos descubren un bosque donde Pinsir invasores est\u00e1n causando una fuerte desforestaci\u00f3n.",
                 "is_country_whitelist": false,
@@ -9444,8 +9444,8 @@
                 "size": 2807426824
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "4",
                 "description": "Ash y sus amigos se topan con un peque\u00f1o valle donde los Donphan suelen recolectar piedras preciosas.",
                 "is_country_whitelist": false,
@@ -9494,8 +9494,8 @@
                 "size": 2819868547
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "5",
                 "description": "\u00bfQui\u00e9n ser\u00eda lo suficientemente tonto como para hacer frente a un espeso bosque a altas horas de la madrugada sin una gu\u00eda Hoothoot? Desde luego no Ash\u2026",
                 "is_country_whitelist": false,
