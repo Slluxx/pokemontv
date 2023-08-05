@@ -10144,8 +10144,8 @@
                 "size": 2767783901
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "18",
                 "description": "Cuando Ash oye hablar del cercano Valle Charic\u00edfico, est\u00e1 seguro de que un viaje r\u00e1pido es lo que necesita para volver a alzar los \u00e1nimos de Charizard.",
                 "is_country_whitelist": false,
@@ -11244,8 +11244,8 @@
                 "size": 2745746932
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "40",
                 "description": "Nuestros h\u00e9roes llegan a una ciudad cuyos residentes cr\u00edan a Pok\u00e9mon de tipo Ps\u00edquico para repeler los Pok\u00e9mon de tipo Fantasma que merodean por ah\u00ed.",
                 "is_country_whitelist": false,
