@@ -10194,8 +10194,8 @@
                 "size": 2754521613
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "19",
                 "description": "Solo falta un d\u00eda para el concurso anual de Sunflora, y ahora la nueva amiga de nuestro h\u00e9roe, y Entrenadora de Sunflora, no puede convencer a su estrella Pok\u00e9mon para que compita.",
                 "is_country_whitelist": false,
@@ -10294,8 +10294,8 @@
                 "size": 2800207836
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "21",
                 "description": "Nuestros h\u00e9roes se topan con un Hoppip, el suave Pok\u00e9mon \u201cAlgad\u00f3n\u201d, que es capaz de ir a la deriva durante kil\u00f3metros sobre un viento pasajero.",
                 "is_country_whitelist": false,
@@ -11244,8 +11244,8 @@
                 "size": 2745746932
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "40",
                 "description": "Nuestros h\u00e9roes llegan a una ciudad cuyos residentes cr\u00edan a Pok\u00e9mon de tipo Ps\u00edquico para repeler los Pok\u00e9mon de tipo Fantasma que merodean por ah\u00ed.",
                 "is_country_whitelist": false,
