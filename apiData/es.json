@@ -9994,8 +9994,8 @@
                 "size": 2815503264
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "15",
                 "description": "Con la ayuda de Pikachu, Ash conf\u00eda en que ganar la Medalla Cefiro ser\u00e1 pan comido.",
                 "is_country_whitelist": false,
@@ -10044,8 +10044,8 @@
                 "size": 2819943662
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "16",
                 "description": "Mono y mimoso es una cosa, pero un Marill que berrea es demasiado, incluso para Misty.",
                 "is_country_whitelist": false,
@@ -10994,8 +10994,8 @@
                 "size": 2744960906
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "35",
                 "description": "La rivalidad amistosa entre Ash y Misty se pone a prueba cuando ambos intentan capturar a la vez un Totodile.",
                 "is_country_whitelist": false,
@@ -11044,8 +11044,8 @@
                 "size": 2600430566
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "36",
                 "description": "Cuando Ash y sus amigos oyen hablar de un Entrenador casi imbatible que anda por ah\u00ed cerca, salen en su b\u00fasqueda.",
                 "is_country_whitelist": false,
@@ -11094,8 +11094,8 @@
                 "size": 2756748234
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "37",
                 "description": "El Totodile de Ash se enamora perdidamente de un Azumarill pasajero, pero sus sentimientos no son correspondidos cuando el Team Rocket secuestra al Pok\u00e9mon ante los ojos del Totodile.",
                 "is_country_whitelist": false,
@@ -11144,8 +11144,8 @@
                 "size": 2762845544
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "38",
                 "description": "Ash tiene el ojo puesto en un Noctowl poco com\u00fan y de colores brillantes.",
                 "is_country_whitelist": false,
