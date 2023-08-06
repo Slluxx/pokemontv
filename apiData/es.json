@@ -626,7 +626,7 @@
                 "size": 1991073271
             },
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "Un Magikarp muy leal solo quiere encontrar un amigo.",
@@ -10394,8 +10394,8 @@
                 "size": 2586514886
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "23",
                 "description": "El Team Rocket aparece disfrazado de cordero para aliviar a un Pastor Pok\u00e9mon de su reba\u00f1o de Mareep.",
                 "is_country_whitelist": false,
@@ -10444,8 +10444,8 @@
                 "size": 2779199501
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "24",
                 "description": "Cuando el m\u00e1s prometedor de los aprendices abandona el combate por completo en un Pok\u00e9mon dojo, le toca a Ash y a sus amigos convencerle de que luchar es m\u00e1s que solo una cuesti\u00f3n de probabilidad.",
                 "is_country_whitelist": false,
