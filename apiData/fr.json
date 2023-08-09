@@ -18270,8 +18270,8 @@
         "channel_name": "Comptines en musique",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Pikachu d\u00e9ambule dans la rue avec un panier de muffins. Le parfum de ces gourmandises attire de nombreux Pok\u00e9mon sur le chemin\u00a0! Chantons ensemble et partons \u00e0 la rencontre des Pok\u00e9mon\u00a0!",
                 "is_country_whitelist": false,
