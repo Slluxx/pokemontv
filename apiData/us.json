@@ -4795,8 +4795,8 @@
                 "size": 3285197036
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 3,
                 "episode": "4",
                 "description": "While Ash runs an errand to Aether Paradise, a certain trio of troublemakers sets out to catch Pok\u00e9mon there!",
                 "is_country_whitelist": false,
@@ -9516,8 +9516,8 @@
                 "size": 3172053846
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "44",
                 "description": "A mysterious creature has emerged from an Ultra Wormhole and now appears to be threatening Alola, but our heroes are ready to do anything they can to help!",
                 "is_country_whitelist": false,
