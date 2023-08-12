@@ -426,8 +426,8 @@
         "channel_name": "Pok\u00e9mon de serie: Zon & Maan - Ultra Legendes",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "De leerlingen van de Pok\u00e9mon school geven een voorstelling met meer wendingen dan ze ooit hadden gedacht!",
                 "is_country_whitelist": false,
