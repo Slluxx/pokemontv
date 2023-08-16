@@ -5568,8 +5568,8 @@
         "channel_name": "Pok\u00e9mon de Serie: Zon & Maan",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "1",
                 "description": "Wat begint als een vakantie voor onze held op Melemele Island in de Alola regio, verandert in de belofte dat er vele spannende avonturen gaan komen!",
                 "is_country_whitelist": false,
@@ -13031,8 +13031,8 @@
                 "size": 2800071491
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "5",
                 "description": "Ash daagt Brock, de Gym Leader van de Pewter City Gym uit, maar zelfs Pikachu maakt geen schijn van kans tegen de Steensoort Pok\u00e9mon van Brock. Met hulp van de mysterieuze Flint, traint Ash hard voor een herkansing.",
                 "is_country_whitelist": false,
