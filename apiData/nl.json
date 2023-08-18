@@ -376,8 +376,8 @@
                 "size": 1995326764
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Een warme zomerdag verandert voor drie vrienden plotseling in winterwonderland. Zou een Pok\u00e9mon hier misschien iets mee te maken kunnen hebben?",
                 "is_country_whitelist": false,
@@ -426,8 +426,8 @@
                 "size": 902200879
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Jigglypuff is verdrietig, want zijn lied lijkt niet op de liedjes van andere Jigglypuff. Kan hij met de hulp van een vriend de juiste melodie vinden?",
                 "is_country_whitelist": false,
@@ -9060,8 +9060,8 @@
                 "size": 2806036063
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "26",
                 "description": "Bij aankomst in Azalea Town, provoceert Ash achteloos de inwoners die dol zijn op Slowpoke. Het wordt nog erger als Team Rocket verschijnt, met het plan om alle Slowpoke te stelen! Wat kan Ash doen?",
                 "is_country_whitelist": false,
