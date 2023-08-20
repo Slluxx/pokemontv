@@ -1831,8 +1831,8 @@
         "channel_name": "Forza, Bidoof!",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Un buffo Bidoof, i cui piani tendono ad andare sempre a rotoli, trover\u00e0 pane per i suoi dentoni quando partir\u00e0 per un viaggio alla ricerca del suo posto nel mondo.",
                 "is_country_whitelist": false,
