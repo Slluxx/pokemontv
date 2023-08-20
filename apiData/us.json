@@ -326,8 +326,8 @@
         "channel_name": "Pok\u00e9mon 3: The Movie",
         "media": [
             {
-                "count": 1,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "The Unknown Spells Adventure.",
                 "is_country_whitelist": false,
