@@ -476,8 +476,8 @@
         "channel_name": "El hechizo de los Unown",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Entei y los misteriosos Unown quieren ayudar a una ni\u00f1a solitaria, \u00a1pero el mundo de fantas\u00eda que crean para ella podr\u00eda desmoronar la realidad!",
                 "is_country_whitelist": false,
@@ -1731,8 +1731,8 @@
         "channel_name": "El gran viaje de Bidoof",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Un Bidoof algo torpe y con tendencia a meter la pata est\u00e1 entre la espada y la pared y decide emprender un viaje para encontrar su lugar en el mundo.",
                 "is_country_whitelist": false,
