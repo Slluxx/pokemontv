@@ -326,8 +326,8 @@
         "channel_name": "Dog Days of Summer",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "8",
                 "description": "Ash and friends finally make their way to Viridian City where Ash hopes to earn his Earth Badge.",
                 "is_country_whitelist": false,
@@ -376,8 +376,8 @@
                 "size": 2870593060
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "8",
                 "description": "With pet food prepared by a French chef, rooms of WalkMaster exercise equipment and closets stocked with the latest in Pok\u00e9mon fashion, life couldn't be much better for a Palm Hills Snubbull.",
                 "is_country_whitelist": false,
@@ -12526,8 +12526,8 @@
                 "size": 2874729128
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "8",
                 "description": "With pet food prepared by a French chef, rooms of WalkMaster exercise equipment and closets stocked with the latest in Pok\u00e9mon fashion, life couldn't be much better for a Palm Hills Snubbull.",
                 "is_country_whitelist": false,
@@ -14597,8 +14597,8 @@
                 "size": 2872763811
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "8",
                 "description": "Ash and friends finally make their way to Viridian City where Ash hopes to earn his Earth Badge.",
                 "is_country_whitelist": false,
