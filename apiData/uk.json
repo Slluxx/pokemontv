@@ -477,8 +477,8 @@
         "channel_name": "Pok\u00e9mon: Path to the Peak",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Forced to move from her old town, Ava makes a fresh start and sets out on a new adventure with the school\u2019s Pok\u00e9mon TCG club.",
                 "is_country_whitelist": false,
@@ -627,8 +627,8 @@
                 "size": 2428478661
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Emotionally defeated, Ava fights to rediscover her drive to compete with the support of her family and friends.",
                 "is_country_whitelist": false,
