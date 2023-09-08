@@ -9665,8 +9665,8 @@
                 "size": 2624344201
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "4",
                 "description": "De camino a Ciudad Iris, nuestros h\u00e9roes pasan por un hermoso parque nacional.",
                 "is_country_whitelist": false,
@@ -9715,8 +9715,8 @@
                 "size": 2603983151
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "5",
                 "description": "Mientras tratan de llegar a Ciudad Iris, nuestros h\u00e9roes se detienen en el camino, ya que no pueden cruzar un r\u00edo que no tiene un puente.",
                 "is_country_whitelist": false,
@@ -11665,8 +11665,8 @@
                 "size": 2627715822
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "44",
                 "description": "Nuestros h\u00e9roes se encuentran con un espect\u00e1culo callejero de un d\u00eda y van a ver todo tipo de Pok\u00e9mon con habilidades incre\u00edbles.",
                 "is_country_whitelist": false,
