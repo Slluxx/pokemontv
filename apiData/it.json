@@ -476,7 +476,7 @@
         "channel_name": "Pok\u00e9mon: Verso la cima",
         "media": [
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "Ava deve trasferirsi in un\u2019altra citt\u00e0, dove inizia una nuova vita e avventura con il club Pok\u00e9mon della scuola.",
@@ -526,8 +526,8 @@
                 "size": 1420444033
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Con la lotta contro Celestine alle porte, Ava accetta la sfida e decide di competere ai Campionati Regionali.",
                 "is_country_whitelist": false,
@@ -576,8 +576,8 @@
                 "size": 1503736199
             },
             {
-                "count": 1,
-                "rating": 2,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Dopo una grande sconfitta ai Campionati Regionali, Ava continua la sua avventura negli eventi del campionato partecipando agli Internazionali.",
                 "is_country_whitelist": false,
@@ -626,8 +626,8 @@
                 "size": 1524637247
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Scoraggiata e abbattuta, Ava lotta per ritrovare la motivazione e il desiderio di competere con l\u2019aiuto della famiglia e degli amici.",
                 "is_country_whitelist": false,
