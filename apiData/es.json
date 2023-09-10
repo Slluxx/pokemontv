@@ -9765,8 +9765,8 @@
                 "size": 2583384023
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "6",
                 "description": "Ash, Misty y Brock han conseguido llegar a las famosas Ruinas Alfa.",
                 "is_country_whitelist": false,
@@ -9815,8 +9815,8 @@
                 "size": 2626212352
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "7",
                 "description": "Justo fuera de Ciudad Iris, nuestros h\u00e9roes ven un Pidgey volando que est\u00e1 siendo atacado por un enorme Fearow y deciden intervenir.",
                 "is_country_whitelist": false,
