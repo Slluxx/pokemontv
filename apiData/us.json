@@ -22509,8 +22509,8 @@
         "channel_name": "Pok\u00e9mon Generations",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "From Viridian Forest to Terminus Cave, see the Pok\u00e9mon world as never before!",
                 "is_country_whitelist": false,
@@ -22559,8 +22559,8 @@
                 "size": 473602039
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Detective Looker of the International Police uncovers critical information in the hunt for Team Rocket Boss Giovanni.",
                 "is_country_whitelist": false,
