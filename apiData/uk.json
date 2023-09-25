@@ -255,8 +255,8 @@
                 "size": 2349732606
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "41",
                 "description": "Three of our heroes are teaming up for the annual Charjabug race, an electrifying event with shocking results!",
                 "is_country_whitelist": false,
@@ -305,8 +305,8 @@
                 "size": 2423552018
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "8",
                 "description": "Lusamine has been captured by an Ultra Beast and swept away through an Ultra Wormhole, but everyone is determined to get her back safely!",
                 "is_country_whitelist": false,
@@ -718,7 +718,7 @@
         "channel_name": "POK\u00c9TOON",
         "media": [
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "On the hunt for some tasty Pok\u00e9 Beans, Scraggy runs into a peculiar Pok\u00e9mon\u2014Mimikyu! Mimikyu wants to be friends, but Scraggy only wants snacks. Watch as they chase each other toward a potential friendship.",
@@ -918,8 +918,8 @@
                 "size": 1347326092
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Spend a cozy, snowy day in a house full of friendly Pok\u00e9mon.",
                 "is_country_whitelist": false,
@@ -5294,8 +5294,8 @@
                 "size": 2674399569
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "8",
                 "description": "Lusamine has been captured by an Ultra Beast and swept away through an Ultra Wormhole, but everyone is determined to get her back safely!",
                 "is_country_whitelist": false,
@@ -9365,8 +9365,8 @@
                 "size": 2421197368
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "41",
                 "description": "Three of our heroes are teaming up for the annual Charjabug race, an electrifying event with shocking results!",
                 "is_country_whitelist": false,
