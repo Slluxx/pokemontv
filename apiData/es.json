@@ -9536,8 +9536,8 @@
         "channel_name": "Los Campeones de la Liga de Johto",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "Nuestros h\u00e9roes de camino a Johto llegan finalmente a la siguiente parada : \u00a1Ciudad Trigal!",
                 "is_country_whitelist": false,
@@ -9586,8 +9586,8 @@
                 "size": 2569137335
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "2",
                 "description": "Blanca lleva a nuestros h\u00e9roes a la granja Miltank de su t\u00edo, que est\u00e1 a las afueras de Ciudad Trigal.",
                 "is_country_whitelist": false,
@@ -9636,8 +9636,8 @@
                 "size": 2594370818
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "3",
                 "description": "Antes de marcharse de Ciudad Trigal, el exuberante productor de Radio Pok\u00e9 Charla insiste en que Ash aparezca en un programa especial para hablar de la Medalla Planicie que ha ganado.",
                 "is_country_whitelist": false,
