@@ -9536,8 +9536,8 @@
         "channel_name": "Los Campeones de la Liga de Johto",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Nuestros h\u00e9roes de camino a Johto llegan finalmente a la siguiente parada : \u00a1Ciudad Trigal!",
                 "is_country_whitelist": false,
@@ -9586,8 +9586,8 @@
                 "size": 2569137335
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Blanca lleva a nuestros h\u00e9roes a la granja Miltank de su t\u00edo, que est\u00e1 a las afueras de Ciudad Trigal.",
                 "is_country_whitelist": false,
