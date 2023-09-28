@@ -772,8 +772,8 @@
         "channel_name": "Pok\u00e9mon: Lucario and the Mystery of Mew",
         "media": [
             {
-                "count": 2,
-                "rating": 3,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "When Ash inadvertently summons a Lucario from long ago, he must convince the embittered Pok\u00e9mon to become a hero and help rescue Pikachu from a mischievous Mew.",
                 "is_country_whitelist": false,
@@ -2148,8 +2148,8 @@
         "channel_name": "Pok\u00e9mon: Twilight Wings",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "The initial chapter of the new seven-episode animated series set in the Galar region is now available for you to enjoy.",
                 "is_country_whitelist": false,
@@ -2198,8 +2198,8 @@
                 "size": 1671080928
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "After losing to Galar\u2019s Champion, Leon, Fighting-type Gym Leader Bea sets out with her Pok\u00e9mon to elevate their training. Will she find her inner resolve and grow stronger, or will she succumb to the pressure of defeat?",
                 "is_country_whitelist": false,
