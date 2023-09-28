@@ -426,7 +426,7 @@
         "channel_name": "Pok\u00e9mon : Lucario et le Myst\u00e8re de Mew",
         "media": [
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "Quand Sacha provoque accidentellement la venue\nd\u2019un ancien Lucario, il doit convaincre le Pok\u00e9mon aigri de devenir un h\u00e9ros en\nprot\u00e9geant Pikachu de l\u2019attaque d\u2019un m\u00e9chant Mew.",
@@ -23075,8 +23075,8 @@
                 "size": 276530055
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Rondoudou cherche quelque chose dans les bois, mais en vain. M\u00e9tamorph voit que Rondoudou est triste, et d\u00e9cide de se transformer. D\u00e9couvrons en quoi M\u00e9tamorph s\u2019est transform\u00e9\u00a0!",
                 "is_country_whitelist": false,
