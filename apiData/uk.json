@@ -9265,8 +9265,8 @@
                 "size": 2458297528
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "30",
                 "description": "An unusual assignment at the Pok\u00e9mon School gives our heroes a surprising opportunity to learn, grow, and have fun at the same time!",
                 "is_country_whitelist": false,
@@ -9615,8 +9615,8 @@
                 "size": 2400358044
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "37",
                 "description": "As if Ash\u2019s victory at his grand trial wasn\u2019t monumental enough, an unexpected transformation makes a memorable field trip even more momentous!",
                 "is_country_whitelist": false,
