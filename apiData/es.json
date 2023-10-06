@@ -9715,8 +9715,8 @@
                 "size": 2554827720
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "4",
                 "description": "Justo cuando Ash y sus amigos llegan a una nueva isla, escuchan unos gritos pidiendo ayuda.",
                 "is_country_whitelist": false,
@@ -9765,8 +9765,8 @@
                 "size": 2640098373
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "5",
                 "description": "Nuestros h\u00e9roes pierden por poco el ferry hacia Isla Roca Roja, pero tienen la suerte de encontrarse con una investigadora Pok\u00e9mon y buceadora de alta mar que les ofrece llevarles a trav\u00e9s del estrecho en su barco.",
                 "is_country_whitelist": false,
@@ -9815,8 +9815,8 @@
                 "size": 2629080447
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "6",
                 "description": "Despu\u00e9s de llegar a la ciudad donde se celebra la ronda preliminar de la Copa Remolino, Ash y Misty participan y consiguen las dos victorias necesarias para pasar a la final.",
                 "is_country_whitelist": false,
