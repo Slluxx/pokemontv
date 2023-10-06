@@ -726,8 +726,8 @@
                 "size": 2458297528
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "5",
                 "description": "A sleepover at Professor Kukui\u2019s house sets the stage for fun, friendship, and unexpected adventure!",
                 "is_country_whitelist": false,
@@ -776,8 +776,8 @@
                 "size": 2647174144
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "13",
                 "description": "Our heroes are wondering about Komala\u2019s sleep patterns when they\u2019re interrupted by a familiar visitor!",
                 "is_country_whitelist": false,
@@ -7787,8 +7787,8 @@
                 "size": 2669420264
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "5",
                 "description": "A sleepover at Professor Kukui\u2019s house sets the stage for fun, friendship, and unexpected adventure!",
                 "is_country_whitelist": false,
@@ -8187,8 +8187,8 @@
                 "size": 2608176722
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "13",
                 "description": "Our heroes are wondering about Komala\u2019s sleep patterns when they\u2019re interrupted by a familiar visitor!",
                 "is_country_whitelist": false,
