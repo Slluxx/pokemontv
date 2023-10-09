@@ -11065,8 +11065,8 @@
                 "size": 2661442588
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "31",
                 "description": "Ash, Misty y Brock se enfrentan a muchos obst\u00e1culos de camino hacia el \u00e9xito, algunos metaf\u00f3ricos y otros en forma de Magcargo gigantes que se niegan a quitarse de en medio y dar paso a los viajeros.",
                 "is_country_whitelist": false,
@@ -11115,8 +11115,8 @@
                 "size": 2619716812
             },
             {
-                "count": 1,
-                "rating": 4,
+                "count": 0,
+                "rating": 1,
                 "episode": "32",
                 "description": "Brock rara vez conoce a una chica que no encuentra fascinante, pero cuando se encuentran con una jovencita muy especial, tanto Ash como Misty no pueden negar que tiene algo m\u00e1gico.",
                 "is_country_whitelist": false,
@@ -12265,8 +12265,8 @@
                 "size": 2589408033
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "55",
                 "description": "Dentro del Santuario de Ho-Oh arde la Llama Sagrada que debe encender la antorcha del Congreso Plata, pero un Sneasel salvaje y dos amigos suyos no dejan que nadie se acerque. \u00bfPodr\u00e1n Ash y sus amigos encender la antorcha?",
                 "is_country_whitelist": false,
