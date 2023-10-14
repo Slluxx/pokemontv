@@ -5,8 +5,8 @@
         "channel_name": "POK\u00c9TOON",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Wanneer hij op zoek is naar smakelijke Pok\u00e9 Beans, stuit Scraggy op een bijzondere Pok\u00e9mon: Mimikyu! Mimikyu wil graag vrienden worden, maar het enige wat Scraggy wil zijn lekkere hapjes. Kijk hoe ze achter elkaar aan zitten en ontdek hoe hun vriendschap vorm krijgt.",
                 "is_country_whitelist": false,
@@ -6168,8 +6168,8 @@
                 "size": 2656262465
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "13",
                 "description": "Een traditie van Alola maakt iedereen enthousiast en Ash besluit mee te doen.",
                 "is_country_whitelist": false,
