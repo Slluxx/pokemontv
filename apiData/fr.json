@@ -4402,8 +4402,8 @@
         "channel_name": "Pok\u00e9mon, la s\u00e9rie : Soleil et Lune \u2013 Ultra-Aventures",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "Un r\u00eave \u00e9trange donne comme mission \u00e0 notre h\u00e9ros de trouver sa vraie signification. !",
                 "is_country_whitelist": false,
@@ -25533,8 +25533,8 @@
                 "size": 429986650
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Vois si la dr\u00f4le de musique et la cavalcade de Pok\u00e9mon te captivent et te bercent. Elles vont endormir ces petits Pok\u00e9mon, c\u2019est s\u00fbr\u00a0!",
                 "is_country_whitelist": false,
@@ -27225,8 +27225,8 @@
                 "size": 359299571
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Vois si la dr\u00f4le de musique et la cavalcade de Pok\u00e9mon te captivent et te bercent. Elles vont endormir ces petits Pok\u00e9mon, c\u2019est s\u00fbr\u00a0!",
                 "is_country_whitelist": false,
