@@ -1560,7 +1560,7 @@
         "channel_name": "Bidoof\u2019s Big Stand",
         "media": [
             {
-                "count": 1,
+                "count": 0,
                 "rating": 1,
                 "episode": "",
                 "description": "A bumbling Bidoof with a tendency to bite off more than it can chew finds itself between a rock and a hard place as it embarks on a journey to find its place in the world.",
@@ -21210,8 +21210,8 @@
                 "size": 2871019435
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "33",
                 "description": "While riding around the Orange Islands on his Lapras, Ash finds a mysterious message in a bottle, which leads the gang on a new adventure.",
                 "is_country_whitelist": false,
