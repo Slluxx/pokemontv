@@ -6823,8 +6823,8 @@
         "channel_name": "Pok\u00e9mon, la s\u00e9rie : Soleil et Lune",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Un s\u00e9jour qui semble au d\u00e9part n\u2019\u00eatre que de simples vacances pour notre h\u00e9ro se transforme bient\u00f4t en une promesse de nouvelles aventures passionnantes !",
                 "is_country_whitelist": false,
