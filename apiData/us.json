@@ -1575,8 +1575,8 @@
                 "size": 2263209183
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "With a battle against Celestine looming, Ava rises to the challenge and enters to compete at the Regional Championships.",
                 "is_country_whitelist": false,
@@ -1625,8 +1625,8 @@
                 "size": 2397274318
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "After a major upset at Regionals, Ava continues her journey on the path of the Pok\u00e9mon Championship Series at International Championships.",
                 "is_country_whitelist": false,
@@ -9915,8 +9915,8 @@
                 "size": 3301605800
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "34",
                 "description": "The Ultra Guardians are being called upon again, but this time, they\u2019re on double duty!",
                 "is_country_whitelist": false,
