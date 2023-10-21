@@ -5776,8 +5776,8 @@
                 "size": 2669420264
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "5",
                 "description": "A sleepover at Professor Kukui\u2019s house sets the stage for fun, friendship, and unexpected adventure!",
                 "is_country_whitelist": false,
@@ -26646,8 +26646,8 @@
                 "size": 363409193
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Throwing a party isn't an easy job, but singing the Happy Birthday song will be!  Make someone's birthday even happier by singing along!",
                 "is_country_whitelist": false,
