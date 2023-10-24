@@ -4081,8 +4081,8 @@
                 "size": 2826802668
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "2",
                 "description": "Nossos her\u00f3is e Nebulino se conhecem melhor.",
                 "is_country_whitelist": false,
@@ -4131,8 +4131,8 @@
                 "size": 2883564996
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "3",
                 "description": "Enquanto nossos her\u00f3is exploram uma parte do Para\u00edso Aether, a Equipe Rocket est\u00e1 ocupada explorando outra.",
                 "is_country_whitelist": false,
@@ -4331,8 +4331,8 @@
                 "size": 2823543430
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "7",
                 "description": "Apesar do plano original sinistro de F\u00e1bio ter dado errado, ele n\u00e3o vai desistir de seus sonhos!",
                 "is_country_whitelist": false,
@@ -26213,8 +26213,8 @@
                 "size": 103184577
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Parece que Pok\u00e9mon n\u00e3o se importam de marchar se a m\u00fasica for divertida!",
                 "is_country_whitelist": false,
