@@ -4681,8 +4681,8 @@
                 "size": 2870674603
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "14",
                 "description": "Rotom Dex embarca em uma jornada eletrizante, querendo ou n\u00e3o.",
                 "is_country_whitelist": false,
@@ -26213,8 +26213,8 @@
                 "size": 103184577
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Parece que Pok\u00e9mon n\u00e3o se importam de marchar se a m\u00fasica for divertida!",
                 "is_country_whitelist": false,
