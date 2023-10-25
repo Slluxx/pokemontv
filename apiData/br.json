@@ -4281,8 +4281,8 @@
                 "size": 2830135440
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "6",
                 "description": "A L\u00edlian est\u00e1 em uma miss\u00e3o para deixar seu passado para tr\u00e1s de uma vez por todas.",
                 "is_country_whitelist": false,
@@ -4581,8 +4581,8 @@
                 "size": 2882320621
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "12",
                 "description": "Os Professores Nogueira e Bruna v\u00e3o se casar e os nossos her\u00f3is sabem o que fazer para ajudar!",
                 "is_country_whitelist": false,
