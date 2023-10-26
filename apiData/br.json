@@ -4381,8 +4381,8 @@
                 "size": 2880604425
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "8",
                 "description": "Samina foi capturada por uma Ultracriatura e levada para uma Ultrafenda Espacial, mas todo mundo est\u00e1 determinado a traz\u00ea-la de volta em seguran\u00e7a!",
                 "is_country_whitelist": false,
@@ -4781,8 +4781,8 @@
                 "size": 2882685639
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "16",
                 "description": "Uma lembran\u00e7a distante dividida por Lul\u00fa e Vit\u00f3ria \u00e9 revivida de um jeito agridoce.",
                 "is_country_whitelist": false,
@@ -4831,8 +4831,8 @@
                 "size": 2862761632
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "17",
                 "description": "Uma viagem para o Monte Lanakila d\u00e1 aos nossos her\u00f3is a oportunidade de aprender e crescer de maneiras que nunca imaginariam.",
                 "is_country_whitelist": false,
