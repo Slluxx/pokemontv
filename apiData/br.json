@@ -4431,8 +4431,8 @@
                 "size": 2866460617
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "9",
                 "description": "Nossos her\u00f3is est\u00e3o determinados a resgatar Samina e a ajuda vem de fontes inesperadas e surpreendentes.",
                 "is_country_whitelist": false,
@@ -4881,8 +4881,8 @@
                 "size": 2886760441
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "18",
                 "description": "A apari\u00e7\u00e3o de outra Ultracriatura compele nossos her\u00f3is a assumir novos pap\u00e9is e tomar o controle.",
                 "is_country_whitelist": false,
@@ -4931,8 +4931,8 @@
                 "size": 2889901416
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "19",
                 "description": "Uma apari\u00e7\u00e3o inesperada de um astuto visitante est\u00e1 virando a Equipe Rocket de cabe\u00e7a para baixo.",
                 "is_country_whitelist": false,
