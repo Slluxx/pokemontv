@@ -4681,8 +4681,8 @@
                 "size": 2870674603
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "14",
                 "description": "Rotom Dex embarca em uma jornada eletrizante, querendo ou n\u00e3o.",
                 "is_country_whitelist": false,
@@ -4731,8 +4731,8 @@
                 "size": 2895521890
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "15",
                 "description": "Um encontro inesperado com o passado coloca presente e futuro em perigo.",
                 "is_country_whitelist": false,
