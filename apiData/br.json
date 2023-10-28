@@ -5081,8 +5081,8 @@
                 "size": 2826620182
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "22",
                 "description": "O ex-aluno da Escola Pok\u00e9mon, Luan, ensina para nossos her\u00f3is uma atividade pela qual tem muito carinho.",
                 "is_country_whitelist": false,
@@ -5131,8 +5131,8 @@
                 "size": 2853060864
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "23",
                 "description": "Nossos her\u00f3is est\u00e3o prestes a dar as boas-vindas a uma adi\u00e7\u00e3o inesperada na fam\u00edlia, inesperada de formas fant\u00e1sticas.",
                 "is_country_whitelist": false,
@@ -5231,8 +5231,8 @@
                 "size": 2870660837
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "25",
                 "description": "Um desastre em potencial amea\u00e7a o futuro da regi\u00e3o de Alola, mas os Ultraguardi\u00f5es est\u00e3o prontos, dispostos e aptos a lidar com isso!",
                 "is_country_whitelist": false,
