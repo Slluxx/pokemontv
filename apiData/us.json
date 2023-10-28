@@ -12636,8 +12636,8 @@
                 "size": 2371366652
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "40",
                 "description": "Lana and Popplio are working hard to master their Z-Move, but their progress is soon to grow by leaps and bounds!",
                 "is_country_whitelist": false,
@@ -12686,8 +12686,8 @@
                 "size": 2421197368
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "41",
                 "description": "Three of our heroes are teaming up for the annual Charjabug race, an electrifying event with shocking results!",
                 "is_country_whitelist": false,
@@ -12736,8 +12736,8 @@
                 "size": 2423552018
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "42",
                 "description": "A celebratory Pok\u00e9mon School class trip turns out to be a reunion no one will ever forget!",
                 "is_country_whitelist": false,
@@ -12857,8 +12857,8 @@
         "channel_name": "Pok\u00e9mon: Master Quest",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "1",
                 "description": "In a scuffle with Team Rocket, Ash and friends are thrown from the ship bearing them to the Whirl Islands.",
                 "is_country_whitelist": false,
