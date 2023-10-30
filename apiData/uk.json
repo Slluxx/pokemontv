@@ -558,8 +558,8 @@
                 "size": 2688830431
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "15",
                 "description": "As our heroes travel through the forest, Dawn stops at a spring by a river to refill her water bottle. A wild Aggron suddenly attacks her, and she falls into the river.",
                 "is_country_whitelist": false,
@@ -27767,8 +27767,8 @@
                 "size": 580816998
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "",
                 "description": "Teams of Pikachu and Eevee are giving their best in a relay race. Which team do you think will win the match? Let\u2019s cheer for both of them!",
                 "is_country_whitelist": false,
