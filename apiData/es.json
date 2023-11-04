@@ -9044,8 +9044,8 @@
         "channel_name": "Pok\u00e9mon Advanced",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "El intento fallido del Team Rocket por atrapar a Pikachu ha dejado al peque\u00f1o Pok\u00e9mon amarillo muy enfermo. Villa Ra\u00edz no tiene Centro Pok\u00e9mon as\u00ed que Ash se dirige al Profesor Abedul en busca de ayuda.",
                 "is_country_whitelist": false,
