@@ -4402,8 +4402,8 @@
         "channel_name": "Pok\u00e9mon \u2013 Die TV-Serie: Sonne & Mond \u2013 Ultra-Abenteuer",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "Nach einem besonders lebhaften Traum ist unser Held entschlossen, dessen wahre Bedeutung herauszufinden.",
                 "is_country_whitelist": false,
