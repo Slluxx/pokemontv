@@ -5381,8 +5381,8 @@
                 "size": 2889245203
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "28",
                 "description": "Tem uma grande competi\u00e7\u00e3o de culin\u00e1ria vindo para Alola e um participante surpresa vai se juntar \u00e0 divers\u00e3o.",
                 "is_country_whitelist": false,
@@ -5431,8 +5431,8 @@
                 "size": 2815883729
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "29",
                 "description": "A Equipe Rocket parece estar parada no tempono lugar, mas solu\u00e7\u00f5es podem vir de onde menos se espera.",
                 "is_country_whitelist": false,
@@ -5531,8 +5531,8 @@
                 "size": 2834270072
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "31",
                 "description": "Ash est\u00e1 determinado a treinar com Tapu Bulu e Tapu Bulu est\u00e1 determinado ae ser imprevis\u00edvel como sempre.",
                 "is_country_whitelist": false,
@@ -5581,8 +5581,8 @@
                 "size": 2879165865
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "32",
                 "description": "Ash e Pikachu est\u00e3o prontos para a revanche da sua pr\u00e9-prova contra o kahuna da ilha, mas Neves tem uma ideia diferenteoutros planos!",
                 "is_country_whitelist": false,
