@@ -5481,8 +5481,8 @@
                 "size": 2853311583
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "30",
                 "description": "Uma s\u00e9rie de pequenas provas criam o caminho para o objetivo do Ash, -  uma grande prova.",
                 "is_country_whitelist": false,
@@ -5631,8 +5631,8 @@
                 "size": 2828943907
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "33",
                 "description": "A grande prova de Ash na Ilha de Ula-uUla est\u00e1 a todo vapor e o kKahuna tem muitas reviravoltas e surpresas guardadas para a batalha!",
                 "is_country_whitelist": false,
@@ -5681,8 +5681,8 @@
                 "size": 2870230464
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "34",
                 "description": "Os Ultraguardi\u00f5es est\u00e3o sendo chamados de novo, mas destsa vez, eles est\u00e3o em uma jornada dupla!",
                 "is_country_whitelist": false,
@@ -5731,8 +5731,8 @@
                 "size": 2908919397
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "35",
                 "description": "Nossos her\u00f3is est\u00e3o observando as estrelas, sem suspeitar do espet\u00e1culo que os aguarda no c\u00e9u noturno.",
                 "is_country_whitelist": false,
@@ -19420,8 +19420,8 @@
                 "size": 240330580
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "Prepare-se para conhecer Pok\u00e9mon de maneiras novas e divertidas! Coloque seu dedo na tela e imagine como \u00e9 jogar com seus amigos Pok\u00e9mon. Experimente em smartphones e tablets!",
                 "is_country_whitelist": false,
