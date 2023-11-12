@@ -10687,8 +10687,8 @@
                 "size": 2304050432
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "25",
                 "description": "There\u2019s a Z-Crystal ripe for the picking, but are the unlikely pickers up to the task?",
                 "is_country_whitelist": false,
@@ -13392,8 +13392,8 @@
                 "size": 2676459224
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "35",
                 "description": "May enters Beautifly in the beauty contest, but Team Rocket is too late to enter their Dustox. At the competitions, the person in line right before May is none other than her rival Drew.",
                 "is_country_whitelist": false,
