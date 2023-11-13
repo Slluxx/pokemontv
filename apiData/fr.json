@@ -18770,7 +18770,7 @@
                 "size": 359299571
             },
             {
-                "count": 1,
+                "count": 0,
                 "rating": 5,
                 "episode": "",
                 "description": "Quand Ludicolo et \u00c9voli exploitent leur propre ferme, il n\u2019y a pas de quoi s\u2019ennuyer. Chantez avec eux et amusez-vous avec les amis de la ferme\u00a0!",
@@ -18821,7 +18821,7 @@
             },
             {
                 "count": 1,
-                "rating": 5,
+                "rating": 1,
                 "episode": "",
                 "description": "Quand vous ne pouvez pas cacher votre joie, chantez et dansez avec des amis Pok\u00e9mon. Frappez des mains\u00a0! Frappez du pied\u00a0! Sautez\u00a0!",
                 "is_country_whitelist": false,
