@@ -7523,8 +7523,8 @@
                 "size": 2392817946
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "14",
                 "description": "The time has come for Lillie to address her fears, and having a new friend is the perfect way to do it!",
                 "is_country_whitelist": false,
@@ -10778,8 +10778,8 @@
                 "size": 2676459224
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "35",
                 "description": "May enters Beautifly in the beauty contest, but Team Rocket is too late to enter their Dustox. At the competitions, the person in line right before May is none other than her rival Drew.",
                 "is_country_whitelist": false,
