@@ -1381,8 +1381,8 @@
         "channel_name": "Pok\u00e9mon, a S\u00e9rie: Sol e Lua \u2013 Ultralendas",
         "media": [
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "1",
                 "description": "A turma da Escola Pok\u00e9mon est\u00e1 fazendo uma pe\u00e7a com mais reviravoltas do que se esperava.",
                 "is_country_whitelist": false,
@@ -1531,8 +1531,8 @@
                 "size": 2911473315
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "4",
                 "description": "Enquanto Ash leva uma encomenda para o Para\u00edso Aether, um trio de encrenqueiros decide capturar Pok\u00e9mon por l\u00e1!",
                 "is_country_whitelist": false,
@@ -6452,8 +6452,8 @@
                 "size": 2609856865
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "48",
                 "description": "Chegou a hora do Real Mascarado encarar seu antigo rival no ringue, mas primeiro, h\u00e1 alguns obst\u00e1culos que precisam ser resolvidos.",
                 "is_country_whitelist": false,
