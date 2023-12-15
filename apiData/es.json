@@ -9315,8 +9315,8 @@
                 "size": 2855983848
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 4,
                 "episode": "5",
                 "description": "Ash y sus amigos van caminando por el desierto, cuando se desmayan por el calor. Son rescatados por la familia Winstrate.",
                 "is_country_whitelist": false,
@@ -13636,8 +13636,8 @@
                 "size": 2620725747
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "39",
                 "description": "Despu\u00e9s de llegar a Ciudad Malvalona, Ash y la pandilla ven una se\u00f1al que indica que quien pueda llegar a la Casa Treta ganar\u00e1 un suministro de Pok\u00e9cubos de por vida. Ash y la pandilla deciden probar suerte.",
                 "is_country_whitelist": false,
