@@ -9965,8 +9965,8 @@
                 "size": 2691047491
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "18",
                 "description": "Ash y sus amigos andan por el Valle de Acero de camino al Gimnasio Petalia, cuando se encuentran un Torkoal que est\u00e1 siendo atacado por un Skarmory y varios Magnemite.",
                 "is_country_whitelist": false,
@@ -10015,8 +10015,8 @@
                 "size": 2695236169
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "19",
                 "description": "Ash y sus amigos vuelven a Ciudad Malvalona, donde se encuentran un festival organizado por el Team Rocket. Dejan a todos sus Pok\u00e9mon fuera para disfrutar de las festividades, y el Team Rocket trata de robarlos.",
                 "is_country_whitelist": false,
@@ -10415,8 +10415,8 @@
                 "size": 2659357721
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "27",
                 "description": "Ash y sus amigos casi han llegado a Ciudad Petalia. Ash no ve la hora de luchar con el L\u00edder de Gimnasio, Norman, mientras que Aura y Max desean volver a ver a su padres.",
                 "is_country_whitelist": false,
