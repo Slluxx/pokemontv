@@ -10865,8 +10865,8 @@
                 "size": 2693249136
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "36",
                 "description": "Los chicos est\u00e1n cruzando una monta\u00f1a en la niebla, y Ash tropieza y se desliza por un acantilado con Pikachu. Se encuentra con una misteriosa mujer que canta una extra\u00f1a canci\u00f3n.",
                 "is_country_whitelist": false,
@@ -10915,8 +10915,8 @@
                 "size": 2694642879
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "37",
                 "description": "Aura va camino hacia el Concurso de Pueblo Rubello, donde se necesita al menos una cinta para entrar.",
                 "is_country_whitelist": false,
@@ -10965,8 +10965,8 @@
                 "size": 2648462382
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "38",
                 "description": "\u00a1Empieza el Concurso Pok\u00e9mon de Rubello! Savannah sigue nerviosa, pero Aura est\u00e1 muy segura de s\u00ed misma.  Ambas lo hacen bien en las actuaciones de la primera ronda.",
                 "is_country_whitelist": false,
@@ -11165,8 +11165,8 @@
                 "size": 2657350152
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "42",
                 "description": "El Team Rocket se muere de hambre y acaban robando manzanas de un grupo de Shroomish. Algunos de los Shroomish se enfadan tanto que evolucionan a Breloom y luego atacan al Team Rocket.",
                 "is_country_whitelist": false,
