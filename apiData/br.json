@@ -2681,8 +2681,8 @@
                 "size": 2896584671
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "27",
                 "description": "Chris est\u00e1 animado para competir em sua corrida favorita, mas vencer nesse caso \u00e9 muito mais do que chegar em primeiro lugar!",
                 "is_country_whitelist": false,
@@ -2731,8 +2731,8 @@
                 "size": 2942583429
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "28",
                 "description": "O que come\u00e7a como uma viagem de pesca comum acaba se transforma numa aventura maior do que qualquer um poderia imaginar.",
                 "is_country_whitelist": false,
@@ -3031,8 +3031,8 @@
                 "size": 2925250058
             },
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "34",
                 "description": "Enquanto Ash estava preso em uma grande aventura, seus Pok\u00e9mon estavam curtindo sua pr\u00f3pria aventura.",
                 "is_country_whitelist": false,
