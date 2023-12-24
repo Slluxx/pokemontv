@@ -1681,8 +1681,8 @@
                 "size": 2886591317
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "7",
                 "description": "Um Eevee amante do mar viajou muitos quil\u00f4metros e onde uma jornada termina outra est\u00e1 prestes a come\u00e7ar.",
                 "is_country_whitelist": false,
@@ -3231,8 +3231,8 @@
                 "size": 2954830086
             },
             {
-                "count": 1,
-                "rating": 5,
+                "count": 0,
+                "rating": 1,
                 "episode": "38",
                 "description": "\u00c0 medida que a Liga Pok\u00e9mon de Alola avan\u00e7a, amigos e rivais d\u00e3o tudo de si!",
                 "is_country_whitelist": false,
