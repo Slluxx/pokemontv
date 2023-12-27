@@ -226,7 +226,7 @@
         "channel_name": "POK\u00c9TOON",
         "media": [
             {
-                "count": 0,
+                "count": 1,
                 "rating": 1,
                 "episode": "",
                 "description": "On the hunt for some tasty Pok\u00e9 Beans, Scraggy runs into a peculiar Pok\u00e9mon\u2014Mimikyu! Mimikyu wants to be friends, but Scraggy only wants snacks. Watch as they chase each other toward a potential friendship.",
@@ -1239,8 +1239,8 @@
         "channel_name": "Bidoof\u2019s Big Stand",
         "media": [
             {
-                "count": 0,
-                "rating": 1,
+                "count": 1,
+                "rating": 5,
                 "episode": "",
                 "description": "A bumbling Bidoof with a tendency to bite off more than it can chew finds itself between a rock and a hard place as it embarks on a journey to find its place in the world.",
                 "is_country_whitelist": false,
