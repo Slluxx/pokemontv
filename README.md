@@ -1,5 +1,14 @@
 # PokemonTV
 
+<br/>
+
+## NOTE (01/07/2024)
+
+[Due to the official client and website sunsetting on March 28th 2024](https://bsky.app/profile/serebii.bsky.social/post/3kiigj55q6e2x), i will Archive this repository. I created this 3rd party client over 2 years ago and set the repository up in a way that it automatically updates itself. Since then, the API branch has made over 24.650 Commits! Quite insane that it still worked after all this time without me having to fix things.
+However the time has come to shut down the service. May someone else carry on and create something even better. Thank you!
+
+<br/><br/>
+
 Unofficial 3rd party PokemonTV website / client which supports a number of devices. Binarys are build for the Nintendo Switch. Content is fetched from the official API.
 
 
